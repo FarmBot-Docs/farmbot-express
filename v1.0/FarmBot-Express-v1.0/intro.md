@@ -107,3 +107,7 @@ a[title="Guides"]:hover {
 
 <meta name="theme-color" content="#942401">
 
+
+# What's next?
+
+ * [Supporting Infrastructure](../FarmBot-Express-v1.0/supporting-infrastructure.md)

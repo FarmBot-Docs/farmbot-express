@@ -71,3 +71,10 @@ a[title="Guides"]:hover {
 
 <meta name="theme-color" content="#942401">
 
+
+# What's next?
+
+ * [Construct the Gantry](../FarmBot-Express-v1.0/assembly/construct-the-gantry.md)
+ * [Attach the Z-axis](../FarmBot-Express-v1.0/assembly/attach-the-z-axis.md)
+ * [Mount FarmBot to the Bed](../FarmBot-Express-v1.0/assembly/mount-farmbot-to-the-bed.md)
+ * [Plug Everything In](../FarmBot-Express-v1.0/assembly/plug-everything-in.md)

@@ -18,7 +18,7 @@ The table below lists all of the components used in FarmBot Express, Express XL,
 |[Drivetrain](bom/drivetrain.md)  |25                            |$224.00                       |25                            |$294.00                       |25                            |$514.00
 |[Electronics and Wiring](bom/electronics-and-wiring.md)|27                            |$622.00                       |27                            |$727.00                       |27                            |$897.00
 |[Tubing](bom/tubing.md)          |23                            |$107.00                       |23                            |$115.00                       |23                            |$135.00
-|[Supporting Infrastructure](doc:building-a-raised-bed) *****|50                            |$200.00                       |80                            |$500.00                       |200                           |$1200.00
+|[Supporting Infrastructure](../FarmBot-Express-v1.0/supporting-infrastructure/building-a-fixed-raised-bed.md) *****|50                            |$200.00                       |80                            |$500.00                       |200                           |$1200.00
 |**GRAND TOTAL**               |**410**                       |**$1,663.80**                 |**473**                       |**2,237.20**                  |**593**                       |**$3,347.20**
 
 ***** Supporting infrastructure is not included in FarmBot kits, but has been included here for estimation purposes. Part quantity and price will vary.

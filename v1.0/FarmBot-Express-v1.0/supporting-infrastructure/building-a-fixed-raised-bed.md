@@ -12,7 +12,7 @@ Building a fixed raised bed is the recommended method for installing a FarmBot *
 <iframe width="100%" height="480" src="https://sketchfab.com/models/5002768ae94f4013a7dad664bdfc42ad/embed?ui_controls=0&amp;ui_infos=0&amp;ui_related=0" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
 ## Maximum raised bed size
-We recommend building your raised bed as large as possible to get the most value out of your FarmBot. See the [economies of scale](doc:high-level-overview#economies-of-scale) section for more information on maximizing FarmBot value.
+We recommend building your raised bed as large as possible to get the most value out of your FarmBot. See the [economies of scale](../../FarmBot-Express-v1.0/intro.md#economies-of-scale) section for more information on maximizing FarmBot value.
 
 Use the dimension guidelines in the table below to plan your raised bed design.
 

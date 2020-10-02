@@ -35,3 +35,15 @@ a[title="Guides"]:hover {
 
 <meta name="theme-color" content="#942401">
 
+
+# What's next?
+
+ * [Electronics Box](pre-assembly/electronics-box.md)
+ * [Cable Carriers](pre-assembly/cable-carriers.md)
+ * [Left Gantry Column](pre-assembly/left-gantry-column.md)
+ * [Right Gantry Column](pre-assembly/right-gantry-column.md)
+ * [Gantry Main Beam](pre-assembly/gantry-main-beam.md)
+ * [Cross-Slide](pre-assembly/cross-slide.md)
+ * [Z-Axis](pre-assembly/z-axis.md)
+ * [Cross-Slide + Z-Axis](pre-assembly/cross-slide-z-axis.md)
+ * [Hardware Box](pre-assembly/hardware-box.md)

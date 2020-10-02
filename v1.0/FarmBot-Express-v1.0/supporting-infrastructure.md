@@ -54,3 +54,8 @@ a[title="Guides"]:hover {
 
 <meta name="theme-color" content="#942401">
 
+
+# What's next?
+
+ * [Building a Fixed Raised Bed](../FarmBot-Express-v1.0/supporting-infrastructure/building-a-fixed-raised-bed.md)
+ * [Building a Mobile Raised Bed](../FarmBot-Express-v1.0/supporting-infrastructure/building-a-mobile-raised-bed.md)

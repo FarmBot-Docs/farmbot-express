@@ -89,3 +89,7 @@ a[title="Guides"]:hover {
 
 <meta name="theme-color" content="#942401">
 
+
+# What's next?
+
+ * [Mount FarmBot to the Bed](../assembly/mount-farmbot-to-the-bed.md)

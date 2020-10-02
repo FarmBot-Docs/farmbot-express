@@ -44,3 +44,7 @@ a[title="Guides"]:hover {
 
 <meta name="theme-color" content="#942401">
 
+
+# What's next?
+
+ * [Faulty E-Stop Button](troubleshooting/faulty-e-stop-button.md)

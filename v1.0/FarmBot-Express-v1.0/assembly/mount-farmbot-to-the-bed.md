@@ -66,3 +66,7 @@ a[title="Guides"]:hover {
 
 <meta name="theme-color" content="#942401">
 
+
+# What's next?
+
+ * [Plug Everything In](../assembly/plug-everything-in.md)
