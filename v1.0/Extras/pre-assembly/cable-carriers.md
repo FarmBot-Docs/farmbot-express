@@ -1,7 +1,7 @@
 ---
 title: "Cable Carriers"
 slug: "cable-carriers"
-excerpt: "Pre-assembly instructions for the FarmBot Express and Express XL cable carriers"
+description: "Pre-assembly instructions for the FarmBot Express and Express XL cable carriers"
 ---
 
 * toc
@@ -12,13 +12,13 @@ Each cable carrier has two **end pieces** that are slightly different, and will 
 
 The cables must be inserted into the cable carriers in the correct orientation so that the connectors on each end can be plugged into the electronics board, motor, peripheral, etc.
 
-![X and Y Axis Cable Carrier End Piece Orientation.jpg](X_and_Y_Axis_Cable_Carrier_End_Piece_Orientation.jpg)
+![X and Y Axis Cable Carrier End Piece Orientation.jpg](_images/X_and_Y_Axis_Cable_Carrier_End_Piece_Orientation.jpg)
 
 _X and Y axis Cable Carrier End Pieces_
 
 
 
-![Z Axis Cable Carrier End Piece Orientation.jpg](Z_Axis_Cable_Carrier_End_Piece_Orientation.jpg)
+![Z Axis Cable Carrier End Piece Orientation.jpg](_images/Z_Axis_Cable_Carrier_End_Piece_Orientation.jpg)
 
 _Z axis Cable Carrier End Pieces_
 
@@ -32,7 +32,7 @@ Insert the following items into the **x-axis cable carrier**. Each item must be 
 
 
 
-![Screen Shot 2020-01-15 at 6.08.43 PM.png](Screen_Shot_2020-01-15_at_6.08.43_PM.png)
+![Screen Shot 2020-01-15 at 6.08.43 PM.png](_images/Screen_Shot_2020-01-15_at_6.08.43_PM.png)
 
 # Y-axis cable carrier
 Insert the following items into the **y-axis cable carrier**. Each item must be fed through the cable carrier in the correct orientation as shown in the image. Furthermore, each item must have the correct length extending out of the cable carrier according to the table below.
@@ -47,11 +47,11 @@ Insert the following items into the **y-axis cable carrier**. Each item must be 
 
 
 
-![Screen Shot 2020-01-15 at 6.32.02 PM.png](Screen_Shot_2020-01-15_at_6.32.02_PM.png)
+![Screen Shot 2020-01-15 at 6.32.02 PM.png](_images/Screen_Shot_2020-01-15_at_6.32.02_PM.png)
 
 
 
-![Screen Shot 2020-01-15 at 6.32.15 PM.png](Screen_Shot_2020-01-15_at_6.32.15_PM.png)
+![Screen Shot 2020-01-15 at 6.32.15 PM.png](_images/Screen_Shot_2020-01-15_at_6.32.15_PM.png)
 
 # Z-axis cable carrier
 Insert the following items into the **z-axis cable carrier**. Each item must be fed through the cable carrier in the correct orientation as shown in the image. Furthermore, each item must have the correct length extending out of the cable carrier according to the table below.
@@ -65,19 +65,19 @@ Insert the following items into the **z-axis cable carrier**. Each item must be 
 
 
 
-![Screen Shot 2020-01-27 at 9.52.25 PM.png](Screen_Shot_2020-01-27_at_9.52.25_PM.png)
+![Screen Shot 2020-01-27 at 9.52.25 PM.png](_images/Screen_Shot_2020-01-27_at_9.52.25_PM.png)
 
 
 
-![Screen Shot 2020-01-15 at 6.46.30 PM.png](Screen_Shot_2020-01-15_at_6.46.30_PM.png)
+![Screen Shot 2020-01-15 at 6.46.30 PM.png](_images/Screen_Shot_2020-01-15_at_6.46.30_PM.png)
 
 The motor connector of the **z-axis motor cable (z-axis section)** will eventually be connected to the **z-axis motor**, by being routed up the z-axis through the vertical cable carrier supports. This part of the subassembly will happen later.
 
-![Screen Shot 2020-01-27 at 9.46.24 PM.png](Screen_Shot_2020-01-27_at_9.46.24_PM.png)
+![Screen Shot 2020-01-27 at 9.46.24 PM.png](_images/Screen_Shot_2020-01-27_at_9.46.24_PM.png)
 
 
 
-![Screen Shot 2020-01-27 at 9.47.08 PM.png](Screen_Shot_2020-01-27_at_9.47.08_PM.png)
+![Screen Shot 2020-01-27 at 9.47.08 PM.png](_images/Screen_Shot_2020-01-27_at_9.47.08_PM.png)
 
 
 

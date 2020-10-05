@@ -20,45 +20,45 @@ When sliding the cross-slide onto the main beam, do not force it on. If it feels
 
 
 
-![Screen Shot 2019-12-18 at 11.03.45 AM.png](Screen_Shot_2019-12-18_at_11.03.45_AM.png)
+![Screen Shot 2019-12-18 at 11.03.45 AM.png](_images/Screen_Shot_2019-12-18_at_11.03.45_AM.png)
 
 
 
-![Screen Shot 2019-12-18 at 11.01.13 AM.png](Screen_Shot_2019-12-18_at_11.01.13_AM.png)
+![Screen Shot 2019-12-18 at 11.01.13 AM.png](_images/Screen_Shot_2019-12-18_at_11.01.13_AM.png)
 
 # Step 2: Attach the y-axis belt
 Slide a **belt sleeve** onto the **y-axis belt** (the shortest belt in the kit). Then insert the belt into the slot in a **belt clip** and wrap the belt back onto itself such that the belt teeth mesh. There should be about 3cm of overlap. Then slide the belt sleeve over the meshed section. This should keep the belt from pulling out of the belt clip.
 
-![Screen Shot 2019-12-18 at 11.11.33 AM.png](Screen_Shot_2019-12-18_at_11.11.33_AM.png)
+![Screen Shot 2019-12-18 at 11.11.33 AM.png](_images/Screen_Shot_2019-12-18_at_11.11.33_AM.png)
 
 Secure the belt clip to the top of the **main beam** using two **M5 x 10mm screws** and one **20mm nut bar**. The belt clip should be flush with the end of the main beam, and the belt clip's tab should be on the same side of the main beam as the cross-slide plate.
 
-![Screen Shot 2019-12-18 at 11.18.06 AM.png](Screen_Shot_2019-12-18_at_11.18.06_AM.png)
+![Screen Shot 2019-12-18 at 11.18.06 AM.png](_images/Screen_Shot_2019-12-18_at_11.18.06_AM.png)
 
 Route the belt under the wheels of the cross-slide plate and over the y-axis motor pulley.
 
-![Screen Shot 2019-12-18 at 11.23.36 AM.png](Screen_Shot_2019-12-18_at_11.23.36_AM.png)
+![Screen Shot 2019-12-18 at 11.23.36 AM.png](_images/Screen_Shot_2019-12-18_at_11.23.36_AM.png)
 
 Attach another **belt clip** to the other end of the **main beam**, again ensuring the tab is on the same side of the main beam as the cross-slide plate.
 
-![Screen Shot 2019-12-18 at 11.27.08 AM.png](Screen_Shot_2019-12-18_at_11.27.08_AM.png)
+![Screen Shot 2019-12-18 at 11.27.08 AM.png](_images/Screen_Shot_2019-12-18_at_11.27.08_AM.png)
 
 Using the same method as before, secure the loose end of the belt to the second belt clip. When pulling the belt through the clip and engaging the teeth, ensure the belt is pulled snug. There should be no slack in the system once the belt sleeve is in place.
 
-![Screen Shot 2019-12-18 at 11.29.21 AM.png](Screen_Shot_2019-12-18_at_11.29.21_AM.png)
+![Screen Shot 2019-12-18 at 11.29.21 AM.png](_images/Screen_Shot_2019-12-18_at_11.29.21_AM.png)
 
 # Step 3: Connect the y-axis cable carrier
 Lay the **loaded y-axis cable carrier** onto the **horizontal cable carrier supports**.
 
-![Screen Shot 2019-12-18 at 12.19.35 PM.png](Screen_Shot_2019-12-18_at_12.19.35_PM.png)
+![Screen Shot 2019-12-18 at 12.19.35 PM.png](_images/Screen_Shot_2019-12-18_at_12.19.35_PM.png)
 
 Attach the **cable carrier** to the **cross-slide** using two **M5 x 16mm screws** and **M5 flange locknuts**.
 
-![Screen Shot 2019-12-18 at 12.20.55 PM.png](Screen_Shot_2019-12-18_at_12.20.55_PM.png)
+![Screen Shot 2019-12-18 at 12.20.55 PM.png](_images/Screen_Shot_2019-12-18_at_12.20.55_PM.png)
 
 Attach the other end of the **cable carrier** to the **horizontal cable carrier support** nearest the electronics box using two **M5 x 16mm screws** and **M5 flange locknuts**.
 
-![Screen Shot 2019-12-18 at 12.33.30 PM.png](Screen_Shot_2019-12-18_at_12.33.30_PM.png)
+![Screen Shot 2019-12-18 at 12.33.30 PM.png](_images/Screen_Shot_2019-12-18_at_12.33.30_PM.png)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Building a Fixed Raised Bed"
 slug: "building-a-fixed-raised-bed"
-excerpt: "Step-by-step instructions for building a fixed raised bed for your FarmBot"
+description: "Step-by-step instructions for building a fixed raised bed for your FarmBot"
 ---
 
 * toc
@@ -56,7 +56,7 @@ content="This is the estimated time it will take to build a fixed raised bed."
   * You'll also need to pick up some hardware for fastening your raised bed together. For example, 3/8" x 4" lag bolts (M10 x 100mm) and some large washers.
   * Depending on your climate, you'll likely want to put some type of sealer, stain, or polyurethane on your wood to protect its color and water resistance like Thompson's water sealer.
 
-![IMG_20141203_125632.jpg](IMG_20141203_125632.jpg)
+![IMG_20141203_125632.jpg](_images/IMG_20141203_125632.jpg)
 
 # Step 2: Dig post holes
 Position the lumber roughly where your bed will be so that you may find out where to dig your post holes.
@@ -70,16 +70,16 @@ content="Position the raised bed such that you will be able to access all sides 
 
 
 
-![IMG_20141203_131420.jpg](IMG_20141203_131420.jpg)
+![IMG_20141203_131420.jpg](_images/IMG_20141203_131420.jpg)
 
 Dig the post holes. A post hole digger and pick axe can help greatly.
 
-![IMG_20141203_151353.jpg](IMG_20141203_151353.jpg)
+![IMG_20141203_151353.jpg](_images/IMG_20141203_151353.jpg)
 
 # Step 3: Prepare the materials
 Sand all of the wood surfaces to remove any markings and splinters.
 
-![IMG_20141203_134314.jpg](IMG_20141203_134314.jpg)
+![IMG_20141203_134314.jpg](_images/IMG_20141203_134314.jpg)
 
 
 
@@ -92,20 +92,20 @@ content="FarmBot Express uses wheels to roll directly on top of the long sides o
 
 If desired, stain the wood or apply a protective coating of your choice.
 
-![IMG_20141203_151418.jpg](IMG_20141203_151418.jpg)
+![IMG_20141203_151418.jpg](_images/IMG_20141203_151418.jpg)
 
 Setup the lumber upside down on a flat surface. We'll drill holes and screw together the bed in this orientation and then flip it over and position it in our holes.
 
-![IMG_20141203_160452.jpg](IMG_20141203_160452.jpg)
+![IMG_20141203_160452.jpg](_images/IMG_20141203_160452.jpg)
 
 # Step 4: Assemble the raised bed
 Measure out and mark where the posts will be. Remember this must correspond to where you dug your post holes!
 
-![IMG_20141203_160442.jpg](IMG_20141203_160442.jpg)
+![IMG_20141203_160442.jpg](_images/IMG_20141203_160442.jpg)
 
 Clamp the posts into place, making sure they are square with the bed sides.
 
-![IMG_20141203_161309.jpg](IMG_20141203_161309.jpg)
+![IMG_20141203_161309.jpg](_images/IMG_20141203_161309.jpg)
 
 Mark locations where you will drill holes and fasten the boards to the posts. This example uses 2 lag bolts and washers per board/post interface.
 
@@ -118,11 +118,11 @@ content="On the corner posts, make sure to stagger the bolts slightly so that th
 
 
 
-![IMG_20141203_161836.jpg](IMG_20141203_161836.jpg)
+![IMG_20141203_161836.jpg](_images/IMG_20141203_161836.jpg)
 
 Pre-drill the holes for the lag bolts.
 
-![IMG_20141203_161544.jpg](IMG_20141203_161544.jpg)
+![IMG_20141203_161544.jpg](_images/IMG_20141203_161544.jpg)
 
 Use a ratcheting socket wrench to quickly screw in the lag bolts.
 
@@ -135,11 +135,11 @@ content="If you are using fancy washers like those shown, orient them all in the
 
 
 
-![IMG_20141203_162606.jpg](IMG_20141203_162606.jpg)
+![IMG_20141203_162606.jpg](_images/IMG_20141203_162606.jpg)
 
 Notice how the corner bolts are staggered so that they do not hit each other, and the washers are oriented the same way.
 
-![IMG_20141203_165123.jpg](IMG_20141203_165123.jpg)
+![IMG_20141203_165123.jpg](_images/IMG_20141203_165123.jpg)
 
 # Step 5: Install the raised bed
 
@@ -158,7 +158,7 @@ With larger raised beds, especially those for FarmBot Express XL, it is possible
 # Step 7: Fill the bed
 Use a mix of soil and compost, and keep out large rocks and branches.
 
-![20150113_140811 (1).jpg](20150113_140811_(1).jpg)
+![20150113_140811 (1).jpg](_images/20150113_140811_(1).jpg)
 
 
 

@@ -17,24 +17,24 @@ content="At this time, the FarmBot should not be plugged into any power source."
 # Step 1: Connect the Y motor
 Route the **Y motor cable** through the slot in the **cross-slide plate** and connect it to the **Y motor**.
 
-![Screen Shot 2019-12-18 at 12.25.08 PM.png](Screen_Shot_2019-12-18_at_12.25.08_PM.png)
+![Screen Shot 2019-12-18 at 12.25.08 PM.png](_images/Screen_Shot_2019-12-18_at_12.25.08_PM.png)
 
 # Step 2: Connect the water tubes
 Connect the **water tube** coming from the **y-axis cable carrier** to the **90 degree barb**.
 
-![Screen Shot 2019-12-18 at 12.26.47 PM.png](Screen_Shot_2019-12-18_at_12.26.47_PM.png)
+![Screen Shot 2019-12-18 at 12.26.47 PM.png](_images/Screen_Shot_2019-12-18_at_12.26.47_PM.png)
 
 Connect the other end of the **water tube** coming from the **y-axis cable carrier** to the **barbed adapter** above the **solenoid valve**.
 
-![Screen Shot 2019-12-18 at 12.38.11 PM.png](Screen_Shot_2019-12-18_at_12.38.11_PM.png)
+![Screen Shot 2019-12-18 at 12.38.11 PM.png](_images/Screen_Shot_2019-12-18_at_12.38.11_PM.png)
 
 Connect the **water tube** coming from the top of the **x-axis cable carrier** to the **barbed adapter** below the **solenoid valve**.
 
-![Screen Shot 2019-12-18 at 2.43.37 PM.png](Screen_Shot_2019-12-18_at_2.43.37_PM.png)
+![Screen Shot 2019-12-18 at 2.43.37 PM.png](_images/Screen_Shot_2019-12-18_at_2.43.37_PM.png)
 
 Screw the **garden hose to barb adapter** onto a **garden hose** of the appropriate length. Then connect the **water tube** coming from the bottom of the **x-axis cable carrier** to the **garden hose to barb adapter**.
 
-![Screen Shot 2019-12-18 at 3.14.18 PM.png](Screen_Shot_2019-12-18_at_3.14.18_PM.png)
+![Screen Shot 2019-12-18 at 3.14.18 PM.png](_images/Screen_Shot_2019-12-18_at_3.14.18_PM.png)
 
 # Step 3: Check for leaks
 Turn on the supply of water at your **garden hose spigot** and check the FarmBot for any leaks. If your municipal water pressure is abnormally high, you may need to add **zip-ties** to the tube-to-barb connections to prevent the tubes from popping off. In rare circumstances you also may need to add plumber's tape (teflon tape) to the threaded connections at the hose or solenoid valve to prevent leaking.
@@ -55,7 +55,7 @@ You can check to see which cable is which by tugging on a cable on one end of th
 
 
 
-![Screen Shot 2019-12-18 at 12.31.34 PM.png](Screen_Shot_2019-12-18_at_12.31.34_PM.png)
+![Screen Shot 2019-12-18 at 12.31.34 PM.png](_images/Screen_Shot_2019-12-18_at_12.31.34_PM.png)
 
 Pay special attention that you fully insert the 90-degree connectors together. This may require a multi-step process of pushing together, slightly tightening the thumb screws, pushing together again, and tightening some more. See the video below for detail.
 
@@ -64,12 +64,12 @@ Pay special attention that you fully insert the 90-degree connectors together. T
 # Step 5: Route the X2 motor cable and LED strip
 Attach the **X2 motor cable** to the **X2 motor**. Then route the cable and the **LED strip** through the **horizontal cable carrier supports** along the **gantry main beam**.
 
-![Screen Shot 2019-12-18 at 11.52.34 AM.png](Screen_Shot_2019-12-18_at_11.52.34_AM.png)
+![Screen Shot 2019-12-18 at 11.52.34 AM.png](_images/Screen_Shot_2019-12-18_at_11.52.34_AM.png)
 
 # Step 6: Route all cables behind the electronics box
 Route all of the cables down between the **solenoid valve mount** and the **electronics box**. You may need to temporarily disconnect the solenoid valve mount from the extrusion to facilitate fitting all of the cables in the space.
 
-![Screen Shot 2019-12-18 at 12.36.24 PM.png](Screen_Shot_2019-12-18_at_12.36.24_PM.png)
+![Screen Shot 2019-12-18 at 12.36.24 PM.png](_images/Screen_Shot_2019-12-18_at_12.36.24_PM.png)
 
 # Step 7: Plug everything in
 
@@ -82,41 +82,41 @@ content="At this time, the FarmBot should not be plugged into any power source."
 
 Connect the **vacuum pump cable** to the `VACUUM` connector on the **Farmduino Express** board.
 
-![Screen Shot 2019-12-18 at 12.41.31 PM.png](Screen_Shot_2019-12-18_at_12.41.31_PM.png)
+![Screen Shot 2019-12-18 at 12.41.31 PM.png](_images/Screen_Shot_2019-12-18_at_12.41.31_PM.png)
 
 Connect the **LED strip** to the `LIGHTING` connector on the **Farmduino Express** board.
 
-![Screen Shot 2019-12-18 at 11.33.53 AM.png](Screen_Shot_2019-12-18_at_11.33.53_AM.png)
+![Screen Shot 2019-12-18 at 11.33.53 AM.png](_images/Screen_Shot_2019-12-18_at_11.33.53_AM.png)
 
 Connect the **X2 motor cable** to the `X2 MOTOR` connector on the **Farmduino Express** board.
 
-![Screen Shot 2019-12-18 at 11.33.41 AM.png](Screen_Shot_2019-12-18_at_11.33.41_AM.png)
+![Screen Shot 2019-12-18 at 11.33.41 AM.png](_images/Screen_Shot_2019-12-18_at_11.33.41_AM.png)
 
 Connect the **Y motor cable** to the `Y MOTOR` connector on the **Farmduino Express** board.
 
-![Screen Shot 2019-12-18 at 12.41.05 PM.png](Screen_Shot_2019-12-18_at_12.41.05_PM.png)
+![Screen Shot 2019-12-18 at 12.41.05 PM.png](_images/Screen_Shot_2019-12-18_at_12.41.05_PM.png)
 
 Connect the **Z motor cable** to the `Z MOTOR` connector on the **Farmduino Express** board.
 
-![Screen Shot 2019-12-18 at 12.41.12 PM.png](Screen_Shot_2019-12-18_at_12.41.12_PM.png)
+![Screen Shot 2019-12-18 at 12.41.12 PM.png](_images/Screen_Shot_2019-12-18_at_12.41.12_PM.png)
 
 Connect the **camera cable** to the left microUSB connector labeled `USB` on the **Raspberry Pi Zero** board.
 
-![Screen Shot 2019-12-18 at 12.40.47 PM.png](Screen_Shot_2019-12-18_at_12.40.47_PM.png)
+![Screen Shot 2019-12-18 at 12.40.47 PM.png](_images/Screen_Shot_2019-12-18_at_12.40.47_PM.png)
 
 Connect the **power supply cable** to the red `24V POWER IN` connector on the **Farmduino Express** board.
 
-![Screen Shot 2019-12-18 at 2.54.47 PM.png](Screen_Shot_2019-12-18_at_2.54.47_PM.png)
+![Screen Shot 2019-12-18 at 2.54.47 PM.png](_images/Screen_Shot_2019-12-18_at_2.54.47_PM.png)
 
 # Step 8: Flash FarmBot OS to the microSD card
 Remove the **microSD card** from the **Raspberry Pi Zero** and follow our [FarmBot OS installation instructions](https://software.farm.bot/docs/farmbot-os#installing-farmbot-os) to install the latest version of our software. Then reinsert the microSD card into the Pi.
 
-![Screen Shot 2020-01-30 at 1.29.47 PM.png](Screen_Shot_2020-01-30_at_1.29.47_PM.png)
+![Screen Shot 2020-01-30 at 1.29.47 PM.png](_images/Screen_Shot_2020-01-30_at_1.29.47_PM.png)
 
 # Step 9: Mount the power supply
 Mount the **power supply** to the **bed** using four **wood screws**. Then connect the **power supply's output** to the **power supply cable**.
 
-![Screen Shot 2019-12-18 at 3.19.07 PM.png](Screen_Shot_2019-12-18_at_3.19.07_PM.png)
+![Screen Shot 2019-12-18 at 3.19.07 PM.png](_images/Screen_Shot_2019-12-18_at_3.19.07_PM.png)
 
 # Step 10: Plug FarmBot into the power source
 Before plugging the power supply into an outlet or an extension cord, please read the precaution below.
@@ -134,11 +134,11 @@ If everything looks good, and you understand the precautions needed around power
 
 If an appropriate outlet is not close enough to plug in directly, use an extension cord of the appropriate length and the green **cord protector**.
 
-![Screen Shot 2019-12-18 at 2.36.40 PM.png](Screen_Shot_2019-12-18_at_2.36.40_PM.png)
+![Screen Shot 2019-12-18 at 2.36.40 PM.png](_images/Screen_Shot_2019-12-18_at_2.36.40_PM.png)
 
 
 
-![Screen Shot 2019-12-18 at 2.37.41 PM.png](Screen_Shot_2019-12-18_at_2.37.41_PM.png)
+![Screen Shot 2019-12-18 at 2.37.41 PM.png](_images/Screen_Shot_2019-12-18_at_2.37.41_PM.png)
 
 
 

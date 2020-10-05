@@ -1,14 +1,14 @@
 ---
 title: "Gantry Main Beam"
 slug: "gantry-main-beam"
-excerpt: "Pre-assembly instructions for the FarmBot Express and Express XL gantry main beam"
+description: "Pre-assembly instructions for the FarmBot Express and Express XL gantry main beam"
 ---
 
 * toc
 {:toc}
 
 
-![Main Beam.JPG](Main_Beam.JPG)
+![Main Beam.JPG](_images/Main_Beam.JPG)
 
 # Component list
 
@@ -22,16 +22,16 @@ excerpt: "Pre-assembly instructions for the FarmBot Express and Express XL gantr
 # Step 1: Mount the cable carrier supports
 Mount four **40mm horizontal cable carrier supports** into the middle slot of the **gantry main beam** using eight **M5 x 10mm screws** and four **40mm nut bars**. The supports should be spaced as shown in the drawing below.
 
-![Main Beam.JPG](Main_Beam.JPG)
+![Main Beam.JPG](_images/Main_Beam.JPG)
 
 
 
-![Main beam CCs.JPG](Main_beam_CCs.JPG)
+![Main beam CCs.JPG](_images/Main_beam_CCs.JPG)
 
 # Step 2: Repeat (for XL only)
 Repeat step 1 to create a second gantry main beam with attached cable carrier supports.
 
-![Main Beam.JPG](Main_Beam.JPG)
+![Main Beam.JPG](_images/Main_Beam.JPG)
 
 
 

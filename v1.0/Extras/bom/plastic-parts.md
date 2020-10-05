@@ -1,7 +1,7 @@
 ---
 title: "Plastic Parts"
 slug: "plastic-parts"
-excerpt: "Tech specs for the plastic parts in FarmBot Express. Visit [our shop](http://shop.farm.bot) to purchase parts."
+description: "Tech specs for the plastic parts in FarmBot Express. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
 * toc
@@ -38,11 +38,11 @@ These part offset the gantry wheel plates from the gantry columns, and serve as 
 
 
 
-![Gantry Plate Spacer Blocks.JPG](Gantry_Plate_Spacer_Blocks.JPG)
+![Gantry Plate Spacer Blocks.JPG](_images/Gantry_Plate_Spacer_Blocks.JPG)
 
 
 
-![Gantry Plate Spacer Blocks 2.JPG](Gantry_Plate_Spacer_Blocks_2.JPG)
+![Gantry Plate Spacer Blocks 2.JPG](_images/Gantry_Plate_Spacer_Blocks_2.JPG)
 
 # 40mm Horizontal Cable Carrier Support
 These parts are used to mount and support both the x-axis and y-axis cable carriers. The gusset also functions as an area for cables, tubes, and LED light strips to be routed through.
@@ -57,11 +57,11 @@ These parts are used to mount and support both the x-axis and y-axis cable carri
 
 
 
-![40mm Horizontal CC Support 2.JPG](40mm_Horizontal_CC_Support_2.JPG)
+![40mm Horizontal CC Support 2.JPG](_images/40mm_Horizontal_CC_Support_2.JPG)
 
 
 
-![40mm Horizontal CC Support.JPG](40mm_Horizontal_CC_Support.JPG)
+![40mm Horizontal CC Support.JPG](_images/40mm_Horizontal_CC_Support.JPG)
 
 # 40mm Vertical Cable Carrier Support
 These parts are used to guide and support the z-axis cable carrier. The gusset also functions as an area for the z-axis motor's cables to be routed through.
@@ -76,11 +76,11 @@ These parts are used to guide and support the z-axis cable carrier. The gusset a
 
 
 
-![Vertical CC Support.JPG](Vertical_CC_Support.JPG)
+![Vertical CC Support.JPG](_images/Vertical_CC_Support.JPG)
 
 
 
-![Vertical CC Support 2.JPG](Vertical_CC_Support_2.JPG)
+![Vertical CC Support 2.JPG](_images/Vertical_CC_Support_2.JPG)
 
 # 40mm Cable Carrier Spacer Block
 This component offsets the z-axis cable carrier from the cross-slide plate.
@@ -95,11 +95,11 @@ This component offsets the z-axis cable carrier from the cross-slide plate.
 
 
 
-![CC Spacer Block.JPG](CC_Spacer_Block.JPG)
+![CC Spacer Block.JPG](_images/CC_Spacer_Block.JPG)
 
 
 
-![CC Spacer Block 2.JPG](CC_Spacer_Block_2.JPG)
+![CC Spacer Block 2.JPG](_images/CC_Spacer_Block_2.JPG)
 
 # Solenoid Valve Mount
 This component features slots for the solenoid valve to be mounted with zip ties. It also doubles as a cable management part for routing cables behind the electronics box.
@@ -114,11 +114,11 @@ This component features slots for the solenoid valve to be mounted with zip ties
 
 
 
-![Solenoid mount 1.JPG](Solenoid_mount_1.JPG)
+![Solenoid mount 1.JPG](_images/Solenoid_mount_1.JPG)
 
 
 
-![Solenoid mount 2.JPG](Solenoid_mount_2.JPG)
+![Solenoid mount 2.JPG](_images/Solenoid_mount_2.JPG)
 
 # Vacuum Pump Mount
 The vacuum pump mount features slots for zip ties to secure the vacuum pump to the z-axis extrusion.
@@ -133,11 +133,11 @@ The vacuum pump mount features slots for zip ties to secure the vacuum pump to t
 
 
 
-![Vacuum Pump Mount.JPG](Vacuum_Pump_Mount.JPG)
+![Vacuum Pump Mount.JPG](_images/Vacuum_Pump_Mount.JPG)
 
 
 
-![Vacuum Pump Mount 2.JPG](Vacuum_Pump_Mount_2.JPG)
+![Vacuum Pump Mount 2.JPG](_images/Vacuum_Pump_Mount_2.JPG)
 
 # 50mm Horizontal Motor Housing
 These housings protect the gantry and cross-slide motors and encoders from rain.
@@ -152,7 +152,7 @@ These housings protect the gantry and cross-slide motors and encoders from rain.
 
 
 
-![Horizontal Motor Housing.JPG](Horizontal_Motor_Housing.JPG)
+![Horizontal Motor Housing.JPG](_images/Horizontal_Motor_Housing.JPG)
 
 # 60mm Vertical Motor Housing
 This component protects the z-axis motor from rain.
@@ -167,11 +167,11 @@ This component protects the z-axis motor from rain.
 
 
 
-![Vertical Motor Housing.JPG](Vertical_Motor_Housing.JPG)
+![Vertical Motor Housing.JPG](_images/Vertical_Motor_Housing.JPG)
 
 
 
-![Vertical Motor Housing 2.JPG](Vertical_Motor_Housing_2.JPG)
+![Vertical Motor Housing 2.JPG](_images/Vertical_Motor_Housing_2.JPG)
 
 # Vacuum Pump Housing
 This housing protects the vacuum pump from rain. It is mounted on the z-axis extrusion.
@@ -186,11 +186,11 @@ This housing protects the vacuum pump from rain. It is mounted on the z-axis ext
 
 
 
-![Vacuum Cover 1.JPG](Vacuum_Cover_1.JPG)
+![Vacuum Cover 1.JPG](_images/Vacuum_Cover_1.JPG)
 
 
 
-![Vacuum Cover2.JPG](Vacuum_Cover2.JPG)
+![Vacuum Cover2.JPG](_images/Vacuum_Cover2.JPG)
 
 # 3-in-1 Tool Head
 This part combines the watering, weeding, and seed injection functions of FarmBot into one static tool head.
@@ -205,11 +205,11 @@ This part combines the watering, weeding, and seed injection functions of FarmBo
 
 
 
-![Tool Head.JPG](Tool_Head.JPG)
+![Tool Head.JPG](_images/Tool_Head.JPG)
 
 
 
-![Tool Head 2.JPG](Tool_Head_2.JPG)
+![Tool Head 2.JPG](_images/Tool_Head_2.JPG)
 
 # Seed Trough Holder
 This gantry-mounted seed trough holder allows FarmBot to bring seeds with it while traveling along the x-axis, shortening the time needed for seed injection.
@@ -224,7 +224,7 @@ This gantry-mounted seed trough holder allows FarmBot to bring seeds with it whi
 
 
 
-![Seed Trough Holder.JPG](Seed_Trough_Holder.JPG)
+![Seed Trough Holder.JPG](_images/Seed_Trough_Holder.JPG)
 
 # Seed Trough
 These troughs fit into the seed trough holder, allowing FarmBot to bring seeds with it while traveling along the x-axis.
@@ -239,7 +239,7 @@ These troughs fit into the seed trough holder, allowing FarmBot to bring seeds w
 
 
 
-![Seed Troughs.JPG](Seed_Troughs.JPG)
+![Seed Troughs.JPG](_images/Seed_Troughs.JPG)
 
 # Camera Mount Half
 These small plastic components fasten the borescope camera to the z-axis extrusion.
@@ -254,7 +254,7 @@ These small plastic components fasten the borescope camera to the z-axis extrusi
 
 
 
-![Camera Mounts.JPG](Camera_Mounts.JPG)
+![Camera Mounts.JPG](_images/Camera_Mounts.JPG)
 
 
 

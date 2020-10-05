@@ -1,7 +1,7 @@
 ---
 title: "Fasteners and Hardware"
 slug: "fasteners-and-hardware"
-excerpt: "Tech specs for the fasteners and hardware in FarmBot Express. Visit [our shop](http://shop.farm.bot) to purchase parts."
+description: "Tech specs for the fasteners and hardware in FarmBot Express. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
 * toc
@@ -48,7 +48,7 @@ These screws are used to mount the electronics boards into the electronics box.
 
 ## M2.5 x 4mm Screws
 
-![M2.5x4.jpg](M2.5x4.jpg)
+![M2.5x4.jpg](_images/M2.5x4.jpg)
 
 # M3 Screws
 M3 screws are used throughout FarmBot for mounting motors and other small electronic components on the tools.
@@ -68,7 +68,7 @@ M3 screws are used throughout FarmBot for mounting motors and other small electr
 
 ## M3 x 12mm Screws
 
-![Msx10.jpg](Msx10.jpg)
+![Msx10.jpg](_images/Msx10.jpg)
 
 # M5 Screws
 M5 button-head screws of various lengths are used throughout FarmBot to attach plates and 3D printed parts to extrusions, V-wheels to plates, and other components together. They are usually used in combination with M5 washers, and terminated with an M5 tee nut or locknut. The button head provides a wide bearing surface, a low-profile head, and a finished appearance. Length is measured from under the head.
@@ -88,11 +88,11 @@ M5 button-head screws of various lengths are used throughout FarmBot to attach p
 
 ## M5 x 10mm Screws
 
-![M5x10.jpg](M5x10.jpg)
+![M5x10.jpg](_images/M5x10.jpg)
 
 ## M5 x 16mm Screws
 
-![M5x16.jpg](M5x16.jpg)
+![M5x16.jpg](_images/M5x16.jpg)
 
 ## M5 x 20mm Screws
 
@@ -100,7 +100,7 @@ M5 button-head screws of various lengths are used throughout FarmBot to attach p
 
 ## M5 x 30mm Screws
 
-![M5x30.jpg](M5x30.jpg)
+![M5x30.jpg](_images/M5x30.jpg)
 
 ## M5 x 40mm Screws
 
@@ -119,11 +119,11 @@ Locknuts are used throughout FarmBot to secure M3 and M5 screws in place. The ny
 
 ## M3 Locknuts
 
-![M3 locknuts.jpg](M3_locknuts.jpg)
+![M3 locknuts.jpg](_images/M3_locknuts.jpg)
 
 ## M5 Flange Locknuts
 
-![M5 Flange Locknuts.JPG](M5_Flange_Locknuts.JPG)
+![M5 Flange Locknuts.JPG](_images/M5_Flange_Locknuts.JPG)
 
 # Spacers
 These spacers are used to offset V-wheels from plates so that they may engage extrusions.
@@ -139,7 +139,7 @@ These spacers are used to offset V-wheels from plates so that they may engage ex
 
 ## M5 x 6mm Spacers
 
-![M5 Spacer.jpg](M5_Spacer.jpg)
+![M5 Spacer.jpg](_images/M5_Spacer.jpg)
 
 ## M5 x 14.5mm Spacers
 
@@ -159,7 +159,7 @@ When rotated, eccentric spacers accurately position V-wheels on a plate such tha
 
 ## M5 x 6mm Eccentric Spacers
 
-![Eccentric `.jpg](Eccentric_.jpg)
+![Eccentric `.jpg](_images/Eccentric_.jpg)
 
 # Standoffs
 These F/F standoffs are used to offset the Raspberry Pi Zero from the Farmduino Express board.
@@ -187,7 +187,7 @@ Combined with screws, these drop-in style tee nuts allow components such as plat
 
 ## M5 Tee Nuts
 
-![Tee Nuts.jpg](Tee_Nuts.jpg)
+![Tee Nuts.jpg](_images/Tee_Nuts.jpg)
 
 # Nut Bars
 These stainless steel bars act as long tee nuts allowing two screws to securely hold plates, brackets, and other components to a v-slot extrusion.
@@ -202,15 +202,15 @@ These stainless steel bars act as long tee nuts allowing two screws to securely 
 
 ## 20mm Nut Bar
 
-![20mm Nut Bar.JPG](20mm_Nut_Bar.JPG)
+![20mm Nut Bar.JPG](_images/20mm_Nut_Bar.JPG)
 
 ## 40mm Nut Bar
 
-![40mm Nut Bar.JPG](40mm_Nut_Bar.JPG)
+![40mm Nut Bar.JPG](_images/40mm_Nut_Bar.JPG)
 
 ## 60mm Nut Bar
 
-![60mm Nut Bars.JPG](60mm_Nut_Bars.JPG)
+![60mm Nut Bars.JPG](_images/60mm_Nut_Bars.JPG)
 
 # Wood Screws
 These are used to attach the track end plates and track joining plates to supporting infrastructure such as a raised.
@@ -226,7 +226,7 @@ These are used to attach the track end plates and track joining plates to suppor
 
 
 
-![Wood Screws.jpg](Wood_Screws.jpg)
+![Wood Screws.jpg](_images/Wood_Screws.jpg)
 
 # Dowel Pins
 These pins are used to help align the gantry main beams on XL and MAX devices.
@@ -242,7 +242,7 @@ These pins are used to help align the gantry main beams on XL and MAX devices.
 
 
 
-![IMG_0514.jpg](IMG_0514.jpg)
+![IMG_0514.jpg](_images/IMG_0514.jpg)
 
 
 # Zip Ties
@@ -258,7 +258,7 @@ Zip ties are used to fasten the vacuum pump and solenoid valve.
 
 ## 200mm Zip Ties
 
-![200mm zip ties.JPG](200mm_zip_ties.JPG)
+![200mm zip ties.JPG](_images/200mm_zip_ties.JPG)
 
 
 # 3mm Hex Driver
@@ -274,7 +274,7 @@ This hex (allen) driver is used to tighten all of the M5 screws on FarmBot.
 
 
 
-![3mm Driver.JPG](3mm_Driver.JPG)
+![3mm Driver.JPG](_images/3mm_Driver.JPG)
 
 # 8mm Wrench
 The wrench is for tightening M5 locknuts and adjusting eccentric spacers throughout FarmBot.
@@ -287,7 +287,7 @@ The wrench is for tightening M5 locknuts and adjusting eccentric spacers through
 
 
 
-![8mm wrench.jpg](8mm_wrench.jpg)
+![8mm wrench.jpg](_images/8mm_wrench.jpg)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Plates and Brackets"
 slug: "plates-and-brackets"
-excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Express. Visit [our shop](http://shop.farm.bot) to purchase parts."
+description: "Tech specs for the aluminum plates and brackets in FarmBot Express. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
 * toc
@@ -39,11 +39,11 @@ excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Express. Vi
 
 
 
-![Gantry Wheel Plates.JPG](Gantry_Wheel_Plates.JPG)
+![Gantry Wheel Plates.JPG](_images/Gantry_Wheel_Plates.JPG)
 
 
 
-![Gantry Wheel Plates 2.JPG](Gantry_Wheel_Plates_2.JPG)
+![Gantry Wheel Plates 2.JPG](_images/Gantry_Wheel_Plates_2.JPG)
 
 
 
@@ -63,11 +63,11 @@ excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Express. Vi
 
 
 
-![Gantry Corner Brackets.JPG](Gantry_Corner_Brackets.JPG)
+![Gantry Corner Brackets.JPG](_images/Gantry_Corner_Brackets.JPG)
 
 
 
-![Gantry Corner Brackets 2.JPG](Gantry_Corner_Brackets_2.JPG)
+![Gantry Corner Brackets 2.JPG](_images/Gantry_Corner_Brackets_2.JPG)
 
 
 
@@ -87,11 +87,11 @@ excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Express. Vi
 
 
 
-![Gantry Joining Bracket 2.JPG](Gantry_Joining_Bracket_2.JPG)
+![Gantry Joining Bracket 2.JPG](_images/Gantry_Joining_Bracket_2.JPG)
 
 
 
-![Gantry Joining Bracket.JPG](Gantry_Joining_Bracket.JPG)
+![Gantry Joining Bracket.JPG](_images/Gantry_Joining_Bracket.JPG)
 
 
 
@@ -111,7 +111,7 @@ excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Express. Vi
 
 
 
-![Cross-Slide.JPG](Cross-Slide.JPG)
+![Cross-Slide.JPG](_images/Cross-Slide.JPG)
 
 # Z-Axis Motor Mount
 This component securely attached the z-axis motor to the z-axis extrusion.
@@ -127,7 +127,7 @@ This component securely attached the z-axis motor to the z-axis extrusion.
 
 
 
-![Z Axis Motor Mount.JPG](Z_Axis_Motor_Mount.JPG)
+![Z Axis Motor Mount.JPG](_images/Z_Axis_Motor_Mount.JPG)
 
 # 50mm Cable Carrier Mount
 This part allows the x-axis cable carrier to be mounted to the gantry column.
@@ -143,7 +143,7 @@ This part allows the x-axis cable carrier to be mounted to the gantry column.
 
 
 
-![50mm CC Mount.JPG](50mm_CC_Mount.JPG)
+![50mm CC Mount.JPG](_images/50mm_CC_Mount.JPG)
 
 # 65mm Cable Carrier Mount
 This part allows the y-axis cable carrier to be mounted to the cross-slide plate.
@@ -159,7 +159,7 @@ This part allows the y-axis cable carrier to be mounted to the cross-slide plate
 
 
 
-![65mm CC Mount.JPG](65mm_CC_Mount.JPG)
+![65mm CC Mount.JPG](_images/65mm_CC_Mount.JPG)
 
 
 
@@ -179,11 +179,11 @@ This part allows the y-axis cable carrier to be mounted to the cross-slide plate
 
 
 
-![Belt Clips.JPG](Belt_Clips.JPG)
+![Belt Clips.JPG](_images/Belt_Clips.JPG)
 
 
 
-![Belt Clips 2.JPG](Belt_Clips_2.JPG)
+![Belt Clips 2.JPG](_images/Belt_Clips_2.JPG)
 
 # Z-Axis Hardstop
 These components mount on the z-axis extrusion and physically limit how low and high FarmBot can move the z-axis.
@@ -200,7 +200,7 @@ These components mount on the z-axis extrusion and physically limit how low and 
 
 
 
-![zhardstops.JPG](zhardstops.JPG)
+![zhardstops.JPG](_images/zhardstops.JPG)
 
 
 
