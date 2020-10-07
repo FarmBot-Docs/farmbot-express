@@ -2,7 +2,7 @@ title: FarmBot Express Documentation
 url: express.farm.bot
 logo: /assets/images/documentation.png
 theme: jekyll-theme-cayman
-baseurl: /farmbot-express
+baseurl: /
 color: '#942401'
 latest_version_number: 1.0
 version_factor: 10.0
