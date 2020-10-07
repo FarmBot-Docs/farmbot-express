@@ -189,7 +189,7 @@ content="Your mobile raised bed is now ready for your FarmBot installation."
 
 
 
-![Soil.JPG](_images/Soil.JPG)
+![Soil.JPG](_images/Soil_02.JPG)
 
 
 

@@ -15,7 +15,7 @@ description: "Tech specs for the electronics and wiring in FarmBot Express. Visi
 |[Power Supply Cable](#power-supply-cable)|$20.00 to $70.00              |1                             |$20.00                        |1                             |$30.00                        |1                             |$70.00
 |[Raspberry Pi Zero W](#raspberry-pi-zero-w)|$15.00                        |1                             |$15.00                        |1                             |$15.00                        |1                             |$15.00
 |[MicroSD Card](#microsd-card)|$15.00                        |1                             |$15.00                        |1                             |$15.00                        |1                             |$15.00
-|[E-Stop Button](#scetion-e-stop-button)|$7.00                         |1                             |$7.00                         |1                             |$7.00                         |1                             |$7.00
+|[E-Stop Button](#e-stop-button)|$7.00                         |1                             |$7.00                         |1                             |$7.00                         |1                             |$7.00
 |[Farmduino Express](#farmduino-express)|$75.00                        |1                             |$75.00                        |1                             |$75.00                        |1                             |$75.00
 |[NEMA 17 Stepper Motors](#nema-17-stepper-motors)|$20.00                        |4                             |$80.00                        |4                             |$80.00                        |4                             |$80.00
 |[Motor Cables](#motor-cables)|$15.00 to $32.00              |4                             |$80.00                        |4                             |$95.00                        |4                             |$95.00
@@ -147,7 +147,7 @@ This waterproof E-Stop button comes pre-mounted on the top of the electronics bo
 
 
 
-![electronics box.JPG](_images/electronics_box.JPG)
+![electronics box.JPG](_images/electronics_box_02.JPG)
 
 # Farmduino Express
 The Farmduino Express board receives G-code commands from the Raspberry Pi and then moves the motors, reads sensors, activate peripherals, and more.
