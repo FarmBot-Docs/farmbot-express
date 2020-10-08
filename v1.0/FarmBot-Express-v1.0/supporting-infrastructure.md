@@ -12,9 +12,9 @@ In the next sections we offer advice for building two types of supporting infras
 
 |                              |Fixed Raised Bed              |Mobile Raised Bed             |
 |------------------------------|------------------------------|------------------------------|
-|Express                       |:white-check-mark:            |:white-check-mark:
-|Express XL                    |:white-check-mark:            |:no-entry:
-|Express MAX                   |:white-check-mark:            |:no-entry:
+|Express                       |:white_check_mark:            |:white_check_mark:
+|Express XL                    |:white_check_mark:            |:no_entry:
+|Express MAX                   |:white_check_mark:            |:no_entry:
 
 
 

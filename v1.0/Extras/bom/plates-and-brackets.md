@@ -57,7 +57,7 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Express
 |**Material**                  |5052 Aluminum
 |**Surface Treatments**        |Tumble polished<br>Sand blasted<br>Clear anodized
 |**Price**                     |$30.00
-|**Quantity**                  |2 (1 left-hand and 1 right-hand version) :raised-hands:
+|**Quantity**                  |2 (1 left-hand and 1 right-hand version) :raised_hands:
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Names**       |`Left Gantry Corner Bracket Rev A`<br>`Right Gantry Corner Bracket Rev A`
 
