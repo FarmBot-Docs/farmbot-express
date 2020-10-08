@@ -2,6 +2,7 @@
 title: "Intro to FarmBot Express"
 slug: "intro"
 description: "95% pre-assembled, 100% open-source, plug-and-play FarmBot. [Order yours here!](http://buy.farm.bot/)"
+redirect_from: /docs/v1.0/
 ---
 
 * toc
@@ -80,32 +81,6 @@ Our kits include everything you need in one box and are backed by our customer s
 # License
 Please see our [licensing page](https://meta.farm.bot/docs/licensing) to understand how our various works (hardware, software, documentation, etc) are licensed.
 
-<style>
-.hub-container {
-  max-width: 1350px;
-}
-
-h1 {
-    font-family: Inknut Antiqua;
-}
-  
-a[title="Guides"] {
-  color: #f4f4f4!important;
-  border-bottom: 5px solid #f4f4f4;
-  padding-bottom: 20px!important;
-}
-  
-a[title="Guides"]:hover {
-  color: white!important;
-  border-bottom-color: white;
-}
-  
-#hub-header li a:hover {
-  box-shadow: none!important;
-}
-</style>
-
-<meta name="theme-color" content="#942401">
 
 
 # What's next?
