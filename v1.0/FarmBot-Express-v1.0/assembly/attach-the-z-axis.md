@@ -66,4 +66,4 @@ Attach the other end of the **cable carrier** to the **horizontal cable carrier 
 
 # What's next?
 
- * [Mount FarmBot to the Bed](../assembly/mount-farmbot-to-the-bed.md)
+ * [Mount FarmBot to the Bed](mount-farmbot-to-the-bed.md)

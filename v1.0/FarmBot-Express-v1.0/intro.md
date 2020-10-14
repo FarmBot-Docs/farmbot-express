@@ -62,7 +62,7 @@ The **Z-axis** moves through the cross-slide and provides the FarmBot with Z-dir
 # Economies of scale
 The table below shows the cost/m<sup>2</sup> of growing area based on the size of your FarmBot. Predictably, the larger your FarmBot is, the lower the cost will be per square meter of growing area. Thus, we recommend installing the largest possible FarmBot in your space in order to get the most value out of the device.
 
-*Note that the costs below do not account for [supporting infrastructure](../FarmBot-Express-v1.0/supporting-infrastructure.md), which will also increase in cost as the device size increases.*
+*Note that the costs below do not account for [supporting infrastructure](supporting-infrastructure.md), which will also increase in cost as the device size increases.*
 
 |Model                         |Gantry Width                  |Length                        |Growing Area                  |Cost                          |Cost/m^2                      |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
@@ -85,4 +85,4 @@ Please see our [licensing page](https://meta.farm.bot/docs/licensing) to underst
 
 # What's next?
 
- * [Supporting Infrastructure](../FarmBot-Express-v1.0/supporting-infrastructure.md)
+ * [Supporting Infrastructure](supporting-infrastructure.md)

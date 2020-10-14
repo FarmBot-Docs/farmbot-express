@@ -48,7 +48,7 @@ Compared to FarmBot Genesis, FarmBot Express is much simpler and easier to set u
 
 # What's next?
 
- * [Construct the Gantry](../FarmBot-Express-v1.0/assembly/construct-the-gantry.md)
- * [Attach the Z-axis](../FarmBot-Express-v1.0/assembly/attach-the-z-axis.md)
- * [Mount FarmBot to the Bed](../FarmBot-Express-v1.0/assembly/mount-farmbot-to-the-bed.md)
- * [Plug Everything In](../FarmBot-Express-v1.0/assembly/plug-everything-in.md)
+ * [Construct the Gantry](assembly/construct-the-gantry.md)
+ * [Attach the Z-axis](assembly/attach-the-z-axis.md)
+ * [Mount FarmBot to the Bed](assembly/mount-farmbot-to-the-bed.md)
+ * [Plug Everything In](assembly/plug-everything-in.md)

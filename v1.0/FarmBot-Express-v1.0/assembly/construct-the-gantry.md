@@ -115,4 +115,4 @@ Tighten the four screws holding the second column to the main beam.
 
 # What's next?
 
- * [Attach the Z-Axis](../assembly/attach-the-z-axis.md)
+ * [Attach the Z-Axis](attach-the-z-axis.md)

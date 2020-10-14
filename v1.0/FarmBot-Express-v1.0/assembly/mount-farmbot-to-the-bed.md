@@ -16,7 +16,7 @@ Route the **belts** under the **idler pulleys**. Ensure there are no twists insi
 ![Screen Shot 2019-12-18 at 2.28.17 PM.png](_images/Screen_Shot_2019-12-18_at_2.28.17_PM.png)
 
 # Step 2: Secure the belts
-Secure both ends of each **belt** to a **belt clip** using a **belt sleeve** and the same method used when [securing the y-axis belt](../assembly/attach-the-z-axis.md#step-2-attach-the-y-axis-belt). Then attach the belt clips to the **raised bed** using two **wood screws**. The belt clip tabs should be extending over the outside of the bed to serve as hardstops against the gantry wheel plate.
+Secure both ends of each **belt** to a **belt clip** using a **belt sleeve** and the same method used when [securing the y-axis belt](attach-the-z-axis.md#step-2-attach-the-y-axis-belt). Then attach the belt clips to the **raised bed** using two **wood screws**. The belt clip tabs should be extending over the outside of the bed to serve as hardstops against the gantry wheel plate.
 
 ![Screen Shot 2019-12-18 at 2.16.14 PM.png](_images/Screen_Shot_2019-12-18_at_2.16.14_PM.png)
 
@@ -43,4 +43,4 @@ Attach the **cable carrier** to the **cable carrier mount** using two **M5 x 16m
 
 # What's next?
 
- * [Plug Everything In](../assembly/plug-everything-in.md)
+ * [Plug Everything In](plug-everything-in.md)

@@ -31,5 +31,5 @@ content="If you recently ordered a FarmBot, you may want to begin building your 
 
 # What's next?
 
- * [Building a Fixed Raised Bed](../FarmBot-Express-v1.0/supporting-infrastructure/building-a-fixed-raised-bed.md)
- * [Building a Mobile Raised Bed](../FarmBot-Express-v1.0/supporting-infrastructure/building-a-mobile-raised-bed.md)
+ * [Building a Fixed Raised Bed](supporting-infrastructure/building-a-fixed-raised-bed.md)
+ * [Building a Mobile Raised Bed](supporting-infrastructure/building-a-mobile-raised-bed.md)
