@@ -1,0 +1,172 @@
+version_number: 1.0
+data:
+  - page: extrusions
+    data:
+      - section: gantry-column
+        image: _images/IMG_0532.jpg
+      - section: gantry-main-beam
+        image: _images/IMG_0547.jpg
+      - section: z-axis-extrusion
+        image: _images/IMG_0542.jpg
+  - page: fasteners-and-hardware
+    data:
+      - section: m25-x-4mm-screws
+        image: _images/M2.5x4.jpg
+      - section: m3-x-12mm-screws
+        image: _images/Msx10.jpg
+      - section: m5-x-10mm-screws
+        image: _images/M5x10.jpg
+      - section: m5-x-16mm-screws
+        image: _images/M5x16.jpg
+      - section: m5-x-30mm-screws
+        image: _images/M5x30.jpg
+      - section: m3-locknuts
+        image: _images/M3_locknuts.jpg
+      - section: m5-flange-locknuts
+        image: _images/M5_Flange_Locknuts.JPG
+      - section: m5-x-6mm-spacers
+        image: _images/M5_Spacer.jpg
+      - section: m5-x-6mm-eccentric-spacers
+        image: _images/Eccentric_.jpg
+      - section: m5-tee-nuts
+        image: _images/Tee_Nuts.jpg
+      - section: 20mm-nut-bar
+        image: _images/20mm_Nut_Bar.JPG
+      - section: 40mm-nut-bar
+        image: _images/40mm_Nut_Bar.JPG
+      - section: 60mm-nut-bar
+        image: _images/60mm_Nut_Bars.JPG
+      - section: wood-screws
+        image: _images/Wood_Screws.jpg
+      - section: dowel-pins
+        image: _images/IMG_0514.jpg
+      - section: 200mm-zip-ties
+        image: _images/200mm_zip_ties.JPG
+      - section: 3mm-hex-driver
+        image: _images/3mm_Driver.JPG
+      - section: 8mm-wrench
+        image: _images/8mm_wrench.jpg
+  - page: tubing
+    data:
+      - section: tubes
+        image: _images/IMG_0470.jpg
+      - section: m5-barb
+        image: _images/M5_Barb.JPG
+      - section: inline-air-filter
+        image: _images/Inline_Air_Filter.JPG
+      - section: 90-degree-barb
+        image: _images/90_Degree_Barb.JPG
+      - section: npt-to-barb-adapter
+        image: _images/NPT_to_Barb_Adapter.JPG
+      - section: garden-hose-to-barb-adapter
+        image: _images/Garden_Hose_to_Barb_Adapter.JPG
+      - section: pressure-regulator
+        image: _images/Pressure2.JPG
+      - section: luer-lock-adapter
+        image: _images/Luer_Lock_Adapter.JPG
+      - section: luer-lock-needles
+        image: _images/IMG_0530.jpg
+  - page: plastic-parts
+    data:
+      - section: gantry-plate-spacer-block
+        image: _images/Gantry_Plate_Spacer_Blocks.JPG
+      - section: 40mm-horizontal-cable-carrier-support
+        image: _images/40mm_Horizontal_CC_Support_2.JPG
+      - section: 40mm-vertical-cable-carrier-support
+        image: _images/Vertical_CC_Support.JPG
+      - section: 40mm-cable-carrier-spacer-block
+        image: _images/CC_Spacer_Block.JPG
+      - section: solenoid-valve-mount
+        image: _images/Solenoid_mount_1.JPG
+      - section: vacuum-pump-mount
+        image: _images/Vacuum_Pump_Mount.JPG
+      - section: 50mm-horizontal-motor-housing
+        image: _images/Horizontal_Motor_Housing.JPG
+      - section: 60mm-vertical-motor-housing
+        image: _images/Vertical_Motor_Housing.JPG
+      - section: vacuum-pump-housing
+        image: _images/Vacuum_Cover_1.JPG
+      - section: 3-in-1-tool-head
+        image: _images/Tool_Head.JPG
+      - section: seed-trough-holder
+        image: _images/Seed_Trough_Holder.JPG
+      - section: seed-trough
+        image: _images/Seed_Troughs.JPG
+      - section: camera-mount-half
+        image: _images/Camera_Mounts.JPG
+  - page: drivetrain
+    data:
+      - section: v-wheel
+        image: _images/IMG_0472.jpg
+      - section: gt2-timing-belt
+        image: _images/IMG_0467.jpg
+      - section: belt-sleeve
+        image: _images/Belt_Sleeves.JPG
+      - section: gt2-pulley
+        image: _images/Pulley_2.jpg
+      - section: 5mm-to-8mm-shaft-coupling
+        image: _images/Couplper_1.JPG
+      - section: 8mm-acme-leadscrew
+        image: _images/Leadscrew_2.JPG
+      - section: leadscrew-block
+        image: _images/Leadscrew_Block_1.JPG
+  - page: electronics-and-wiring
+    data:
+      - section: electronics-box
+        image: _images/electronics_box.JPG
+      - section: power-supply
+        image: _images/IMG_0507.jpg
+      - section: power-supply-cable
+        image: _images/IMG_0503.jpg
+      - section: raspberry-pi-zero-w
+        image: _images/Pi_Zero_1.JPG
+      - section: microsd-card
+        image: _images/IMG_0458.jpg
+      - section: e-stop-button
+        image: _images/electronics_box_02.JPG
+      - section: farmduino-express
+        image: _images/Farmduino_Express_2.JPG
+      - section: nema-17-stepper-motors
+        image: _images/Motor.JPG
+      - section: motor-cables
+        image: _images/v1.3-Motor-Cables.jpg
+      - section: cable-carrier
+        image: _images/15_x_30_CC.JPG
+      - section: solenoid-valve
+        image: _images/Solenoid_Valve.JPG
+      - section: vacuum-pump
+        image: _images/Vacuum_Pump.JPG
+      - section: vacuum-pump-cable
+        image: _images/Vacuum_Pump_Cable_Y_Section_1.JPG
+      - section: solenoid-valve-cable
+        image: _images/IMG_0466.jpg
+      - section: camera
+        image: _images/Camera.JPG
+      - section: camera-cable
+        image: _images/Camera_Cable_.JPG
+      - section: camera-calibration-card
+        image: _images/MVIMG_20200727_180001.jpg
+      - section: led-strip
+        image: _images/LED_Strip.jpg
+      - section: power-cord-protector
+        image: _images/IMG_0483.jpg
+  - page: plates-and-brackets
+    data:
+      - section: gantry-wheel-plate
+        image: _images/Gantry_Wheel_Plates.JPG
+      - section: gantry-corner-bracket
+        image: _images/Gantry_Corner_Brackets.JPG
+      - section: gantry-joining-bracket
+        image: _images/Gantry_Joining_Bracket_2.JPG
+      - section: cross-slide-plate
+        image: _images/Cross-Slide.JPG
+      - section: z-axis-motor-mount
+        image: _images/Z_Axis_Motor_Mount.JPG
+      - section: 50mm-cable-carrier-mount
+        image: _images/50mm_CC_Mount.JPG
+      - section: 65mm-cable-carrier-mount
+        image: _images/65mm_CC_Mount.JPG
+      - section: belt-clip
+        image: _images/Belt_Clips.JPG
+      - section: z-axis-hardstop
+        image: _images/zhardstops.JPG
