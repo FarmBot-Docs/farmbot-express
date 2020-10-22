@@ -48,7 +48,7 @@ This rainproof box protects FarmBot's electronics from rain and debris. It featu
 
 
 
-![electronics box.JPG](_images/electronics_box.JPG)
+![electronics box](_images/electronics_box.jpg)
 
 # Power Supply
 This universal input IP67 waterproof power supply provides FarmBot with all the electricity it needs.
@@ -66,15 +66,15 @@ This universal input IP67 waterproof power supply provides FarmBot with all the 
 
 
 
-![IMG_0507.jpg](_images/IMG_0507.jpg)
+![power supply](_images/power_supply.jpg)
 
 
 
-![IMG_0509.jpg](_images/IMG_0509.jpg)
+![power supply side label](_images/power_supply_side_label.jpg)
 
 
 
-![IMG_0512.jpg](_images/IMG_0512.jpg)
+![power supply connectors](_images/power_supply_connectors.jpg)
 
 # Power Supply Cable
 This modular 2-wire cable connects the power supply to the Farmduino Express. It features a waterproof 2-pin connector to attach to the power supply, and a red molex connector to attach to the Farmduino Express.
@@ -91,11 +91,11 @@ This modular 2-wire cable connects the power supply to the Farmduino Express. It
 
 
 
-![IMG_0503.jpg](_images/IMG_0503.jpg)
+![power supply cable](_images/power_supply_cable.jpg)
 
 
 
-![IMG_0505.jpg](_images/IMG_0505.jpg)
+![power supply cable connectors](_images/power_supply_cable_connectors.jpg)
 
 # Raspberry Pi Zero W
 This is the "host computer" of FarmBot. You might also call it FarmBot's brain. The Raspberry Pi runs FarmBot OS, communicates with the web application over ethernet or WiFi, and talks to the Farmduino Express over a serial connection.
@@ -113,11 +113,11 @@ This is the "host computer" of FarmBot. You might also call it FarmBot's brain. 
 
 
 
-![Pi Zero 1.JPG](_images/Pi_Zero_1.JPG)
+![Pi Zero](_images/pi_zero.jpg)
 
 
 
-![Pi Zero.JPG](_images/Pi_Zero.JPG)
+![Pi Zero bottom](_images/pi_zero_bottom.jpg)
 
 # MicroSD Card
 The microSD card holds FarmBot OS and is inserted into the Raspberry Pi.
@@ -132,7 +132,7 @@ The microSD card holds FarmBot OS and is inserted into the Raspberry Pi.
 
 
 
-![IMG_0458.jpg](_images/IMG_0458.jpg)
+![microSD card](_images/microsd_card.jpg)
 
 # E-Stop Button
 This waterproof E-Stop button comes pre-mounted on the top of the electronics box along with a wiring harness pre-connected to the Farmduino Express board.
@@ -147,7 +147,7 @@ This waterproof E-Stop button comes pre-mounted on the top of the electronics bo
 
 
 
-![electronics box.JPG](_images/electronics_box_02.JPG)
+![electronics box](_images/electronics_box.jpg)
 
 # Farmduino Express
 The Farmduino Express board receives G-code commands from the Raspberry Pi and then moves the motors, reads sensors, activate peripherals, and more.
@@ -180,7 +180,7 @@ The source code for the main Arduino MCU firmware is available [here](https://gi
 
 
 
-![Farmduino Express 2.JPG](_images/Farmduino_Express_2.JPG)
+![Farmduino Express](_images/farmduino_express.jpg)
 
 # NEMA 17 Stepper Motors
 These powerful 200 resolution stepper motors allow FarmBot to move precisely in the X, Y, and Z directions. Download the [motor spec sheet](https://drive.google.com/file/d/1Ehqu20q84Lyycn1fOj6dvWKbrMLvoNv4/view?usp=sharing).
@@ -199,7 +199,7 @@ These powerful 200 resolution stepper motors allow FarmBot to move precisely in 
 
 
 
-![Motor.JPG](_images/Motor.JPG)
+![Motor](_images/motor.jpg)
 
 # Motor Cables
 These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino Express. They are labelled on the Farmduino Express end `X1`, `X2`, `Y`, and `Z`. Furthermore, the Z motor cable is split into two sections with a 90-degree waterproof connector.
@@ -216,17 +216,17 @@ These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino Express.
 
 
 
-![v1.3-Motor-Cables.jpg](_images/v1.3-Motor-Cables.jpg)
+![v1.3 Motor Cables](_images/v1.3_motor_cables.jpg)
 
 
 
-![Z Motor Cable Z section 1.JPG](_images/Z_Motor_Cable_Z_section_1.JPG)
+![Z Motor Cable Z section 1](_images/z_motor_cable_z_section_1.jpg)
 
 _(Z motor cable, Y-axis section)_
 
 
 
-![Z Motor Cable Y section 1.JPG](_images/Z_Motor_Cable_Y_section_1.JPG)
+![Z Motor Cable Y section 1](_images/z_motor_cable_y_section_1.jpg)
 
 _(Z motor cable, Z-axis section)_
 
@@ -248,7 +248,7 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 
 
 
-![15 x 30 CC.JPG](_images/15_x_30_CC.JPG)
+![15 x 30 cable carrier](_images/15_x_30_cable_carrier.jpg)
 
 # Solenoid Valve
 This 24V valve controls the flow of water from your garden hose to FarmBot's tubing.
@@ -272,15 +272,15 @@ This 24V valve controls the flow of water from your garden hose to FarmBot's tub
 
 
 
-![Solenoid Valve.JPG](_images/Solenoid_Valve.JPG)
+![Solenoid Valve side view](_images/solenoid_valve_side_view.jpg)
 
 
 
-![Solenoid Valve 2.JPG](_images/Solenoid_Valve_2.JPG)
+![Solenoid Valve](_images/solenoid_valve.jpg)
 
 
 
-![Solenoid Valve 3.JPG](_images/Solenoid_Valve_3.JPG)
+![Solenoid Valve arrow](_images/solenoid_valve_arrow.jpg)
 
 # Vacuum Pump
 This 24V vacuum pump sucks air through the seeder's luer lock needle in order to suction-hold a seed on the needle tip during planting.
@@ -294,11 +294,11 @@ This 24V vacuum pump sucks air through the seeder's luer lock needle in order to
 
 
 
-![Vacuum Pump.JPG](_images/Vacuum_Pump.JPG)
+![Vacuum Pump](_images/vacuum_pump.jpg)
 
 
 
-![Vacuum Pump 2.JPG](_images/Vacuum_Pump_2.JPG)
+![Vacuum Pump top view](_images/vacuum_pump_top_view.jpg)
 
 # Vacuum Pump Cable
 This cable connects the vacuum pump to the Farmduino.
@@ -319,13 +319,13 @@ This cable connects the vacuum pump to the Farmduino.
 
 
 
-![Vacuum Pump Cable Y Section 1.JPG](_images/Vacuum_Pump_Cable_Y_Section_1.JPG)
+![Vacuum Pump Cable Y Section](_images/vacuum_pump_cable_y_section.jpg)
 
 _Y-axis section_
 
 
 
-![Vacuum Pump Cable Z Section.JPG](_images/Vacuum_Pump_Cable_Z_Section.JPG)
+![Vacuum Pump Cable Z Section](_images/vacuum_pump_cable_z_section.jpg)
 
 _Z-axis section_
 
@@ -348,7 +348,7 @@ This cable connects the solenoid valve to the Farmduino.
 
 
 
-![IMG_0466.jpg](_images/IMG_0466.jpg)
+![solenoid valve cable](_images/solenoid_valve_cable.jpg)
 
 # Camera
 The camera is mounted on the z-axis and allows FarmBot to take photos of the garden and plants for weed detection and other future use cases such as plant growth tracking.
@@ -367,15 +367,15 @@ The camera is mounted on the z-axis and allows FarmBot to take photos of the gar
 
 
 
-![Camera.JPG](_images/Camera.JPG)
+![Camera](_images/camera.jpg)
 
 
 
-![Camera 2.JPG](_images/Camera_2.JPG)
+![Camera closeup](_images/camera_closeup.jpg)
 
 
 
-![Camera 3.JPG](_images/Camera_3.JPG)
+![Camera connector](_images/camera_connector.jpg)
 
 # Camera Cable
 
@@ -389,7 +389,7 @@ The camera is mounted on the z-axis and allows FarmBot to take photos of the gar
 
 
 
-![Camera Cable .JPG](_images/Camera_Cable_.JPG)
+![Camera Cable ](_images/camera_cable_.jpg)
 
 # Camera Calibration Card
 Use this card to perform an automatic calibration of FarmBot's camera.
@@ -404,7 +404,7 @@ Use this card to perform an automatic calibration of FarmBot's camera.
 
 
 
-![65399c0-MVIMG_20200727_180001.jpg](_images/MVIMG_20200727_180001.jpg)
+![camera calibration card](_images/camera_calibration_card.jpg)
 
 # LED Strip
 This LED strip is strung through the gantry's horizontal cable carrier supports so that you can light up your garden at night to show friends or for easy harvesting. Please note: this is not a "grow light".
@@ -420,7 +420,7 @@ This LED strip is strung through the gantry's horizontal cable carrier supports 
 
 
 
-![LED Strip.jpg](_images/LED_Strip.jpg)
+![LED Strip](_images/led_strip.jpg)
 
 
 # Power Cord Protector
@@ -435,11 +435,11 @@ This LED strip is strung through the gantry's horizontal cable carrier supports 
 
 
 
-![IMG_0483.jpg](_images/IMG_0483.jpg)
+![power cord protector](_images/power_cord_protector.jpg)
 
 
 
-![IMG_0484.jpg](_images/IMG_0484.jpg)
+![power cord protector inside](_images/power_cord_protector_inside.jpg)
 
 
 

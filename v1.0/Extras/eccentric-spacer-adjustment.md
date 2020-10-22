@@ -23,7 +23,7 @@ content="If the wheel spacing is too small, do not force it on. Excessive force 
 
 
 
-![Screen Shot 2017-02-27 at 12.31.59 PM.png](_images/Screen_Shot_2019-12-18_at_11.03.45_AM.png)
+![cross slide fit test](_images/cross_slide_fit_test.png)
 
 # Adjusting the eccentric spacer
 1. Separate the extrusion from the plate.
@@ -31,7 +31,7 @@ content="If the wheel spacing is too small, do not force it on. Excessive force 
 3. Once you have adjusted the spacer 1/32 of a turn, do another fit test.
 4. Continue the steps above for all eccentric spacers until your connections are smooth and wobble free.
 
-![Screen Shot 2019-12-18 at 3.06.32 PM.png](_images/Screen_Shot_2019-12-18_at_3.06.32_PM.png)
+![cross slide eccentric spacer](_images/cross_slide_eccentric_spacer.png)
 
 _The eccentric spacers for the cross-slide/main beam adjustment are highlighted orange._
 

@@ -41,11 +41,11 @@ These ultra flexible silicone tubes carry water to the tool head and suck vacuum
 
 
 
-![IMG_0470.jpg](_images/IMG_0470.jpg)
+![tubing](_images/tubing.jpg)
 
 
 
-![Vacuum Tube.JPG](_images/Vacuum_Tube.JPG)
+![Vacuum Tube](_images/vacuum_tube.jpg)
 
 # M5 Barb
 These brass barbs screw into the tool head and accept the water and air lines.
@@ -62,7 +62,7 @@ These brass barbs screw into the tool head and accept the water and air lines.
 
 
 
-![M5 Barb.JPG](_images/M5_Barb.JPG)
+![M5 Barb](_images/m5_barb.jpg)
 
 # Inline Air Filter
 This filter is used to prevent soil and other debris from entering the vacuum pump.
@@ -74,7 +74,7 @@ This filter is used to prevent soil and other debris from entering the vacuum pu
 
 
 
-![Inline Air Filter.JPG](_images/Inline_Air_Filter.JPG)
+![Inline Air Filter](_images/inline_air_filter.jpg)
 
 # 90-Degree Barb
 This barb is used to connect the y-axis water tube to the z-axis water tube.
@@ -86,7 +86,7 @@ This barb is used to connect the y-axis water tube to the z-axis water tube.
 
 
 
-![90 Degree Barb.JPG](_images/90_Degree_Barb.JPG)
+![90 Degree Barb](_images/90_degree_barb.jpg)
 
 # NPT to Barb Adapter
 These adapters are used on the inlet of the solenoid valve and the outlet of the pressure reducer.
@@ -102,7 +102,7 @@ These adapters are used on the inlet of the solenoid valve and the outlet of the
 
 
 
-![NPT to Barb Adapter.JPG](_images/NPT_to_Barb_Adapter.JPG)
+![NPT to Barb Adapter](_images/npt_to_barb_adapter.jpg)
 
 # Garden Hose to Barb Adapter
 This adapter connects a standard US garden hose to a 6mm ID tube.
@@ -118,7 +118,7 @@ This adapter connects a standard US garden hose to a 6mm ID tube.
 
 
 
-![Garden Hose to Barb Adapter.JPG](_images/Garden_Hose_to_Barb_Adapter.JPG)
+![Garden Hose to Barb Adapter](_images/garden_hose_to_barb_adapter.jpg)
 
 # Pressure Regulator
 This pressure regulator reduces the pressure from a municipal water supply down to 15 PSI (103 kpa, 1.03 bar) so that FarmBot can more easily control the amount of water it disperses.
@@ -138,11 +138,11 @@ This pressure regulator reduces the pressure from a municipal water supply down 
 
 
 
-![Pressure2.JPG](_images/Pressure2.JPG)
+![15 PSI pressure regulator](_images/15_psi_pressure_regulator.jpg)
 
 
 
-![Pressure1.JPG](_images/Pressure1.JPG)
+![pressure regulator arrow](_images/pressure_regulator_arrow.jpg)
 
 # Luer Lock Adapter
 This adapter screws into the tool head and allows various luer lock needles to be quickly attached for seed injection.
@@ -156,7 +156,7 @@ This adapter screws into the tool head and allows various luer lock needles to b
 
 
 
-![Luer Lock Adapter.JPG](_images/Luer_Lock_Adapter.JPG)
+![Luer Lock Adapter](_images/luer_lock_adapter.jpg)
 
 # Luer Lock Needles
 These needles are used for seed injection.
@@ -172,7 +172,7 @@ These needles are used for seed injection.
 
 
 
-![IMG_0530.jpg](_images/IMG_0530.jpg)
+![luer lock needles](_images/luer_lock_needles.jpg)
 
 
 

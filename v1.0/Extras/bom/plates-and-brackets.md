@@ -39,11 +39,11 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Express
 
 
 
-![Gantry Wheel Plates.JPG](_images/Gantry_Wheel_Plates.JPG)
+![Gantry Wheel Plates](_images/gantry_wheel_plates.jpg)
 
 
 
-![Gantry Wheel Plates 2.JPG](_images/Gantry_Wheel_Plates_2.JPG)
+![Gantry Wheel Plates 2](_images/gantry_wheel_plates_2.jpg)
 
 
 
@@ -63,11 +63,11 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Express
 
 
 
-![Gantry Corner Brackets.JPG](_images/Gantry_Corner_Brackets.JPG)
+![Gantry Corner Brackets](_images/gantry_corner_brackets.jpg)
 
 
 
-![Gantry Corner Brackets 2.JPG](_images/Gantry_Corner_Brackets_2.JPG)
+![Gantry Corner Brackets 2](_images/gantry_corner_brackets_2.jpg)
 
 
 
@@ -87,11 +87,11 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Express
 
 
 
-![Gantry Joining Bracket 2.JPG](_images/Gantry_Joining_Bracket_2.JPG)
+![Gantry Joining Bracket 2](_images/gantry_joining_bracket_2.jpg)
 
 
 
-![Gantry Joining Bracket.JPG](_images/Gantry_Joining_Bracket.JPG)
+![Gantry Joining Bracket](_images/gantry_joining_bracket.jpg)
 
 
 
@@ -111,7 +111,7 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Express
 
 
 
-![Cross-Slide.JPG](_images/Cross-Slide.JPG)
+![Cross-Slide](_images/cross-slide.jpg)
 
 # Z-Axis Motor Mount
 This component securely attached the z-axis motor to the z-axis extrusion.
@@ -127,7 +127,7 @@ This component securely attached the z-axis motor to the z-axis extrusion.
 
 
 
-![Z Axis Motor Mount.JPG](_images/Z_Axis_Motor_Mount.JPG)
+![Z Axis Motor Mount](_images/z_axis_motor_mount.jpg)
 
 # 50mm Cable Carrier Mount
 This part allows the x-axis cable carrier to be mounted to the gantry column.
@@ -143,7 +143,7 @@ This part allows the x-axis cable carrier to be mounted to the gantry column.
 
 
 
-![50mm CC Mount.JPG](_images/50mm_CC_Mount.JPG)
+![50mm CC Mount](_images/50mm_cc_mount.jpg)
 
 # 65mm Cable Carrier Mount
 This part allows the y-axis cable carrier to be mounted to the cross-slide plate.
@@ -159,7 +159,7 @@ This part allows the y-axis cable carrier to be mounted to the cross-slide plate
 
 
 
-![65mm CC Mount.JPG](_images/65mm_CC_Mount.JPG)
+![65mm CC Mount](_images/65mm_cc_mount.jpg)
 
 
 
@@ -179,11 +179,11 @@ This part allows the y-axis cable carrier to be mounted to the cross-slide plate
 
 
 
-![Belt Clips.JPG](_images/Belt_Clips.JPG)
+![Belt Clips](_images/belt_clips.jpg)
 
 
 
-![Belt Clips 2.JPG](_images/Belt_Clips_2.JPG)
+![Belt Clips 2](_images/belt_clips_2.jpg)
 
 # Z-Axis Hardstop
 These components mount on the z-axis extrusion and physically limit how low and high FarmBot can move the z-axis.
@@ -200,7 +200,7 @@ These components mount on the z-axis extrusion and physically limit how low and 
 
 
 
-![zhardstops.JPG](_images/zhardstops.JPG)
+![z-axis hardstops](_images/z-axis_hardstops.jpg)
 
 
 

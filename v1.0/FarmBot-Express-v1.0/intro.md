@@ -31,19 +31,19 @@ Express, Express XL, and Express MAX share many of the same components and assem
 # High level overview
 FarmBot Express, Express XL, and Express MAX are primarily constructed from V-Slot aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the Farmduino Express microcontroller, and a Raspberry Pi Zero computer.
 
-![FarmBot Express v1.0 (1).png](_images/FarmBot_Express_v1.0_1.png)
+![FarmBot Express v1.0](_images/farmbot_express_v1.0.png)
 
 _FarmBot Express v1.0_
 
 
 
-![FarmBot Express XL v1.0.png](_images/FarmBot_Express_XL_v1.0.png)
+![FarmBot Express XL v1.0](_images/farmbot_express_xl_v1.0.png)
 
 _FarmBot Express XL v1.0_
 
 
 
-![Screen Shot 2019-12-16 at 3.17.10 PM.png](_images/Screen_Shot_2019-12-16_at_3.17.10_PM.png)
+![FarmBot Express MAX](_images/farmbot_express_max.png)
 
 _FarmBot Express MAX v1.0_
 

@@ -38,11 +38,11 @@ The gantry columns are made from aluminum extrusions. They can be scaled to be t
 
 
 
-![IMG_0532.jpg](_images/IMG_0532.jpg)
+![gantry column](_images/gantry_column.jpg)
 
 
 
-![IMG_0535.jpg](_images/IMG_0535.jpg)
+![gantry column closeup](_images/gantry_column_closeup.jpg)
 
 
 
@@ -63,11 +63,11 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 
 
-![IMG_0547.jpg](_images/IMG_0547.jpg)
+![gantry beam](_images/gantry_beam.jpg)
 
 
 
-![IMG_0535.jpg](_images/IMG_0535_02.jpg)
+![gantry beam closeup](_images/gantry_beam_closeup.jpg)
 
 
 
@@ -88,11 +88,11 @@ This aluminum extrusion allows FarmBot to accurately position the UTM and tools 
 
 
 
-![IMG_0542.jpg](_images/IMG_0542.jpg)
+![z axis extrusion closeup](_images/z_axis_extrusion_closeup.jpg)
 
 
 
-![IMG_0545.jpg](_images/IMG_0545.jpg)
+![z axis extrusion](_images/z_axis_extrusion.jpg)
 
 
 

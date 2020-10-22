@@ -91,27 +91,27 @@ content="The following steps do not have to be followed exactly. They are only s
 
 First pack in the bulkiest items: power cord protector, gantry joining bracket (for Express XL kits only), and LED strip.
 
-![Step 1.jpg](_images/Step_1.jpg)
+![hardware box first items](_images/hardware_box_first_items.jpg)
 
 Then pack in the next bulkiest items: belts, seed troughs, luer lock needles, belt clips, 3mm hex driver, 8mm thin wrench, and garden hose adapter.
 
-![Step 2.jpg](_images/Step_2.jpg)
+![hardware box next items](_images/hardware_box_next_items.jpg)
 
 Pack in the X2 motor cable.
 
-![77a05a7-Step_3.jpg](_images/Step_3.jpg)
+![hardware box with x2 motor cable](_images/hardware_box_with_x2_motor_cable.jpg)
 
 _(Note: the photo is incorrect, there should be no X2 encoder cable)_
 
 Pack in the small remaining items.
 
-![Step 4.jpg](_images/Step_4.jpg)
+![hardware box remaining items](_images/hardware_box_remaining_items.jpg)
 
 _(Note: the photo is incorrect, there should be no X2 encoder cable)_
 
 Fill the remaining space with recycled kraft paper.
 
-![MVIMG_20191118_221818.jpg](_images/MVIMG_20191118_221818.jpg)
+![hardware box packing paper](_images/hardware_box_packing_paper.jpg)
 
 
 
