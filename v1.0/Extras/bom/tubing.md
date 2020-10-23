@@ -39,13 +39,10 @@ These ultra flexible silicone tubes carry water to the tool head and suck vacuum
 |**Price**                     |$2.00 - 0.15m<br>$5.00 - 0.95m<br>$7.00 - 1.8m<br>$10.00 - 3m<br>$15.00 - 4.5m<br>$35.00 - 10.5m
 |**Quantity**                  |See above lengths
 
-
-
+{% include gallery.html images="
 ![tubing](_images/tubing.jpg)
-
-
-
 ![Vacuum Tube](_images/vacuum_tube.jpg)
+" %}
 
 # M5 Barb
 These brass barbs screw into the tool head and accept the water and air lines.
@@ -136,13 +133,10 @@ This pressure regulator reduces the pressure from a municipal water supply down 
 |**Price**                     |$8.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![15 PSI pressure regulator](_images/15_psi_pressure_regulator.jpg)
-
-
-
 ![pressure regulator arrow](_images/pressure_regulator_arrow.jpg)
+" %}
 
 # Luer Lock Adapter
 This adapter screws into the tool head and allows various luer lock needles to be quickly attached for seed injection.

@@ -64,17 +64,11 @@ This universal input IP67 waterproof power supply provides FarmBot with all the 
 |**Price**                     |$60.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![power supply](_images/power_supply.jpg)
-
-
-
 ![power supply side label](_images/power_supply_side_label.jpg)
-
-
-
 ![power supply connectors](_images/power_supply_connectors.jpg)
+" %}
 
 # Power Supply Cable
 This modular 2-wire cable connects the power supply to the Farmduino Express. It features a waterproof 2-pin connector to attach to the power supply, and a red molex connector to attach to the Farmduino Express.
@@ -89,13 +83,10 @@ This modular 2-wire cable connects the power supply to the Farmduino Express. It
 |**Quantity**                  |1
 |**Price**                     |3m: $20.00<br>4.5m: $30.00<br>10.5m: $70.00
 
-
-
+{% include gallery.html images="
 ![power supply cable](_images/power_supply_cable.jpg)
-
-
-
 ![power supply cable connectors](_images/power_supply_cable_connectors.jpg)
+" %}
 
 # Raspberry Pi Zero W
 This is the "host computer" of FarmBot. You might also call it FarmBot's brain. The Raspberry Pi runs FarmBot OS, communicates with the web application over ethernet or WiFi, and talks to the Farmduino Express over a serial connection.
@@ -111,13 +102,10 @@ This is the "host computer" of FarmBot. You might also call it FarmBot's brain. 
 |**Price**                     |$15.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![Pi Zero](_images/pi_zero.jpg)
-
-
-
 ![Pi Zero bottom](_images/pi_zero_bottom.jpg)
+" %}
 
 # MicroSD Card
 The microSD card holds FarmBot OS and is inserted into the Raspberry Pi.
@@ -214,13 +202,10 @@ These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino Express.
 |**Outer Color**               |Black
 |**Price**                     |**Express**<br>X1 - $15.00<br>X2- $18.00<br>Y - $20.00<br>Z - $27.00<br><br>**Express XL and MAX**<br>X1 - $15.00<br>X2 - $23.00<br>Y - $25.00<br>Z - $32.00
 
-
-
+{% include gallery.html images="
 ![v1.3 Motor Cables](_images/v1.3_motor_cables.jpg)
-
-
-
 ![Z Motor Cable Z section 1](_images/z_motor_cable_z_section_1.jpg)
+" %}
 
 _(Z motor cable, Y-axis section)_
 
@@ -270,17 +255,11 @@ This 24V valve controls the flow of water from your garden hose to FarmBot's tub
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMkIYGSv_tdA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMkIYGSv_tdA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMkIYGSv_tdA%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Solenoid Valve side view](_images/solenoid_valve_side_view.jpg)
-
-
-
 ![Solenoid Valve](_images/solenoid_valve.jpg)
-
-
-
 ![Solenoid Valve arrow](_images/solenoid_valve_arrow.jpg)
+" %}
 
 # Vacuum Pump
 This 24V vacuum pump sucks air through the seeder's luer lock needle in order to suction-hold a seed on the needle tip during planting.
@@ -292,13 +271,10 @@ This 24V vacuum pump sucks air through the seeder's luer lock needle in order to
 |**Price**                     |$15.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![Vacuum Pump](_images/vacuum_pump.jpg)
-
-
-
 ![Vacuum Pump top view](_images/vacuum_pump_top_view.jpg)
+" %}
 
 # Vacuum Pump Cable
 This cable connects the vacuum pump to the Farmduino.
@@ -365,17 +341,11 @@ The camera is mounted on the z-axis and allows FarmBot to take photos of the gar
 |**Price**                     |$30.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![Camera](_images/camera.jpg)
-
-
-
 ![Camera closeup](_images/camera_closeup.jpg)
-
-
-
 ![Camera connector](_images/camera_connector.jpg)
+" %}
 
 # Camera Cable
 
@@ -433,14 +403,8 @@ This LED strip is strung through the gantry's horizontal cable carrier supports 
 |**Price**                     |$7.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![power cord protector](_images/power_cord_protector.jpg)
-
-
-
 ![power cord protector inside](_images/power_cord_protector_inside.jpg)
-
-
-
+" %}
 

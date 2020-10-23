@@ -79,13 +79,10 @@ content="Note that in the images below, we are looking at the FarmBot from the b
 
 Repeat the steps above with the **right gantry column subassembly**.
 
+{% include gallery.html images="
 ![right gantry column main beam nut bars](_images/right_gantry_column_main_beam_nut_bars.png)
-
-
-
 ![gantry assembled](_images/gantry_assembled.png)
-
-
+" %}
 
 # Step 3: Fit FarmBot to the bed
 

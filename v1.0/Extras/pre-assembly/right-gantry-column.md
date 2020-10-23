@@ -51,11 +51,10 @@ Slide the **gantry column** onto the assembly, ensuring the cut end of the extru
 # Step 3: Attach the gantry corner bracket
 Attach the **right gantry corner bracket** to the **gantry column** using three **60mm nut bars** and six **M5 x 10mm screws**. The top of the extrusion should be aligned with the notch in the corner bracket.
 
+{% include gallery.html images="
 ![right gantry column corner bracket](_images/right_gantry_column_corner_bracket.jpg)
-
-
-
 ![right gantry column notch](_images/right_gantry_column_notch.jpg)
+" %}
 
 _The top of the extrusion should be aligned with the notch in the corner bracket._
 
@@ -74,10 +73,9 @@ Secure the motor and housing in place with four **M3 x 12mm screws**.
 
 Slide the **20 tooth GT2 pulley** onto the motor shaft, ensuring the two setscrews are aligned with the flat sides of the motor shaft. The pulley's toothed area should be aligned with the large holes in the extrusion such that the belt can be routed through the extrusion without rubbing. Then tighten the setscrews.
 
+{% include gallery.html images="
 ![Pulley](_images/pulley.jpg)
-
-
-
 ![x2 pulley top](_images/x2_pulley_top.jpg)
+" %}
 
 _The pulley's toothed area should be aligned with the large holes in the extrusion such that the belt can be routed through the extrusion without rubbing._

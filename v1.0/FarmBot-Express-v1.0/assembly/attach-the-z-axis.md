@@ -18,13 +18,10 @@ content="The cross-slide's v-wheels have been factory adjusted to fit snugly on 
 When sliding the cross-slide onto the main beam, do not force it on. If it feels too tight, refer to [this document to adjust the v-wheels](../../Extras/eccentric-spacer-adjustment.md)."
 %}
 
-
-
+{% include gallery.html images="
 ![slide on cross slide and z axis](_images/slide_on_cross_slide_and_z_axis.png)
-
-
-
 ![cross slide and z axis on beam](_images/cross_slide_and_z_axis_on_beam.png)
+" %}
 
 # Step 2: Attach the y-axis belt
 Slide a **belt sleeve** onto the **y-axis belt** (the shortest belt in the kit). Then insert the belt into the slot in a **belt clip** and wrap the belt back onto itself such that the belt teeth mesh. There should be about 3cm of overlap. Then slide the belt sleeve over the meshed section. This should keep the belt from pulling out of the belt clip.

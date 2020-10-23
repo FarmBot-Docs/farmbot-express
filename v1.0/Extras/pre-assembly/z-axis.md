@@ -78,11 +78,10 @@ content="The following step requires the [z-axis cable carrier to be loaded with
 # Step 4: Mount the cable carrier
 Position the **loaded z-axis cable carrier** in the **cable carrier supports** such that the camera is located at the bottom of the extrusion. Secure the cable carrier to the **vertical cable carrier support** using two **M5 x 16mm screws** and **M5 flange locknuts**.
 
+{% include gallery.html images="
 ![z axis with cable carrier](_images/z_axis_with_cable_carrier.png)
-
-
-
 ![z axis with cable carrier end closeup](_images/z_axis_with_cable_carrier_end_closeup.png)
+" %}
 
 _Note: not all cables are shown_
 

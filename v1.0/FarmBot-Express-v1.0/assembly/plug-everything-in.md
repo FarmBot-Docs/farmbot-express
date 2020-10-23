@@ -134,13 +134,10 @@ If everything looks good, and you understand the precautions needed around power
 
 If an appropriate outlet is not close enough to plug in directly, use an extension cord of the appropriate length and the green **cord protector**.
 
+{% include gallery.html images="
 ![power supply power connection](_images/power_supply_power_connection.png)
-
-
-
 ![power supply cord protector](_images/power_supply_cord_protector.png)
-
-
+" %}
 
 {%
 include callout.html
