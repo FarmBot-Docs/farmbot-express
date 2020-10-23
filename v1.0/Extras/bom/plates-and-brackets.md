@@ -37,15 +37,10 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Express
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Name**        |`Express Gantry Wheel Plate Rev A`
 
-
-
+{% include gallery.html images="
 ![Gantry Wheel Plates](_images/gantry_wheel_plates.jpg)
-
-
-
 ![Gantry Wheel Plates 2](_images/gantry_wheel_plates_2.jpg)
-
-
+" %}
 
 # Gantry Corner Bracket
 
@@ -61,15 +56,10 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Express
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Names**       |`Left Gantry Corner Bracket Rev A`<br>`Right Gantry Corner Bracket Rev A`
 
-
-
+{% include gallery.html images="
 ![Gantry Corner Brackets](_images/gantry_corner_brackets.jpg)
-
-
-
 ![Gantry Corner Brackets 2](_images/gantry_corner_brackets_2.jpg)
-
-
+" %}
 
 # Gantry Joining Bracket
 
@@ -85,15 +75,10 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Express
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Name**        |`Gantry Joining Bracket Rev B`
 
-
-
+{% include gallery.html images="
 ![Gantry Joining Bracket 2](_images/gantry_joining_bracket_2.jpg)
-
-
-
 ![Gantry Joining Bracket](_images/gantry_joining_bracket.jpg)
-
-
+" %}
 
 # Cross-Slide Plate
 
@@ -177,13 +162,10 @@ This part allows the y-axis cable carrier to be mounted to the cross-slide plate
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Name**        |`Belt Clip Rev A`
 
-
-
+{% include gallery.html images="
 ![Belt Clips](_images/belt_clips.jpg)
-
-
-
 ![Belt Clips 2](_images/belt_clips_2.jpg)
+" %}
 
 # Z-Axis Hardstop
 These components mount on the z-axis extrusion and physically limit how low and high FarmBot can move the z-axis.

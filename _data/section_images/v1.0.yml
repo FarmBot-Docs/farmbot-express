@@ -7,7 +7,7 @@ data:
       - section: gantry-main-beam
         image: Extras/bom/_images/gantry_beam.jpg
       - section: z-axis-extrusion
-        image: Extras/bom/_images/z_axis_extrusion_closeup.jpg
+        image: Extras/bom/_images/z_axis_extrusion.jpg
   - page: fasteners-and-hardware
     data:
       - section: m25-x-4mm-screws

@@ -36,15 +36,10 @@ The gantry columns are made from aluminum extrusions. They can be scaled to be t
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Name**        |`20 x 60 x 500mm V-Slot Silver Extrusion`
 
-
-
+{% include gallery.html images="
 ![gantry column](_images/gantry_column.jpg)
-
-
-
 ![gantry column closeup](_images/gantry_column_closeup.jpg)
-
-
+" %}
 
 # Gantry Main Beam
 
@@ -61,15 +56,10 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Name**        |`20 x 60 x 1200mm V-Slot Silver Extrusion`
 
-
-
+{% include gallery.html images="
 ![gantry beam](_images/gantry_beam.jpg)
-
-
-
 ![gantry beam closeup](_images/gantry_beam_closeup.jpg)
-
-
+" %}
 
 # Z-Axis Extrusion
 
@@ -86,14 +76,8 @@ This aluminum extrusion allows FarmBot to accurately position the UTM and tools 
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Name**        |`20 x 20 x 1000mm V-Slot Silver Extrusion`
 
-
-
+{% include gallery.html images="
 ![z axis extrusion closeup](_images/z_axis_extrusion_closeup.jpg)
-
-
-
 ![z axis extrusion](_images/z_axis_extrusion.jpg)
-
-
-
+" %}
 

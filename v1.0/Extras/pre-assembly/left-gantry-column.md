@@ -64,11 +64,10 @@ Slide the **gantry column** onto the assembly, ensuring the cut end of the extru
 # Step 3: Attach the gantry corner bracket
 Attach the **left gantry corner bracket** to the **gantry column** using three **60mm nut bars** and six **M5 x 10mm screws**. The top of the extrusion should be aligned with the notch in the corner bracket.
 
+{% include gallery.html images="
 ![left gantry column Corner Bracket](_images/left_gantry_column_corner_bracket.jpg)
-
-
-
 ![right gantry column notch](_images/right_gantry_column_notch.jpg)
+" %}
 
 _The top of the extrusion should be aligned with the notch in the corner bracket._
 
@@ -87,11 +86,10 @@ Secure the motor and housing in place with four **M3 x 12mm screws**.
 
 Slide the **20 tooth GT2 pulley** onto the motor shaft, ensuring the two setscrews are aligned with the flat sides of the motor shaft. The pulley's toothed area should be aligned with the large holes in the extrusion such that the belt can be routed through the extrusion without rubbing. Then tighten the setscrews.
 
+{% include gallery.html images="
 ![Pulley](_images/pulley.jpg)
-
-
-
 ![left gantry column Pulley top](_images/left_gantry_column_pulley_top.jpg)
+" %}
 
 _The pulley's toothed area should be aligned with the large holes in the extrusion such that the belt can be routed through the extrusion without rubbing._
 
@@ -124,11 +122,10 @@ Attach the **solenoid valve** to the **solenoid valve mount** using two **200mm 
 
 Attach the **solenoid valve mount** to the **gantry column** using two **M5 x 10mm screws** and **10mm nut bars**. The X1 motor cable should be routed between the mount and the box. The mount should be vertically aligned on the column such that the top barbed adapter is aligned with the top of the electronics box.
 
+{% include gallery.html images="
 ![Valve mounted to column](_images/valve_mounted_to_column.jpg)
-
-
-
 ![valve mounted to column side view](_images/valve_mounted_to_column_side_view.jpg)
+" %}
 
 _The mount should be vertically aligned on the column such that the top barbed adapter is aligned with the top of the electronics box._
 

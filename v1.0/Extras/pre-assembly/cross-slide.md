@@ -59,37 +59,30 @@ Attach the **65mm cable carrier mount** to the **cross-slide plate** using two *
 # Step 4: Attach the v-wheels with eccentric spacers
 Attach three **v-wheels** to the **cross-slide plate** using **eccentric spacers**, **M5 x 30mm screws**, and **M5 flange locknuts**.
 
+{% include gallery.html images="
 ![cross slide with z axis eccentric spacers](_images/cross_slide_with_z_axis_eccentric_spacers.png)
-
-
-
 ![cross slide with z axis eccentric spacer wheels](_images/cross_slide_with_z_axis_eccentric_spacer_wheels.png)
+" %}
 
 Attach two more **v-wheels** to the other side of the **cross-slide plate** using **eccentric spacers**, **M5 x 30mm screws**, and **M5 flange locknuts**.
 
+{% include gallery.html images="
 ![cross slide with y axis eccentric spacers](_images/cross_slide_with_y_axis_eccentric_spacers.png)
-
-
-
 ![cross slide with y axis eccentric spacer wheels](_images/cross_slide_with_y_axis_eccentric_spacer_wheels.png)
+" %}
 
 # Step 5: Attach the v-wheels with normal spacers
 Attach three **v-wheels** to the **cross-slide plate** using **M5 x 6mm spacers**, **M5 x 30mm screws**, and **M5 flange locknuts**.
 
+{% include gallery.html images="
 ![cross slide with y axis normal spacers](_images/cross_slide_with_y_axis_normal_spacers.png)
-
-
-
 ![cross slide with y axis normal spacer wheels](_images/cross_slide_with_y_axis_normal_spacer_wheels.png)
+" %}
 
 Attach two more **v-wheels** to the other side of the **cross-slide plate** using **M5 x 6mm spacers**, **M5 x 30mm screws**, and **M5 flange locknuts**.
 
+{% include gallery.html images="
 ![cross slide with z axis normal spacers](_images/cross_slide_with_z_axis_normal_spacers.png)
-
-
-
 ![cross slide with z axis normal spacer wheels](_images/cross_slide_with_z_axis_normal_spacer_wheels.png)
-
-
-
+" %}
 

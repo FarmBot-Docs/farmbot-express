@@ -36,13 +36,10 @@ These part offset the gantry wheel plates from the gantry columns, and serve as 
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Name**        |`Gantry Plate Spacer Block Rev A`
 
-
-
+{% include gallery.html images="
 ![Gantry Plate Spacer Blocks](_images/gantry_plate_spacer_blocks.jpg)
-
-
-
 ![Gantry Plate Spacer Blocks 2](_images/gantry_plate_spacer_blocks_2.jpg)
+" %}
 
 # 40mm Horizontal Cable Carrier Support
 These parts are used to mount and support both the x-axis and y-axis cable carriers. The gusset also functions as an area for cables, tubes, and LED light strips to be routed through.
@@ -55,13 +52,10 @@ These parts are used to mount and support both the x-axis and y-axis cable carri
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Name**        |`40mm Horizontal CC Support Rev B`
 
-
-
+{% include gallery.html images="
 ![40mm Horizontal CC Support 2](_images/40mm_horizontal_cc_support_2.jpg)
-
-
-
 ![40mm Horizontal CC Support](_images/40mm_horizontal_cc_support.jpg)
+" %}
 
 # 40mm Vertical Cable Carrier Support
 These parts are used to guide and support the z-axis cable carrier. The gusset also functions as an area for the z-axis motor's cables to be routed through.
@@ -74,13 +68,10 @@ These parts are used to guide and support the z-axis cable carrier. The gusset a
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Name**        |`40mm Vertical CC Support Rev B`
 
-
-
+{% include gallery.html images="
 ![Vertical CC Support](_images/vertical_cc_support.jpg)
-
-
-
 ![Vertical CC Support 2](_images/vertical_cc_support_2.jpg)
+" %}
 
 # 40mm Cable Carrier Spacer Block
 This component offsets the z-axis cable carrier from the cross-slide plate.
@@ -93,13 +84,10 @@ This component offsets the z-axis cable carrier from the cross-slide plate.
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Name**        |`40mm CC Spacer Block Rev A`
 
-
-
+{% include gallery.html images="
 ![CC Spacer Block](_images/cc_spacer_block.jpg)
-
-
-
 ![CC Spacer Block 2](_images/cc_spacer_block_2.jpg)
+" %}
 
 # Solenoid Valve Mount
 This component features slots for the solenoid valve to be mounted with zip ties. It also doubles as a cable management part for routing cables behind the electronics box.
@@ -112,13 +100,10 @@ This component features slots for the solenoid valve to be mounted with zip ties
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Name**        |`Solenoid Valve Mount Rev A`
 
-
-
+{% include gallery.html images="
 ![Solenoid mount 1](_images/solenoid_mount_1.jpg)
-
-
-
 ![Solenoid mount 2](_images/solenoid_mount_2.jpg)
+" %}
 
 # Vacuum Pump Mount
 The vacuum pump mount features slots for zip ties to secure the vacuum pump to the z-axis extrusion.
@@ -131,13 +116,10 @@ The vacuum pump mount features slots for zip ties to secure the vacuum pump to t
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Name**        |`Vacuum Pump Mount Rev B`
 
-
-
+{% include gallery.html images="
 ![Vacuum Pump Mount](_images/vacuum_pump_mount.jpg)
-
-
-
 ![Vacuum Pump Mount 2](_images/vacuum_pump_mount_2.jpg)
+" %}
 
 # 50mm Horizontal Motor Housing
 These housings protect the gantry and cross-slide motors and encoders from rain.
@@ -165,13 +147,10 @@ This component protects the z-axis motor from rain.
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Name**        |`60mm Vertical Motor Housing Rev B`
 
-
-
+{% include gallery.html images="
 ![Vertical Motor Housing](_images/vertical_motor_housing.jpg)
-
-
-
 ![Vertical Motor Housing 2](_images/vertical_motor_housing_2.jpg)
+" %}
 
 # Vacuum Pump Housing
 This housing protects the vacuum pump from rain. It is mounted on the z-axis extrusion.
@@ -184,13 +163,10 @@ This housing protects the vacuum pump from rain. It is mounted on the z-axis ext
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Name**        |`Vacuum Pump Cover Rev A`
 
-
-
+{% include gallery.html images="
 ![Vacuum Cover 1](_images/vacuum_cover_1.jpg)
-
-
-
 ![Vacuum Cover2](_images/vacuum_cover2.jpg)
+" %}
 
 # 3-in-1 Tool Head
 This part combines the watering, weeding, and seed injection functions of FarmBot into one static tool head.
@@ -203,13 +179,10 @@ This part combines the watering, weeding, and seed injection functions of FarmBo
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 |**Internal Part Name**        |`3-in-1 Tool Head Rev B`
 
-
-
+{% include gallery.html images="
 ![Tool Head](_images/tool_head.jpg)
-
-
-
 ![Tool Head 2](_images/tool_head_2.jpg)
+" %}
 
 # Seed Trough Holder
 This gantry-mounted seed trough holder allows FarmBot to bring seeds with it while traveling along the x-axis, shortening the time needed for seed injection.

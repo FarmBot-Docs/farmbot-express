@@ -22,11 +22,10 @@ description: "Pre-assembly instructions for the FarmBot Express and Express XL g
 # Step 1: Mount the cable carrier supports
 Mount four **40mm horizontal cable carrier supports** into the middle slot of the **gantry main beam** using eight **M5 x 10mm screws** and four **40mm nut bars**. The supports should be spaced as shown in the drawing below.
 
+{% include gallery.html images="
 ![gantry main beam](_images/gantry_main_beam.jpg)
-
-
-
 ![Main beam CCs](_images/main_beam_ccs.jpg)
+" %}
 
 # Step 2: Repeat (for XL only)
 Repeat step 1 to create a second gantry main beam with attached cable carrier supports.

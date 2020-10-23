@@ -28,11 +28,10 @@ Using a small bladed screwdriver, gently lift the **tab** holding the **red wire
 
 Gently remove the **red wire and metal contact** from the **black plastic connector**. Do NOT remove the metal contact from the wire.
 
+{% include gallery.html images="
 ![remove red wire from connector](_images/remove_red_wire_from_connector.jpg)
-
-
-
 ![red wire removed from connector](_images/red_wire_removed_from_connector.jpg)
+" %}
 
 Plug the wiring harness's blue connector back onto the button. Then plug the black connector back into the electronics board. The yellow wire should be closest to the green Raspberry Pi Zero electronics board. Then plug the red wire into the top-right pin on the electronics board.
 
@@ -43,13 +42,10 @@ title=""
 content="Ensure that the red wire's metal contact is not touching any other pins otherwise this will cause a short circuit."
 %}
 
-
-
+{% include gallery.html images="
 ![fixed e-stop button wiring](_images/fixed_e-stop_button_wiring.jpg)
-
-
-
 ![fixed e-stop button wiring close-up](_images/fixed_e-stop_button_wiring_close-up.jpg)
+" %}
 
 # Step 4: Power up FarmBot
 Plug the FarmBot back in and wait for it to boot up. Try sending some movement commands to ensure it is fully up and running. Then test the E-stop button to ensure it works as expected.

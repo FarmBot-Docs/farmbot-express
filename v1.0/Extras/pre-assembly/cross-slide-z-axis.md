@@ -25,13 +25,10 @@ title="Do not force the extrusion into the cross-slide"
 content="The extrusion should be able to slide into the cross-slide easily. If you encounter resistance, DO NOT FORCE IT. If the extrusion does not slide in, ensure the eccentric spacers are adjusted according to the instructions in step 1. If the extrusion still does not slide in, loosen the flange locknuts for the two v-wheels with normal spacers, push those v-wheels towards the motor and retighten. There should now be enough clearance between the v-wheels for the extrusion to slide into the cross-slide."
 %}
 
-
-
+{% include gallery.html images="
 ![slide z axis into cross slide](_images/slide_z_axis_into_cross_slide.png)
-
-
-
 ![z axis in cross slide](_images/z_axis_in_cross_slide.png)
+" %}
 
 # Step 3: Adjust the eccentric spacers
 Using the **8mm thin wrench**, finely adjust the same three **eccentric spacers** from before to eliminate any wobble the extrusion has when sliding up and down. **Do not overtighten the eccentric spacers.** The idea here is to achieve a smooth, wobble-free movement, but not introduce unnecessary friction and resistance into the system.
