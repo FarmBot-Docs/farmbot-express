@@ -35,7 +35,11 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Express
 |**Price**                     |$25.00
 |**Quantity**                  |2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`Express Gantry Wheel Plate Rev A`
+{:.internal}
 
 {% include gallery.html images="
 ![Gantry Wheel Plates](_images/gantry_wheel_plates.jpg)
@@ -54,7 +58,11 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Express
 |**Price**                     |$30.00
 |**Quantity**                  |2 (1 left-hand and 1 right-hand version) :raised_hands:
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Names**       |`Left Gantry Corner Bracket Rev A`<br>`Right Gantry Corner Bracket Rev A`
+{:.internal}
 
 {% include gallery.html images="
 ![Gantry Corner Brackets](_images/gantry_corner_brackets.jpg)
@@ -73,7 +81,11 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Express
 |**Price**                     |$35.00
 |**Quantity**                  |Express - 0<br>Express XL - 1<br>Express MAX - 1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`Gantry Joining Bracket Rev B`
+{:.internal}
 
 {% include gallery.html images="
 ![Gantry Joining Bracket 2](_images/gantry_joining_bracket_2.jpg)
@@ -92,7 +104,11 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Express
 |**Price**                     |$25.00
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`Express Cross-Slide Plate Rev A`
+{:.internal}
 
 
 
@@ -108,7 +124,11 @@ This component securely attached the z-axis motor to the z-axis extrusion.
 |**Price**                     |$20.00
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`Express Z-Axis Motor Mount Rev A`
+{:.internal}
 
 
 
@@ -124,7 +144,11 @@ This part allows the x-axis cable carrier to be mounted to the gantry column.
 |**Price**                     |$8.00
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`50mm CC Mount Rev A`
+{:.internal}
 
 
 
@@ -140,7 +164,11 @@ This part allows the y-axis cable carrier to be mounted to the cross-slide plate
 |**Price**                     |$10.00
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`65mm CC Mount Rev A`
+{:.internal}
 
 
 
@@ -160,7 +188,11 @@ This part allows the y-axis cable carrier to be mounted to the cross-slide plate
 |**Price**                     |$3.00
 |**Quantity**                  |6
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`Belt Clip Rev A`
+{:.internal}
 
 {% include gallery.html images="
 ![Belt Clips](_images/belt_clips.jpg)
@@ -178,7 +210,11 @@ These components mount on the z-axis extrusion and physically limit how low and 
 |**Price**                     |$3.00
 |**Quantity**                  |2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`Z-Axis Hardstop Rev A`
+{:.internal}
 
 
 

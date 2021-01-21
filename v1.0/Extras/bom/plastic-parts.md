@@ -34,7 +34,11 @@ These part offset the gantry wheel plates from the gantry columns, and serve as 
 |**Price**                     |$6.00
 |**Quantity**                  |2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`Gantry Plate Spacer Block Rev A`
+{:.internal}
 
 {% include gallery.html images="
 ![Gantry Plate Spacer Blocks](_images/gantry_plate_spacer_blocks.jpg)
@@ -50,7 +54,11 @@ These parts are used to mount and support both the x-axis and y-axis cable carri
 |**Price**                     |$3.00
 |**Quantity**                  |Express - 4<br>Express XL - 8<br>Express MAX - 8
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`40mm Horizontal CC Support Rev B`
+{:.internal}
 
 {% include gallery.html images="
 ![40mm Horizontal CC Support 2](_images/40mm_horizontal_cc_support_2.jpg)
@@ -66,7 +74,11 @@ These parts are used to guide and support the z-axis cable carrier. The gusset a
 |**Price**                     |$3.00
 |**Quantity**                  |4
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`40mm Vertical CC Support Rev B`
+{:.internal}
 
 {% include gallery.html images="
 ![Vertical CC Support](_images/vertical_cc_support.jpg)
@@ -82,7 +94,11 @@ This component offsets the z-axis cable carrier from the cross-slide plate.
 |**Price**                     |$3.00
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`40mm CC Spacer Block Rev A`
+{:.internal}
 
 {% include gallery.html images="
 ![CC Spacer Block](_images/cc_spacer_block.jpg)
@@ -98,7 +114,11 @@ This component features slots for the solenoid valve to be mounted with zip ties
 |**Price**                     |$6.00
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`Solenoid Valve Mount Rev A`
+{:.internal}
 
 {% include gallery.html images="
 ![Solenoid mount 1](_images/solenoid_mount_1.jpg)
@@ -114,7 +134,11 @@ The vacuum pump mount features slots for zip ties to secure the vacuum pump to t
 |**Price**                     |$6.00
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`Vacuum Pump Mount Rev B`
+{:.internal}
 
 {% include gallery.html images="
 ![Vacuum Pump Mount](_images/vacuum_pump_mount.jpg)
@@ -130,7 +154,11 @@ These housings protect the gantry and cross-slide motors and encoders from rain.
 |**Price**                     |$8.00
 |**Quantity**                  |3
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`50mm Horizontal Motor Housing Rev A`
+{:.internal}
 
 
 
@@ -145,7 +173,11 @@ This component protects the z-axis motor from rain.
 |**Price**                     |$10.00
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`60mm Vertical Motor Housing Rev B`
+{:.internal}
 
 {% include gallery.html images="
 ![Vertical Motor Housing](_images/vertical_motor_housing.jpg)
@@ -161,7 +193,11 @@ This housing protects the vacuum pump from rain. It is mounted on the z-axis ext
 |**Price**                     |$15.00
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`Vacuum Pump Cover Rev A`
+{:.internal}
 
 {% include gallery.html images="
 ![Vacuum Cover 1](_images/vacuum_cover_1.jpg)
@@ -177,7 +213,11 @@ This part combines the watering, weeding, and seed injection functions of FarmBo
 |**Price**                     |$20.00
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`3-in-1 Tool Head Rev B`
+{:.internal}
 
 {% include gallery.html images="
 ![Tool Head](_images/tool_head.jpg)
@@ -193,7 +233,11 @@ This gantry-mounted seed trough holder allows FarmBot to bring seeds with it whi
 |**Price**                     |$8.00
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`Seed Trough Holder Rev B`
+{:.internal}
 
 
 
@@ -208,7 +252,11 @@ These troughs fit into the seed trough holder, allowing FarmBot to bring seeds w
 |**Price**                     |$3.00
 |**Quantity**                  |2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`Seed Trough Rev A`
+{:.internal}
 
 
 
@@ -223,7 +271,11 @@ These small plastic components fasten the borescope camera to the z-axis extrusi
 |**Price**                     |$3.00
 |**Quantity**                  |2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`Camera Mount Halves Rev A`
+{:.internal}
 
 
 
