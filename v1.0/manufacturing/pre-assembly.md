@@ -8,8 +8,6 @@ slug: "pre-assembly"
 
 FarmBot Express comes 95% pre-assembled in the box. The following pages show how the pre-assemblies were put together at the factory, which may be useful if you need to disassemble and reassemble parts of your FarmBot.
 
-
-
 # What's next?
 
  * [Electronics Box](pre-assembly/electronics-box.md)

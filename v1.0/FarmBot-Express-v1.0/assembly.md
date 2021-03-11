@@ -19,16 +19,12 @@ title="Handle with care"
 content="The aluminum extrusions may have sharp corners and edges."
 %}
 
-
-
 {%
 include callout.html
 type="success"
 title="We'll make it right"
 content="If anything is missing or damaged, let us know right away at [support@farm.bot](mailto:support@farm.bot). We'll ship out replacement parts as soon as we can."
 %}
-
-
 
 # Plan accordingly
 
@@ -41,10 +37,6 @@ Compared to FarmBot Genesis, FarmBot Express is much simpler and easier to set u
 |Belts                         |10 minutes                    |10 minutes                    |10 minutes
 |Cables and tubing             |10 minutes                    |10 minutes                    |10 minutes
 |**TOTAL**                     |**1 hour for just FarmBot**<br>**9 hours with raised bed**|**1 hour for just FarmBot**<br>**13 hours with raised bed**|**1 hour for just FarmBot**<br>**31 hours with raised bed**
-
-
-
-
 
 # What's next?
 

@@ -16,18 +16,12 @@ In the next sections we offer advice for building two types of supporting infras
 |Express XL                    |:heavy_check_mark:            |:no_entry:
 |Express MAX                   |:heavy_check_mark:            |:no_entry:
 
-
-
 {%
 include callout.html
 type="success"
 title="Be prepared"
 content="If you recently ordered a FarmBot, you may want to begin building your supporting infrastructure while your FarmBot is in the mail. This way you'll be prepared for a faster assembly time when your package arrives."
 %}
-
-
-
-
 
 # What's next?
 
