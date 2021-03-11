@@ -18,32 +18,33 @@ description: "Packing details for FarmBot Express and Express XL"
 |**Printing**                  |[Express v1.0](https://drive.google.com/open?id=18UmvSD0mbIaWk9RcUdK-3NRXliM-qCgA)<br>[Express XL v1.0](https://drive.google.com/open?id=1IIamo2Ho_0C98S5_kgoEby-87YKafSsk)
 |**Fill**                      |Two egg-carton trays<br>One cardboard tray divider<br>Recycled kraft paper
 
-
-
 ![express box insides](_images/express_box_insides.png)
 
 # Packing list
+
 The table below shows the items that should be packed into the **main carton** for each version of the kit.
 
 |Item                          |Express Qty                   |XL Qty                        |
 |------------------------------|------------------------------|------------------------------|
-|[Pre-assembled Left Gantry Column](pre-assembly/left-gantry-column.md)|1                             |1
-|[Pre-assembled Right Gantry Column](pre-assembly/right-gantry-column.md)|1                             |1
-|[Pre-assembled Gantry Main Beam](pre-assembly/gantry-main-beam.md)|1                             |2
-|[Pre-assembled Cross-Slide and Z-Axis](pre-assembly/cross-slide-z-axis.md)|1                             |1
-|[Loaded X-Axis Cable Carrier (Express)](pre-assembly/cable-carriers.md#x-axis-cable-carrier)|1                             |-
-|[Loaded X-Axis Cable Carrier (Express XL)](pre-assembly/cable-carriers.md#x-axis-cable-carrier)|-                             |1
-|[Loaded Y-Axis Cable Carrier (Express)](pre-assembly/cable-carriers.md#y-axis-cable-carrier)|1                             |-
-|[Loaded Y-Axis Cable Carrier (Express XL)](pre-assembly/cable-carriers.md#y-axis-cable-carrier)|-                             |1
-|[Hardware Box (Express)](pre-assembly/hardware-box.md)|1                             |-
-|[Hardware Box (Express XL)](pre-assembly/hardware-box.md)|-                             |1
+|[Pre-assembled Left Gantry Column](../pre-assembly/left-gantry-column.md)|1|1
+|[Pre-assembled Right Gantry Column](../pre-assembly/right-gantry-column.md)|1|1
+|[Pre-assembled Gantry Main Beam](../pre-assembly/gantry-main-beam.md)|1|2
+|[Pre-assembled Cross-Slide and Z-Axis](../pre-assembly/cross-slide-z-axis.md)|1|1
+|[Loaded X-Axis Cable Carrier (Express)](../pre-assembly/cable-carriers.md#x-axis-cable-carrier)|1|-
+|[Loaded X-Axis Cable Carrier (Express XL)](../pre-assembly/cable-carriers.md#x-axis-cable-carrier)|-|1
+|[Loaded Y-Axis Cable Carrier (Express)](../pre-assembly/cable-carriers.md#y-axis-cable-carrier)|1|-
+|[Loaded Y-Axis Cable Carrier (Express XL)](../pre-assembly/cable-carriers.md#y-axis-cable-carrier)|-|1
+|[Hardware Box (Express)](../pre-assembly/hardware-box.md)|1|-
+|[Hardware Box (Express XL)](../pre-assembly/hardware-box.md)|-|1
 |Power Supply                  |1                             |1
 |Getting Started Guide         |1                             |1
 |Camera Calibration Card       |1                             |1
 |Crop Stickers                 |1                             |1
 
 # Packing instructions
+
 ## Step 1: Load the bottom tray
+
 Insert the **bottom tray** into the **main carton**.
 
 ![bottom tray](_images/bottom_tray.png)
@@ -63,8 +64,6 @@ Express XL kits must include the Express XL version of the cable carriers:
 * Loaded Y-Axis Cable Carrier (Express XL)"
 %}
 
-
-
 ![cable carriers in bottom tray](_images/cable_carriers_in_bottom_tray.png)
 
 Place the **pre-assembled gantry main beam(s)** intro the tray. Express kits should have one main beam, while Express XL kits should have two main beams.
@@ -72,11 +71,13 @@ Place the **pre-assembled gantry main beam(s)** intro the tray. Express kits sho
 ![beams in bottom tray](_images/beams_in_bottom_tray.png)
 
 ## Step 2: Insert the cardboard divider
+
 Place the **cardboard tray divider** on top of the bottom tray.
 
 ![cardboard divider](_images/cardboard_divider.png)
 
 ## Step 3: Load the top tray
+
 Insert the **top tray** into the main carton, on top of the cardboard divider.
 
 ![top tray](_images/top_tray.png)
@@ -105,6 +106,7 @@ Then place the **getting started guide**, **camera calibration card**, and **cro
 ![hardware box top tray](_images/hardware_box_top_tray.png)
 
 ## Step 4: Close the main carton
+
 Close the flaps of the **main carton** and seal with **clear packing tape**.
 
 ![closed main carton](_images/closed_main_carton.png)
@@ -112,7 +114,3 @@ Close the flaps of the **main carton** and seal with **clear packing tape**.
 Position **25mm x 25mm cardboard edge protectors** along the four long edges of main carton. Then secure everything with six **black polystraps**. The polystraps should be in pairs: one pair in the middle, and one pair spaced approximately 150mm from each end of the main carton.
 
 ![main carton polystrapped](_images/main_carton_polystrapped.png)
-
-
-
-

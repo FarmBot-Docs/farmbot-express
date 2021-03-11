@@ -54,6 +54,12 @@ contents:
         pages:
           - title: Faulty E-Stop Button
             url: faulty-e-stop-button
+      - title: Eccentric Spacer Adjustment
+        url: eccentric-spacer-adjustment
+  - title: Manufacturing
+    url: manufacturing
+    top: true
+    pages:
       - title: Pre-Assembly
         url: pre-assembly
         pages:
@@ -75,9 +81,10 @@ contents:
             url: z-axis
           - title: Cross-Slide + Z-Axis
             url: cross-slide-z-axis
-      - title: Main Carton Packing
-        url: main-carton-packing
-      - title: Pallet Stacking
-        url: pallet-stacking
-      - title: Eccentric Spacer Adjustment
-        url: eccentric-spacer-adjustment
+      - title: Packing
+        url: packing
+        pages:
+          - title: Main Carton Packing
+            url: main-carton-packing
+          - title: Pallet Stacking
+            url: pallet-stacking
