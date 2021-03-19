@@ -17,7 +17,21 @@ Feed each end of the **x-axis belts** down through the center channels in the tw
 
 # Step 2: Secure the belts
 
-Secure both ends of each **belt** to a **belt clip** using a **belt sleeve** and the same method used when [securing the y-axis belt](attach-the-z-axis.md#step-2-attach-the-y-axis-belt). Then attach the belt clips to the **raised bed** using two **wood screws**. The belt clip tabs should be extending over the outside of the bed to serve as hardstops against the gantry wheel plate.
+Secure both ends of each **belt** to a **belt clip** using a **belt sleeve** and the same method used when [securing the y-axis belt](attach-the-z-axis.md#step-2-attach-the-y-axis-belt). Then attach the belt clips to the **raised bed** using two **wood screws**. The belt clip tabs should be extending over the outside of the bed to serve as hardstops against the gantry wheel plates.
+
+{%
+include callout.html
+type="success"
+title="Just like tying your shoes"
+content="When tigtening and securing the belts and belt clips, use the same amount of force you would use to tie your shoes. There should be no slack in the system once the belt sleeve is in place."
+%}
+
+{%
+include callout.html
+type="warning"
+title="Do not overtighten"
+content="Overtightening the belts may result in the front wheels of the gantry lifting off of the raised bed. If you notice this, loosen the belts slightly so that the gantry rests and rolls on the bed with all four wheels."
+%}
 
 {% include gallery.html images="
 ![x axis belt clip mounted](_images/x_axis_belt_clip_mounted.png)

@@ -38,7 +38,14 @@ Route the belt under the wheels of the cross-slide plate and over the y-axis mot
 
 ![y axis belt pulley routing](_images/y_axis_belt_pulley_routing.png)
 
-Attach another **belt clip** to the other end of the **main beam**, again ensuring the tab is on the same side of the main beam as the cross-slide plate. Using the same method as before, secure the loose end of the belt to the second belt clip. When pulling the belt through the clip and engaging the teeth, ensure the belt is pulled snug. There should be no slack in the system once the belt sleeve is in place.
+Attach another **belt clip** to the other end of the **main beam**, again ensuring the tab is on the same side of the main beam as the cross-slide plate. Using the same method as before, secure the loose end of the belt to the second belt clip.
+
+{%
+include callout.html
+type="success"
+title="Just like tying your shoes"
+content="When pulling the belt through the second belt clip and engaging the teeth, the belt should be pulled snug with the same amount of force you would use to tie your shoes. There should be no slack in the system once the belt sleeve is in place."
+%}
 
 {% include gallery.html images="
 ![second y axis belt clip installed](_images/second_y_axis_belt_clip_installed.png)
