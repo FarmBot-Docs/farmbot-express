@@ -8,7 +8,7 @@ slug: "attach-the-z-axis"
 
 # Step 1: Slide on the cross-slide and z-axis
 
-Carefully slide the **cross-slide and z-axis subassembly** onto the **gantry** from the right side (the side without the electronics box). When sliding it on, make sure to hold and slide it perpendicular to the main beam. Rotating the z-axis before it is fully on the beam will apply a large force on the v-wheels and could result in damage.
+Carefully slide the **cross-slide and z-axis subassembly** onto the **gantry** from the right side (the side without the electronics box). If necessary, rotate the **leadscrew** (and z-axis motor) by hand to adjust the subasssembly so that it can fit past the other gantry components and raised bed.
 
 {%
 include callout.html
@@ -16,7 +16,7 @@ type="warning"
 title="Do not force it on"
 content="The cross-slide's v-wheels have been factory adjusted to fit snugly on the main beam's extrusion. However, slight dimensional changes in the extrusions and wheels can impact this fit.
 
-When sliding the cross-slide onto the main beam, do not force it on. If it feels too tight, refer to [this document to adjust the v-wheels](../../Extras/eccentric-spacer-adjustment.md)."
+When sliding the subassembly onto the main beam, make sure to hold and slide it _perpendicular_ to the main beam. Sliding it at an angle could result in damage. **Do not force it on.** If it feels too tight, refer to [this document to adjust the v-wheels](../../Extras/eccentric-spacer-adjustment.md)."
 %}
 
 {% include gallery.html images="
