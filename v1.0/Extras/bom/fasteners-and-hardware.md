@@ -229,7 +229,15 @@ These are used to attach the track end plates and track joining plates to suppor
 ![Wood Screws](_images/wood_screws.jpg)
 
 # Dowel Pins
-These pins are used to help align the gantry main beams on XL and MAX devices.
+
+These pins were used to help align the gantry main beams on XL and MAX devices during assembly.
+
+{%
+include callout.html
+type="info"
+title="No longer recommended"
+content="Due to manufacturing tolerances with the aluminum extrusions, we no longer recommend using these components in the assembly. Use a flat surface, such as a table, to help align the gantry main beams instead."
+%}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -240,10 +248,7 @@ These pins are used to help align the gantry main beams on XL and MAX devices.
 |**Price**                     |$2.00
 |**Quantity**                  |Express: 0<br>Express XL: 3<br>Express MAX: 3
 
-
-
 ![dowel pins](_images/dowel_pins.jpg)
-
 
 # Zip Ties
 Zip ties are used to fasten the vacuum pump and solenoid valve.

@@ -9,8 +9,6 @@ slug: "construct-the-gantry"
 
 # Step 1: Assemble the main beam
 
-
-
 {%
 include callout.html
 type="info"
@@ -22,12 +20,6 @@ Insert four **60mm nut bars** into the lower two slots in each of the **gantry m
 
 ![gantry beam connection](_images/gantry_beam_connection.png)
 
-Insert the slightly larger diameter half of three **dowel pins** half-way into the holes in one of the **gantry main beam subassemblies**. The pins should fit snugly, and require a small amount of force to be put in. If a pin is loose, try inserting it into the second **gantry main beam subassembly**. Be careful to not lose any pins inside the extrusions.
-
-![gantry beam connection dowel pins](_images/gantry_beam_connection_dowel_pins.png)
-
-
-
 {%
 include callout.html
 type="success"
@@ -35,28 +27,13 @@ title="Find a flat surface"
 content="The next steps require a flat surface such as a table or patio."
 %}
 
-Place both **gantry main beam subassemblies** on a flat surface. Then slide the two extrusions together so the exposed dowel pins are inserted into the other beam.
-
-![gantry beams connected with dowel pins](_images/gantry_beams_connected_with_dowel_pins.png)
-
-
-
-{%
-include callout.html
-type="warning"
-title="Watch your alignment"
-content="At this time the three dowel pins will be keeping the two extrusions aligned. Avoid moving the extrusions in a way that would un-align them, otherwise you risk bending the dowel pins."
-%}
-
-Position the **gantry joining bracket** such that the notch in the bottom of the bracket is aligned with the joint between the two main beams. Then insert and tighten eight **M5 x 10mm screws**.
+Place both **gantry main beam subassemblies** on a flat surface, end-to-end. Position the **gantry joining bracket** such that the notch in the bottom of the bracket is aligned with the joint between the two main beams. Then insert and tighten eight **M5 x 10mm screws**.
 
 ![gantry joining bracket mounted](_images/gantry_joining_bracket_mounted.png)
 
 The completed main beam for XL and MAX bots should now look like this. Note that in the rest of the documentation we'll be showing images of the standard sized main beam, but all the instructions are the same from here on out.
 
 ![assembled gantry main beam](_images/assembled_gantry_main_beam.png)
-
-
 
 # Step 2: Attach the gantry columns
 
@@ -72,8 +49,6 @@ type="info"
 title=""
 content="Note that in the images below, we are looking at the FarmBot from the back side, so the left gantry column subassembly appears on the right of the image."
 %}
-
-
 
 ![gantry column attached](_images/gantry_column_attached.png)
 
@@ -105,10 +80,6 @@ Slide and position the second column such that it is perpendicular to the main b
 Tighten the four screws holding the second column to the main beam.
 
 ![gantry column beam connection screws](_images/gantry_column_beam_connection_screws.png)
-
-
-
-
 
 # What's next?
 
