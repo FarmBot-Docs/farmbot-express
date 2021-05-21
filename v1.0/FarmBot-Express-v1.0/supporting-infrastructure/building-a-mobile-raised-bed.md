@@ -173,11 +173,11 @@ Position the **middle floor panel** over the gap in the middle of the bed, and a
 
 # Step 10: Attach the cable carrier supports
 
-Using **90mm screws** spaced every 150mm, attach the two **cable carrier supports** to the side of the bed where you plan for your FarmBot's electronics box to be located. One support should be positioned 90mm from the top of the bed and extend from the edge of the bed to the midpoint. The second support should be positioned 20mm from the top of the bed and extend from the midpoint to the other end of the bed.
+Use **90mm screws** spaced every 150mm to attach the two **cable carrier supports** to the side of the bed where you plan for your FarmBot's electronics box to be located. One support should be positioned 100mm from the top of the bed and extend from the midpoint to the end of the bed where you plan for FarmBot's home position to be. The second support should be positioned 20mm from the top of the bed and extend from the midpoint to the other end of the bed.
 
 {% include gallery.html images="
-![middle panel attached](_images/mobile_bed_cable_carrier_support_1.png)
-![middle panel attached](_images/mobile_bed_cable_carrier_support_2.png)
+![cable carrier support 1](_images/mobile_bed_cable_carrier_support_1.png)
+![cable carrier support 2](_images/mobile_bed_cable_carrier_support_2.png)
 " %}
 
 # Step 11: Sand the top surfaces
