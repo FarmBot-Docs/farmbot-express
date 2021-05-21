@@ -191,7 +191,7 @@ With larger raised beds, especially those for FarmBot Express XL, it is possible
 
 # Step 9: Fill the bed
 
-Back-fill the post holes with native soil, making sure to compact around the posts to reduce movement. Then fill the bed with gardening soil or a mix of native soil and compost, keeping out large rocks and branches. The Express bed will require 3 to 4m<sup>2</sup> of soil, while the Express XL bed will require 12 to 16m<sup>2</sup>.
+Back-fill the post holes with native soil, making sure to compact around the posts to reduce movement. Then fill the bed with gardening soil or a mix of native soil and compost, keeping out large rocks and branches. The Express bed will require approximately 0.75m<sup>2</sup> of soil, while the Express XL bed will require 3m<sup>2</sup>.
 
 {% include gallery.html images="
 ![fill express bed](_images/fixed_raised_bed_fill_bed.png)
