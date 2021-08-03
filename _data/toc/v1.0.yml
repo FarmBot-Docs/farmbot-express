@@ -54,8 +54,12 @@ contents:
         pages:
           - title: Faulty E-Stop Button
             url: faulty-e-stop-button
+          - title: Picking Up Seeds
+            url: picking-up-seeds
       - title: Eccentric Spacer Adjustment
         url: eccentric-spacer-adjustment
+      - title: Seeds
+        url: seeds
   - title: Manufacturing
     url: manufacturing
     top: true

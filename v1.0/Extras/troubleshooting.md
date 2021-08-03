@@ -15,10 +15,7 @@ title="We're here to help"
 content="Still having issues? Please email support@farm.bot or consider posting in the [community forum](https://forum.farmbot.org)."
 %}
 
-
-
-
-
 # What's next?
 
  * [Faulty E-Stop Button](troubleshooting/faulty-e-stop-button.md)
+ * [Picking Up Seeds](troubleshooting/picking-up-seeds.md)
