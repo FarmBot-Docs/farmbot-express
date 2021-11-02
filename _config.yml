@@ -28,3 +28,6 @@ algolia:
   index_name: express
   search_only_api_key: cad8ec927860485f3a8ac1ce2372be28
   nodes_to_index: 'p,table,h1'
+  files_to_exclude:
+    - index.md
+    - /**/manufacturing/**/*
