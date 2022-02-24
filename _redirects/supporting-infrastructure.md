@@ -1,5 +1,5 @@
 ---
 permalink: /docs/supporting-infrastructure
-page_path: /FarmBot-Express-v1.0/supporting-infrastructure
+page_path: /assembly/supporting-infrastructure
 layout: redirect
 ---

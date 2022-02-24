@@ -1,5 +1,5 @@
 ---
 permalink: /docs/bom
-page_path: /Extras/bom
+page_path: /extras/bom
 layout: redirect
 ---

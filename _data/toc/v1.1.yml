@@ -1,0 +1,94 @@
+version_number: 1.1
+status: stable
+home: assembly/intro
+contents:
+  - title: FarmBot Express V1.1
+    url: assembly
+    top: true
+    pages:
+      - title: Intro to FarmBot Express
+        url: intro
+      - title: Supporting Infrastructure
+        url: supporting-infrastructure
+        pages:
+          - title: Building a Mobile Raised Bed
+            url: building-a-mobile-raised-bed
+          - title: Building a Fixed Raised Bed
+            url: building-a-fixed-raised-bed
+      - title: Assembly
+        url: assembly
+        pages:
+          - title: Construct the Gantry
+            url: construct-the-gantry
+          - title: Attach the Z-Axis
+            url: attach-the-z-axis
+          - title: Mount FarmBot to the Bed
+            url: mount-farmbot-to-the-bed
+          - title: Plug Everything In
+            url: plug-everything-in
+  - title: Extras
+    url: extras
+    top: true
+    pages:
+      - title: CAD Models
+        url: cad
+      - title: Bill of Materials
+        url: bom
+        pages:
+          - title: Extrusions
+            url: extrusions
+          - title: Plates and Brackets
+            url: plates-and-brackets
+          - title: Plastic Parts
+            url: plastic-parts
+          - title: Fasteners and Hardware
+            url: fasteners-and-hardware
+          - title: Drivetrain
+            url: drivetrain
+          - title: Electronics and Wiring
+            url: electronics-and-wiring
+          - title: Tubing
+            url: tubing
+      - title: Troubleshooting
+        url: troubleshooting
+        pages:
+          - title: Faulty E-Stop Button
+            url: faulty-e-stop-button
+          - title: Picking Up Seeds
+            url: picking-up-seeds
+      - title: Eccentric Spacer Adjustment
+        url: eccentric-spacer-adjustment
+      - title: Seeds
+        url: seeds
+  - title: Manufacturing
+    url: manufacturing
+    top: true
+    pages:
+      - title: Pre-Assembly
+        url: pre-assembly
+        pages:
+          - title: Electronics Box
+            url: electronics-box
+          - title: Cable Carriers
+            url: cable-carriers
+          - title: Left Gantry Column
+            url: left-gantry-column
+          - title: Right Gantry Column
+            url: right-gantry-column
+          - title: Hardware Box
+            url: hardware-box
+          - title: Gantry Main Beam
+            url: gantry-main-beam
+          - title: Cross-Slide
+            url: cross-slide
+          - title: Z-Axis
+            url: z-axis
+          - title: Cross-Slide + Z-Axis
+            url: cross-slide-z-axis
+      - title: Packing
+        url: packing
+        pages:
+          - title: Main Carton Packing
+            url: main-carton-packing
+          - title: Pallet Stacking
+            url: pallet-stacking

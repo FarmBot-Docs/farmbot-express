@@ -1,5 +1,5 @@
 ---
 permalink: /docs/tubing
-page_path: /Extras/bom/tubing
+page_path: /extras/bom/tubing
 layout: redirect
 ---
