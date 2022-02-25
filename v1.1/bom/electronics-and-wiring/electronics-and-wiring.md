@@ -110,14 +110,14 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 | | |
 |------------------------------|------------------------------|
 |**Material**|Nylon PA66
-|**Lengths**|**Express**<br>X-Axis - 1.7m (85 links + end pieces)<br>Y-Axis - 1.4m (70 links + end pieces)<br>Z-Axis - 0.74m (37 links + end pieces)<br><br>**Express XL**<br>X-Axis - 3.2m (160 links + end pieces)<br>Y-Axis - 2.6m (130 links + end pieces)<br>Z-Axis - 0.74m (37 links + end pieces)<br><br>**Express MAX**<br>X-Axis - 9.2m (460 links + end pieces)<br>Y-Axis - 2.6m (130 links + end pieces)<br>Z-Axis - 0.74m (37 links + end pieces)
+|**Lengths**|**Express**<br>X-Axis - 1.7m (85 links + end pieces)<br>Y-Axis - 1.4m (70 links + end pieces)<br>Z-Axis - 0.74m (37 links + end pieces)<br><br>**Express XL**<br>X-Axis - 3.2m (160 links + end pieces)<br>Y-Axis - 2.6m (130 links + end pieces)<br>Z-Axis - 0.74m (37 links + end pieces)
 |**Inside Height** |15mm
 |**Inside Width**|30mm
 |**Outside Height**|20mm
 |**Outside Width** |38.2mm
 |**Pitch**|20mm
 |**Bending Radius**|28mm
-|**Price**|**Express**<br>X-Axis - $40.00<br>Y-Axis - $30.00<br>Z-Axis - $20.00<br><br>**Express XL**<br>X-Axis - $70.00<br>Y-Axis - $50.00<br>Z-Axis - $20.00<br><br>**Express MAX**<br>X-Axis - $200.00<br>Y-Axis - $50.00<br>Z-Axis - $20.00
+|**Price**|**Express**<br>X-Axis - $40.00<br>Y-Axis - $30.00<br>Z-Axis - $20.00<br><br>**Express XL**<br>X-Axis - $70.00<br>Y-Axis - $50.00<br>Z-Axis - $20.00
 |**Quantity**|1 for each axis
 
 

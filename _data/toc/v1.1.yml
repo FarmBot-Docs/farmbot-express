@@ -32,23 +32,6 @@ contents:
     pages:
       - title: CAD Models
         url: cad
-      - title: Bill of Materials
-        url: bom
-        pages:
-          - title: Extrusions
-            url: extrusions
-          - title: Plates and Brackets
-            url: plates-and-brackets
-          - title: Plastic Parts
-            url: plastic-parts
-          - title: Fasteners and Hardware
-            url: fasteners-and-hardware
-          - title: Drivetrain
-            url: drivetrain
-          - title: Electronics and Wiring
-            url: electronics-and-wiring
-          - title: Tubing
-            url: tubing
       - title: Troubleshooting
         url: troubleshooting
         pages:
@@ -60,6 +43,24 @@ contents:
         url: eccentric-spacer-adjustment
       - title: Seeds
         url: seeds
+  - title: Bill of Materials
+    url: bom
+    top: true
+    pages:
+      - title: Extrusions
+        url: extrusions
+      - title: Plates and Brackets
+        url: plates-and-brackets
+      - title: Plastic Parts
+        url: plastic-parts
+      - title: Fasteners and Hardware
+        url: fasteners-and-hardware
+      - title: Drivetrain
+        url: drivetrain
+      - title: Electronics and Wiring
+        url: electronics-and-wiring
+      - title: Tubing
+        url: tubing
   - title: Manufacturing
     url: manufacturing
     top: true

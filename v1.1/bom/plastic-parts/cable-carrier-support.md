@@ -13,7 +13,7 @@ description: "These parts are used to mount and support cable carriers. The guss
 |------------------------------|------------------------------|
 |**Material**                  |Gray UV stabilized ABS
 |**Price**                     |$3.00
-|**Quantity**                  |Express - 4<br>Express XL - 8<br>Express MAX - 8
+|**Quantity**                  |Express - 4<br>Express XL - 8
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
 |                              |                              |

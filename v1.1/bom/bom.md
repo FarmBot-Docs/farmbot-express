@@ -7,7 +7,7 @@ description: "Top-level BOM for all components in FarmBot Express, grouped by ca
 * toc
 {:toc}
 
-The table below lists all of the components used in FarmBot Express, Express XL, and Express MAX grouped by category. To see detailed tech specs and photos of each component, start by clicking a category and then choosing a component from the following page.
+The table below lists all of the components used in FarmBot Express and Express XL grouped by category. To see detailed tech specs and photos of each component, start by clicking a category and then choosing a component from the following page.
 
 |Category|Express Qty|Express Subtotal|XL Qty|XL Subtotal|MAX Qty|MAX Subtotal|
 |--------|-----------|----------------|------|-----------|-------|------------|

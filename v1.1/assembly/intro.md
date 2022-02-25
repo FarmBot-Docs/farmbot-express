@@ -16,22 +16,20 @@ FarmBot Express is available in three sizes: a standard sized model suitable for
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
 |Express                       |1.2m                          |3m                            |3.6m<sup>2</sup>              |0.5m
 |Express XL                    |2.4m                          |6m                            |14.4m<sup>2</sup>             |0.5m
-|Express MAX<br>([cancelled](https://farm.bot/blogs/news/putting-farmbot-genesis-max-and-express-max-on-hold))|2.4m                          |18m                           |43.2m<sup>2</sup>             |0.5m
 
 <iframe width="815" height="460" src="https://www.youtube.com/embed/0s5GU9SWquQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="815" height="460" src="https://www.youtube.com/embed/6XWiTzFPWWc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Express, Express XL, and Express MAX share many of the same components and assembly steps. This documentation covers the assembly, bill of materials, troubleshooting tips, and more of all sized kits. When certain information only applies to one kit or the other, there will be clear indication.
+Express and Express XL share many of the same components and assembly steps. This documentation covers the assembly, bill of materials, troubleshooting tips, and more of all sized kits. When certain information only applies to one kit or the other, there will be clear indication.
 
 # High level overview
 
-FarmBot Express, Express XL, and Express MAX are primarily constructed from V-Slot aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the Farmduino Express microcontroller, and a Raspberry Pi Zero computer.
+FarmBot Express and Express XL are primarily constructed from V-Slot aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the Farmduino Express microcontroller, and a Raspberry Pi Zero computer.
 
 {% include gallery.html images="
 ![FarmBot Express v1.0](_images/farmbot_express_v1.0.png)
 ![FarmBot Express XL v1.0](_images/farmbot_express_xl_v1.0.png)
-![FarmBot Express MAX v1.0](_images/farmbot_express_max.png)
 " %}
 
 ## Tracks
@@ -60,8 +58,6 @@ The table below shows the cost/m<sup>2</sup> of growing area based on the size o
 |------------|-------------|-------|------------------|--------|--------|
 |Express     |1.2m         |3m     |3.6m<sup>2</sup>  |~$1,800 |$500
 |Express XL  |2.4m         |6m     |14.4m<sup>2</sup> |~$2,300 |$160
-|Express MAX |2.4m         |18m    |43.2m<sup>2</sup> |~$3,000 |$70
-
 
 # Purchasing a kit
 

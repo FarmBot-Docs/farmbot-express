@@ -5,7 +5,7 @@ description: "This cable connects the camera to the Raspberry Pi through the y-a
 variants: 2.1m|3.3m
 price: $15.00|$20.00
 quantity:
-  genesis: 1|0
+  express: 1|0
   xl: 0|1
 specs:
   length: 2.1m|3.3m

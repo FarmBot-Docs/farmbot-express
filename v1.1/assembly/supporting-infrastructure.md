@@ -14,7 +14,6 @@ In the next sections we offer advice for building two types of supporting infras
 |------------------------------|:----------------------------:|:----------------------------:|
 |Express                       |:heavy_check_mark:            |:heavy_check_mark:
 |Express XL                    |:heavy_check_mark:            |:no_entry:
-|Express MAX                   |:heavy_check_mark:            |:no_entry:
 
 {%
 include callout.html
