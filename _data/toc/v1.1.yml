@@ -15,17 +15,16 @@ contents:
             url: building-a-mobile-raised-bed
           - title: Building a Fixed Raised Bed
             url: building-a-fixed-raised-bed
-      - title: Assembly
-        url: assembly
-        pages:
-          - title: Construct the Gantry
-            url: construct-the-gantry
-          - title: Attach the Z-Axis
-            url: attach-the-z-axis
-          - title: Mount FarmBot to the Bed
-            url: mount-farmbot-to-the-bed
-          - title: Plug Everything In
-            url: plug-everything-in
+      - title: Assembly Prep
+        url: assembly-prep
+      - title: Construct the Gantry
+        url: construct-the-gantry
+      - title: Attach the Z-Axis
+        url: attach-the-z-axis
+      - title: Mount FarmBot to the Bed
+        url: mount-farmbot-to-the-bed
+      - title: Plug Everything In
+        url: plug-everything-in
   - title: Extras
     url: extras
     top: true
@@ -35,8 +34,6 @@ contents:
       - title: Troubleshooting
         url: troubleshooting
         pages:
-          - title: Faulty E-Stop Button
-            url: faulty-e-stop-button
           - title: Picking Up Seeds
             url: picking-up-seeds
       - title: Eccentric Spacer Adjustment

@@ -12,6 +12,7 @@ Eccentric spacers are used for making fine adjustments to the spacing between th
 If the spacing between v-wheels is too little, then the extrusions will not fit between the v-wheels at all or be tough to move. If the spacing is too great, then the connection will be wobbly and loose. Let's adjust the eccentric spacers throughout FarmBot to be just right.
 
 # Fit test
+
 First, see if the extrusion will easily slide in between the v-wheels. It will very likely either be too loose and wobble, or too tight and not fit at all. Take note of which v-wheels need adjustment.
 
 {%
@@ -21,11 +22,10 @@ title="Don't use force"
 content="If the wheel spacing is too small, do not force it on. Excessive force can cause a screw or plate to bend, introduce significant friction to the system, cause a wheel to deform, or induce other damage."
 %}
 
-
-
 ![cross slide fit test](_images/cross_slide_fit_test.png)
 
 # Adjusting the eccentric spacer
+
 1. Separate the extrusion from the plate.
 2. Using an **8mm wrench**, turn the **eccentric spacer** that needs adjusting about 1/32 of a turn. Depending on the direction you turn the spacer, and the current orientation of the spacer, the spacing will either increase or decrease. Your goal is to adjust the spacer in the direction you need. Make the spacing smaller if the connection was loose. Make the spacing larger if the extrusion did not fit between the v-wheels or if there was a lot of friction. The `6mm` engraving on the side of the eccentric spacer indicates the shortest distance, so moving the text away from the other wheels will decrease the spacing.
 3. Once you have adjusted the spacer 1/32 of a turn, do another fit test.
@@ -35,16 +35,12 @@ content="If the wheel spacing is too small, do not force it on. Excessive force 
 
 _The eccentric spacers for the cross-slide/main beam adjustment are highlighted orange._
 
-
-
 {%
 include callout.html
 type="info"
 title="Need just a little more space?"
 content="If the fit of the wheels on the extrusion is still too tight after adjusting all of the eccentric spacers to their loosest setting (`6mm` engraving facing away from the extrusion), you can increase the distance between the two sets of wheels slightly more by adjusting the wheels with standard spacers as well. Loosen the screw attaching a wheel with a standard spacer (non-eccentric) until the single wheel assembly can be moved around in its the hole in the plate. Gently nudge the wheel assembly in its hole so that it is farther from the extrusion and re-tighten the screw. Repeat for the other wheels attached with standard spacers as necessary."
 %}
-
-
 
 {%
 include callout.html
@@ -56,7 +52,3 @@ You would rather have a wobbly wheel that you can tighten later than damaged com
 
 Don't expect anything to roll like a ball down a hill. A well fitted extrusion/v-wheel connection will have a small amount of friction. Again, just play around with the spacing and use your best judgement."
 %}
-
-
-
-

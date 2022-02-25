@@ -2,7 +2,7 @@
 title: "Intro to FarmBot Express"
 slug: "intro"
 description: "95% pre-assembled, 100% open-source, plug-and-play FarmBot. [Order yours here!](http://buy.farm.bot/)"
-redirect_from: /docs/v1.0/
+redirect_from: /docs/v1.1/
 ---
 
 * toc
@@ -10,16 +10,14 @@ redirect_from: /docs/v1.0/
 
 **FarmBot Express** is designed to be an affordable and easy-to-use FarmBot for those who want to get setup and running quickly and don't need all of the features and customization options available with [FarmBot Genesis](http://genesis.farm.bot). The driving factors behind the design are simplicity, ease-of-setup, and affordability.
 
-FarmBot Express is available in three sizes: a standard sized model suitable for small yards, greenhouses, classrooms, and research labs; an XL model suitable for families, larger spaces, multi-class school use; and a MAX model suitable for small commercial farms and large scale R&D.
+FarmBot Express is available in two sizes: a standard sized model suitable for small yards, greenhouses, classrooms, and research labs; and an XL model suitable for families, larger spaces, multi-class school use, and larger scale R&D.
 
 |Model                         |Gantry Width                  |Length                        |Area                          |Max Plant Height              |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
 |Express                       |1.2m                          |3m                            |3.6m<sup>2</sup>              |0.5m
 |Express XL                    |2.4m                          |6m                            |14.4m<sup>2</sup>             |0.5m
 
-<iframe width="815" height="460" src="https://www.youtube.com/embed/0s5GU9SWquQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="815" height="460" src="https://www.youtube.com/embed/6XWiTzFPWWc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="0s5GU9SWquQ" %}
 
 Express and Express XL share many of the same components and assembly steps. This documentation covers the assembly, bill of materials, troubleshooting tips, and more of all sized kits. When certain information only applies to one kit or the other, there will be clear indication.
 
@@ -28,8 +26,8 @@ Express and Express XL share many of the same components and assembly steps. Thi
 FarmBot Express and Express XL are primarily constructed from V-Slot aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the Farmduino Express microcontroller, and a Raspberry Pi Zero computer.
 
 {% include gallery.html images="
-![FarmBot Express v1.0](_images/farmbot_express_v1.0.png)
-![FarmBot Express XL v1.0](_images/farmbot_express_xl_v1.0.png)
+![FarmBot Express v1.1](_images/farmbot_express_v1.0.png)
+![FarmBot Express XL v1.1](_images/farmbot_express_xl_v1.0.png)
 " %}
 
 ## Tracks
@@ -65,7 +63,7 @@ Our kits include everything you need in one box and are backed by our customer s
 
 **[Order your FarmBot here!](http://buy.farm.bot)**
 
-<iframe width="815" height="460" src="https://www.youtube.com/embed/_jw98qozK4s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="_jw98qozK4s" %}
 
 # License
 

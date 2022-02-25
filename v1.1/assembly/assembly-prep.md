@@ -1,6 +1,6 @@
 ---
-title: "Assembly"
-slug: "assembly"
+title: "Assembly Prep"
+slug: "assembly-prep"
 ---
 
 * toc
@@ -12,7 +12,7 @@ FarmBot Express comes 95% pre-assembled in the box, so assembly of the actual ma
 
 When you first open up your FarmBot, unpack all of the subassemblies, parts, and tools so that you develop a full idea of what's included, and so that you can organize everything neatly on a table.
 
-If you are inexperienced working on machines similar to FarmBot (3D printers, etc) then refer to the [bill of materials](../Extras/bom.md) to familiarize yourself with the names and functions of all of FarmBot's parts.
+If you are inexperienced working on machines similar to FarmBot (3D printers, etc) then refer to the [bill of materials](../extras/bom.md) to familiarize yourself with the names and functions of all of FarmBot's parts.
 
 {%
 include callout.html
@@ -42,7 +42,7 @@ Compared to FarmBot Genesis, FarmBot Express is much simpler and easier to set u
 
 # What's next?
 
- * [Construct the Gantry](assembly/construct-the-gantry.md)
- * [Attach the Z-axis](assembly/attach-the-z-axis.md)
- * [Mount FarmBot to the Bed](assembly/mount-farmbot-to-the-bed.md)
- * [Plug Everything In](assembly/plug-everything-in.md)
+ * [Construct the Gantry](construct-the-gantry.md)
+ * [Attach the Z-axis](attach-the-z-axis.md)
+ * [Mount FarmBot to the Bed](mount-farmbot-to-the-bed.md)
+ * [Plug Everything In](plug-everything-in.md)

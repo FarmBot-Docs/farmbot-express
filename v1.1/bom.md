@@ -49,4 +49,4 @@ That's why we sell complete FarmBot kits with everything you need in one box, ba
 **[Order your FarmBot here!](http://buy.farm.bot)**"
 %}
 
-<iframe width="815" height="460" src="https://www.youtube.com/embed/_jw98qozK4s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="_jw98qozK4s" %}

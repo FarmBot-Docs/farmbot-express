@@ -1,44 +1,19 @@
 ---
 title: "Cable Carrier Mount"
 slug: "cable-carrier-mount"
-description: "Tech specs for the cable carrier mounts in FarmBot Express. Visit [our shop](http://shop.farm.bot) to purchase parts."
+description: "These parts allow the Y and Z axis cable carriers to be mounted to the cross-slide and gantry wheel plate."
+variants: 35mm|52.5mm
+price: $8.00|$10.00
+quantity:
+  express: 1|1
+  xl: 1|1
+specs:
+  material: Machined 6061 Aluminum
+  surface treatments: Tumble polished<br>Sandblasted<br>Clear anodized
+internal-specs:
+  internal part name: Cable Carrier Mount - 35mm|Cable Carrier Mount - 52.5mm
+  rev: A|A
+  vendor: LDO
+  cost: $1.70|$1.90
+  component tests: Plate and Bracket Tests
 ---
-
-* toc
-{:toc}
-
-# 50mm Cable Carrier Mount
-This part allows the x-axis cable carrier to be mounted to the gantry column.
-
-|                              |                              |
-|------------------------------|------------------------------|
-|**Material**                  |Machined 6061 Aluminum
-|**Surface Treatments**        |Tumble polished<br>Sandblasted<br>Clear anodized
-|**Price**                     |$8.00
-|**Quantity**                  |1
-|**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
-
-|                              |                              |
-|------------------------------|------------------------------|
-|**Internal Part Name**        |`50mm CC Mount Rev A`
-{:.internal}
-
-![50mm CC Mount](_images/50mm_cc_mount.jpg)
-
-# 65mm Cable Carrier Mount
-This part allows the y-axis cable carrier to be mounted to the cross-slide plate.
-
-|                              |                              |
-|------------------------------|------------------------------|
-|**Material**                  |Machined 6061 Aluminum
-|**Surface Treatments**        |Tumble polished<br>Sandblasted<br>Clear anodized
-|**Price**                     |$10.00
-|**Quantity**                  |1
-|**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
-
-|                              |                              |
-|------------------------------|------------------------------|
-|**Internal Part Name**        |`65mm CC Mount Rev A`
-{:.internal}
-
-![65mm CC Mount](_images/65mm_cc_mount.jpg)

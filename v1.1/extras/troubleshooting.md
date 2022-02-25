@@ -17,5 +17,4 @@ content="Still having issues? Please email support@farm.bot or consider posting 
 
 # What's next?
 
- * [Faulty E-Stop Button](troubleshooting/faulty-e-stop-button.md)
  * [Picking Up Seeds](troubleshooting/picking-up-seeds.md)

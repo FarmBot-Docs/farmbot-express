@@ -112,7 +112,3 @@ _(Note: the photo is incorrect, there should be no X2 encoder cable)_
 Fill the remaining space with recycled kraft paper.
 
 ![hardware box packing paper](_images/hardware_box_packing_paper.jpg)
-
-
-
-
