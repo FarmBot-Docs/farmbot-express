@@ -7,6 +7,7 @@ description: "Tech specs for the fasteners and hardware in FarmBot Express. Visi
 * toc
 {:toc}
 
+{% include bom_table.html %}
 
 |Component                     |$/Unit                        |Express Qty                   |Express Subtotal              |XL Qty                        |XL Subtotal                   |MAX Qty                       |MAX Subtotal                  |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
@@ -29,7 +30,6 @@ description: "Tech specs for the fasteners and hardware in FarmBot Express. Visi
 |[40mm Nut Bar](#40mm-nut-bar)|$1.75                         |11                            |$19.25                        |15                            |$26.25                        |15                            |$26.25
 |[60mm Nut Bar](#60mm-nut-bar)|$2.00                         |17                            |$34.00                        |21                            |$42.00                        |21                            |$42.00
 |[25mm Wood Screws](#wood-screws)|$0.05                         |15                            |$0.75                         |15                            |$0.75                         |15                            |$0.75
-|[Dowel Pins](#dowel-pins)|$2.00                         |0                             |$0.00                         |3                             |$6.00                         |3                             |$6.00
 |[200mm Zip Ties](#200mm-zip-ties)|$0.10                         |4                             |$0.40                         |4                             |$0.40                         |4                             |$0.40
 |[3mm Hex Driver](#3mm-hex-driver)|$5.00                         |1                             |$5.00                         |1                             |$5.00                         |1                             |$5.00
 |[8mm Wrench](#8mm-wrench)|$3.00                         |1                             |$3.00                         |1                             |$3.00                         |1                             |$3.00
@@ -227,28 +227,6 @@ These are used to attach the track end plates and track joining plates to suppor
 
 
 ![Wood Screws](_images/wood_screws.jpg)
-
-# Dowel Pins
-
-These pins were used to help align the gantry main beams on XL and MAX devices during assembly.
-
-{%
-include callout.html
-type="info"
-title="No longer recommended"
-content="Due to manufacturing tolerances with the aluminum extrusions, we no longer recommend using these components in the assembly. Use a flat surface, such as a table, to help align the gantry main beams instead."
-%}
-
-|                              |                              |
-|------------------------------|------------------------------|
-|**Material**                  |Stainless Steel
-|**Length**                    |40mm
-|**Diameter 1**                |4.2mm
-|**Diameter 2**                |4.25mm
-|**Price**                     |$2.00
-|**Quantity**                  |Express: 0<br>Express XL: 3<br>Express MAX: 3
-
-![dowel pins](_images/dowel_pins.jpg)
 
 # Zip Ties
 Zip ties are used to fasten the vacuum pump and solenoid valve.

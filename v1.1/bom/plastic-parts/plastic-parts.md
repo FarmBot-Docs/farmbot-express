@@ -7,6 +7,7 @@ description: "Tech specs for the plastic parts in FarmBot Express. Visit [our sh
 * toc
 {:toc}
 
+{% include bom_table.html %}
 
 |Component                     |$/Unit                        |Express Qty                   |Express Subtotal              |XL Qty                        |XL Subtotal                   |MAX Qty                       |MAX Subtotal                  |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
