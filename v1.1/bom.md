@@ -2,10 +2,14 @@
 title: "Bill of Materials"
 slug: "bom"
 description: "Top-level BOM for all components in FarmBot Express, grouped by category. Visit [our shop](http://shop.farm.bot) to purchase parts."
+full-width: true
 ---
 
 * toc
 {:toc}
+
+
+{% include bom_table.html %}
 
 The table below lists all of the components used in FarmBot Express and Express XL grouped by category. To see detailed tech specs and photos of each component, start by clicking a category and then choosing a component from the following page.
 

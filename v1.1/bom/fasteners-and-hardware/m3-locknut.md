@@ -4,8 +4,8 @@ slug: "m3-locknut"
 description: "Locknuts are used throughout FarmBot to secure M3 screws in place. The nylon insert allows the locknut to resist loosening when subjected to vibration."
 price: $0.10
 quantity:
-  express: 24
-  xl: 24
+  express: 4
+  xl: 4
 specs:
   Trade Name: Nylon-Insert Locknut
   threads: M3 x 0.5mm
@@ -15,6 +15,6 @@ specs:
 internal-specs:
   internal part name: M3 Locknut
   cost: $0.016
-  notes: 4 pieces are pre-assembled in electronics box, 20 pieces packed in bag
+  notes: 4 pieces are pre-assembled in electronics box
 component tests: Fasteners and hardware tests
 ---
