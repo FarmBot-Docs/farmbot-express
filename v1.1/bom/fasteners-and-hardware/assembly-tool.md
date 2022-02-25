@@ -1,6 +1,6 @@
 ---
 title: "Assembly Tools"
-slug: "assembly-tools"
+slug: "assembly-tool"
 description: "Tech specs for the assembly tools included with FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 variants: 3mm Hex Driver|8mm Thin Wrench
 price: $5.00|$3.00

@@ -1,26 +1,17 @@
 ---
 title: "Gantry Plate Spacer Block"
 slug: "gantry-plate-spacer-block"
-description: "These part offset the gantry wheel plates from the gantry columns, and serve as attachment spacers for v-wheels."
+description: "This component offsets the gantry wheel plates from the gantry columns and provides mounting bosses for idler pulleys."
+price: $8.00
+quantity:
+  express: 2
+  xl: 2
+specs:
+  material: Gray UV stabilized ABS
+internal-specs:
+  internal part name: Gantry Plate Spacer Block
+  rev: A
+  vendor: LDO
+  cost: $1.60
+  component tests: Plastic Part Tests
 ---
-
-* toc
-{:toc}
-
-
-|                              |                              |
-|------------------------------|------------------------------|
-|**Material**                  |Gray UV stabilized ABS
-|**Price**                     |$6.00
-|**Quantity**                  |2
-|**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
-
-|                              |                              |
-|------------------------------|------------------------------|
-|**Internal Part Name**        |`Gantry Plate Spacer Block Rev A`
-{:.internal}
-
-{% include gallery.html images="
-![Gantry Plate Spacer Blocks](_images/gantry_plate_spacer_blocks.jpg)
-![Gantry Plate Spacer Blocks 2](_images/gantry_plate_spacer_blocks_2.jpg)
-" %}

@@ -2,44 +2,17 @@
 title: "Motor Housing"
 slug: "motor-housing"
 description: "These housings protect the motors from rain."
+variants: Horizontal, 50mm|Vertical, 60mm
+price: $8.00|$10.00
+quantity:
+  express: 3|1
+  xl: 3|1
+specs:
+  material: Gray UV stabilized ABS
+internal-specs:
+  internal part name: Motor Housing - Horizontal, 50mm|Motor Housing - Vertical, 60mm
+  rev: A|C
+  vendor: LDO
+  cost: $1.28|$1.83
+  component tests: Plastic Part Tests
 ---
-
-* toc
-{:toc}
-
-# 50mm Horizontal Motor Housing
-
-|                              |                              |
-|------------------------------|------------------------------|
-|**Material**                  |Gray UV stabilized ABS
-|**Price**                     |$8.00
-|**Quantity**                  |3
-|**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
-
-|                              |                              |
-|------------------------------|------------------------------|
-|**Internal Part Name**        |`50mm Horizontal Motor Housing Rev A`
-{:.internal}
-
-
-
-![Horizontal Motor Housing](_images/horizontal_motor_housing.jpg)
-
-# 60mm Vertical Motor Housing
-
-|                              |                              |
-|------------------------------|------------------------------|
-|**Material**                  |Gray UV stabilized ABS
-|**Price**                     |$10.00
-|**Quantity**                  |1
-|**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
-
-|                              |                              |
-|------------------------------|------------------------------|
-|**Internal Part Name**        |`60mm Vertical Motor Housing Rev B`
-{:.internal}
-
-{% include gallery.html images="
-![Vertical Motor Housing](_images/vertical_motor_housing.jpg)
-![Vertical Motor Housing 2](_images/vertical_motor_housing_2.jpg)
-" %}

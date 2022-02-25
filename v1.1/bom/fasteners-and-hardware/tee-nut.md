@@ -1,6 +1,6 @@
 ---
-title: "Tee Nuts"
-slug: "tee-nuts"
+title: "Tee Nut"
+slug: "tee-nut"
 description: "Combined with screws, these drop-in style tee nuts allow components such as plates and 3D printed parts to be attached quickly and securely anywhere on a V-slot aluminum extrusion."
 price: $0.45
 quantity:
