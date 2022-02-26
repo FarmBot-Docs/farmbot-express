@@ -4,7 +4,7 @@ slug: "zip-tie"
 description: "Zip ties are used to fasten the vacuum pump and solenoid valve to their mounts, and for cable management throughout FarmBot."
 price: $0.10
 quantity:
-  express: 10
+  standard: 10
   xl: 10
 specs:
   material: Nylon

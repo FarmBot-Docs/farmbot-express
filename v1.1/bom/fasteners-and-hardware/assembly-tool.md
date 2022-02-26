@@ -5,7 +5,7 @@ description: "Tech specs for the assembly tools included with FarmBot Genesis. V
 variants: 3mm Hex Driver|8mm Thin Wrench
 price: $5.00|$3.00
 quantity:
-  express: 1|1
+  standard: 1|1
   xl: 1|1
 specs:
   size: 3mm hex|8mm wrench

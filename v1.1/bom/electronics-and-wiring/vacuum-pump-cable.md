@@ -5,7 +5,7 @@ description: "This cable connects the vacuum pump to the Farmduino. It comes in 
 variants: Y, 2.1m|Y, 3.3m|Z, 1.0m
 price: $15.00|$20.00|$12.00
 quantity:
-  express: 1|0|1
+  standard: 1|0|1
   xl: 0|1|1
 specs:
   cable: Shielded 18AWG-2C

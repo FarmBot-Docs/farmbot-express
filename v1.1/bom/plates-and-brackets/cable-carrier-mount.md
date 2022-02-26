@@ -5,7 +5,7 @@ description: "These parts allow the Y and Z axis cable carriers to be mounted to
 variants: 35mm|52.5mm
 price: $8.00|$10.00
 quantity:
-  express: 1|1
+  standard: 1|1
   xl: 1|1
 specs:
   material: Machined 6061 Aluminum

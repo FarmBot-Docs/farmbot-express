@@ -5,7 +5,7 @@ description: "These parts are used to mount and support the cable carriers. The 
 variants: Horizontal, 30mm|Vertical, 30mm
 price: $3.00
 quantity:
-  express: 4|4
+  standard: 4|4
   xl: 8|4
 specs:
   material: Gray UV stabilized ABS

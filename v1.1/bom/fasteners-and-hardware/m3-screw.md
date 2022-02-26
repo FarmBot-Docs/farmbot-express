@@ -5,7 +5,7 @@ description: "M3 screws are used to mount the motors."
 variants: 12mm
 price: $0.15
 quantity:
-  express: 16
+  standard: 16
   xl: 16
 specs:
   threads: M3 x 0.5mm

@@ -5,7 +5,7 @@ description: "These housings protect the motors from rain."
 variants: Horizontal, 50mm|Vertical, 60mm
 price: $8.00|$10.00
 quantity:
-  express: 3|1
+  standard: 3|1
   xl: 3|1
 specs:
   material: Gray UV stabilized ABS

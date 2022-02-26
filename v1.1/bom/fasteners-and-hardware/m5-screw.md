@@ -5,7 +5,7 @@ description: "M5 button-head screws of various lengths are used throughout FarmB
 variants: 10mm|16mm|20mm|25mm|30mm|40mm
 price: $0.15|$0.20|$0.23|$0.26|$0.30|$0.40
 quantity:
-  express: 56|14|12|2|12|8
+  standard: 56|14|12|2|12|8
   xl: 72|14|12|2|12|8
 specs:
   threads: M5 x 0.8mm

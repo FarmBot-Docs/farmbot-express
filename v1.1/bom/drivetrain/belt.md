@@ -5,7 +5,7 @@ description: "Tech specs for the drivetrain components in FarmBot Express. Visit
 variants: 1.4m|2.6m|4.5m|7.5m
 price: $15.00|$25.00|$40.00|$70.00
 quantity:
-  express: 1|0|2|0
+  standard: 1|0|2|0
   xl: 0|1|0|2
 specs:
   material: Neoprene with fiberglass cords

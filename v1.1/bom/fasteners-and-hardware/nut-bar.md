@@ -5,7 +5,7 @@ description: "These stainless steel bars act as long tee nuts allowing M5 screws
 variants: 20mm|40mm|60mm|140mm
 price: $1.50|$1.75|$2.00|$3.00
 quantity:
-  express: 2|11|17|0
+  standard: 2|11|17|0
   xl: 2|15|21|2
 specs:
   material: Stainless steel

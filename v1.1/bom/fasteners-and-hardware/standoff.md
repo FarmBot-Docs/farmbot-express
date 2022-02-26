@@ -4,7 +4,7 @@ slug: "standoff"
 description: "These F/F standoffs are used to offset the Raspberry Pi Zero from the Farmduino Express board."
 price: $0.50
 quantity:
-  express: 2
+  standard: 2
   xl: 2
 specs:
   threads: M2.5

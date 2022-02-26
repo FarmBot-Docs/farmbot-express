@@ -4,7 +4,7 @@ slug: "3-in-1-tool-head"
 description: "This part combines the watering, weeding, and seed injection functions of FarmBot into one static tool head."
 price: $20.00
 quantity:
-  express: 1
+  standard: 1
   xl: 1
 specs:
   material: Gray UV stabilized ABS

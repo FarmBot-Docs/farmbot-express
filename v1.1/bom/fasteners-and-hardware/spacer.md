@@ -5,7 +5,7 @@ description: "These spacers are used to offset V-wheels from plates so that they
 variants: 6mm|14.5mm
 price: $0.20|$0.30
 quantity:
-  express: 5|4
+  standard: 5|4
   xl: 5|4
 specs:
   material: Aluminum

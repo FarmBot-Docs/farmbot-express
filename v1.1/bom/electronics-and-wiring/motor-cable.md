@@ -5,7 +5,7 @@ description: "These 4-wire cables connect each NEMA 17 stepper motor to the Farm
 variants: X1, 0.7m|X2, 1.8m|Y, 2.2m|ZY, 2.1m|X2, 3.0m|Y, 3.4m|ZY, 3.3m|ZZ, 1.8m
 price: $20.00|$23.00|$25.00|$27.00|$28.00|$30.00|$32.00|$24.00
 quantity:
-  express: 1|1|1|1|0|0|0|1
+  standard: 1|1|1|1|0|0|0|1
   xl: 1|0|0|0|1|1|1|1
 specs:
   length: 0.7m|1.8m|2.2m|2.1m|3.0m|3.4m|3.3m|1.8m

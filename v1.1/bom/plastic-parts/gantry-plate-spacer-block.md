@@ -4,7 +4,7 @@ slug: "gantry-plate-spacer-block"
 description: "This component offsets the gantry wheel plates from the gantry columns and provides mounting bosses for idler pulleys."
 price: $8.00
 quantity:
-  express: 2
+  standard: 2
   xl: 2
 specs:
   material: Gray UV stabilized ABS

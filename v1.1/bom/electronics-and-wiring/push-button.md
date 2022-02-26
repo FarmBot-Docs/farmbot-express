@@ -5,7 +5,7 @@ description: "This waterproof push button comes pre-mounted on the top of the el
 variants: Red|Wiring Harness|Nut|O-Ring
 price: $6.00|$1.00|$0.00|$0.00
 quantity:
-  express: 1|1|1|1
+  standard: 1|1|1|1
   xl: 1|1|1|1
 specs:
   color: Red|N/A|N/A|N/A
