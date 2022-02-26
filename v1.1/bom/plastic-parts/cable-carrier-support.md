@@ -3,7 +3,7 @@ title: "Cable Carrier Support"
 slug: "cable-carrier-support"
 description: "These parts are used to mount and support the cable carriers. The gusset also functions as an area for cables, tubes, and the LED light strip to be routed through."
 variants: Horizontal, 30mm|Vertical, 30mm
-price: $3.00
+price: $3.00|$3.00
 quantity:
   standard: 4|4
   xl: 8|4

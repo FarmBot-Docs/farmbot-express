@@ -5,9 +5,6 @@ description: "Top-level BOM for all components in FarmBot Express, grouped by ca
 full-width: true
 ---
 
-* toc
-{:toc}
-
 
 {% include bom_table.html %}
 

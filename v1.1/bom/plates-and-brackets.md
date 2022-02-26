@@ -2,10 +2,8 @@
 title: "Plates and Brackets"
 slug: "plates-and-brackets"
 description: "Tech specs for the aluminum plates and brackets in FarmBot Express. Visit [our shop](http://shop.farm.bot) to purchase parts."
+full-width: true
 ---
-
-* toc
-{:toc}
 
 
 {% include bom_table.html %}

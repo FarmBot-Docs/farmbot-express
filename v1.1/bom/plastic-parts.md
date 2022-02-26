@@ -2,10 +2,8 @@
 title: "Plastic Parts"
 slug: "plastic-parts"
 description: "Tech specs for the plastic parts in FarmBot Express. Visit [our shop](http://shop.farm.bot) to purchase parts."
+full-width: true
 ---
-
-* toc
-{:toc}
 
 
 {% include bom_table.html %}

@@ -3,7 +3,7 @@ title: "Electronics Box"
 slug: "electronics-box"
 description: "This rainproof box protects FarmBot's electronics from rain and debris. It features an easy-to-use tool-less double latch design for quickly opening and closing the box, a rubber gasket to keep moisture out, and a custom gland for all of FarmBot's cables to be passed through. The lid, latches, and box are made of UV stabilized materials."
 variants: Box|Lid|Gasket|Latch|Supergland Half
-price: $35|$15|$8|$3|$3
+price: $35.00|$15.00|$8.00|$3.00|$3.00
 quantity:
   standard: 1|1|1|2|2
   xl: 1|1|1|2|2

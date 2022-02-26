@@ -2,10 +2,8 @@
 title: "Extrusions"
 slug: "extrusions"
 description: "Tech specs for the extrusions in FarmBot Express. Visit [our shop](http://shop.farm.bot)"
+full-width: true
 ---
-
-* toc
-{:toc}
 
 
 {% include bom_table.html %}
