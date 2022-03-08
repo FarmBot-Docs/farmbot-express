@@ -5,7 +5,7 @@ logo: /assets/images/documentation.png
 remote_theme: FarmBot-Docs/farmbot-theme@main
 baseurl: /
 color: '#942401'
-latest_version_number: 1.0
+latest_version_number: 1.1
 version_factor: 10.0
 plugins:
   - jemoji

@@ -1,5 +1,5 @@
 ---
 permalink: /docs/assembly
-page_path: /FarmBot-Express-v1.0/assembly
+page_path: /assembly/intro
 layout: redirect
 ---

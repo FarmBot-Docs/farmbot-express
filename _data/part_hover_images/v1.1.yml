@@ -1,0 +1,95 @@
+version_number: 1.1
+bom:
+  - category: extrusions
+    parts:
+      - image: gantry_column.jpg
+      - image: gantry_main_beam.jpg
+      - image: z_axis_extrusion.jpg
+  - category: fasteners-and-hardware
+    parts:
+      - image: assembly_tool_3mm_driver.jpg
+      - image: assembly_tool_8mm_wrench.jpg
+      - image: eccentric_spacer.jpg
+      - image: m2.5_screw_4mm.jpg
+      - image: m3_flat_head_screw.jpg
+      - image: m3_locknut.jpg
+      - image: m3_screw_35mm.jpg
+      - image: m3_screw_12mm.jpg
+      - image: m5_flange_locknut.jpg
+      - image: m5_screw_10mm.jpg
+      - image: m5_screw_16mm.jpg
+      - image: m5_screw_30mm.jpg
+      - image: nut_bar_140mm.jpg
+      - image: nut_bar_20mm.jpg
+      - image: nut_bar_40mm.jpg
+      - image: nut_bar_60mm.jpg
+      - image: spacer.jpg
+      - image: tee_nut.jpg
+      - image: wood_screw.jpg
+      - image: zip_tie.jpg
+  - category: tubing
+    parts:
+      - image: 90_degree_barb.jpg
+      - image: garden_hose_to_barb_adapter.jpg
+      - image: inline_air_filter.jpg
+      - image: luer_lock_adapter.jpg
+      - image: luer_lock_needle.jpg
+      - image: m5_barb.jpg
+      - image: npt_to_barb_adapter.jpg
+      - image: pressure_regulator.jpg
+      - image: rubber_gasket.jpg
+      - image: teflon_tape.jpg
+      - image: tube.jpg
+  - category: plastic-parts
+    parts:
+      - image: camera_mount_half.jpg
+      - image: gantry_plate_spacer_block.jpg
+      - image: horizontal_motor_housing.jpg
+      - image: vertical_motor_housing.jpg
+      - image: seed_trough_holder.jpg
+      - image: seed_trough.jpg
+      - image: solenoid_valve_mount.jpg
+      - image: 3_in_1_tool_head.jpg
+      - image: vacuum_pump_housing.jpg
+      - image: vacuum_pump_mount.jpg
+  - category: drivetrain
+    parts:
+      - image: belt_sleeve.jpg
+      - image: pulley.jpg
+      - image: belt.jpg
+      - image: leadscrew_block.jpg
+      - image: leadscrew.jpg
+      - image: shaft_coupler.jpg
+      - image: v_wheel.jpg
+  - category: electronics-and-wiring
+    parts:
+      - image: cable_carrier.jpg
+      - image: camera_cable.jpg
+      - image: camera_calibration_card.jpg
+      - image: camera.jpg
+      - image: electronics_box.jpg
+      - image: farmduino_express.jpg
+      - image: led_strip.jpg
+      - image: micro_sd_card_adapter.jpg
+      - image: micro_sd_card.jpg
+      - image: motor_cable.jpg
+      - image: motor.jpg
+      - image: power_cord_protector.jpg
+      - image: power_supply.png
+      - image: power_supply_cable.jpg
+      - image: push_button.jpg
+      - image: raspberry_pi_zero.jpg
+      - image: solenoid_valve_cable.jpg
+      - image: solenoid_valve.jpg
+      - image: vacuum_pump.jpg
+      - image: vacuum_pump_cable.jpg
+  - category: plates-and-brackets
+    parts:
+      - image: cable_carrier_mount.jpg
+      - image: belt_clip.jpg
+      - image: cross-slide_plate.jpg
+      - image: gantry_corner_bracket.jpg
+      - image: gantry_joining_bracket.jpg
+      - image: gantry_wheel_plate.jpg
+      - image: z-axis_hardstop.jpg
+      - image: z_axis_motor_mount.jpg
