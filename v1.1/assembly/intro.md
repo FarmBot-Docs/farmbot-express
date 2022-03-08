@@ -8,14 +8,21 @@ redirect_from: /docs/v1.1/
 * toc
 {:toc}
 
+{%
+include callout.html
+type="info"
+title="Announcing: FarmBot Express v1.1 beta documentation!"
+content="As of March 7, 2022, the default version of the Express documentation is for v1.1. If you have an older kit, please use the version picker dropdown menu in the top left of the documentation hub's navigation to select an older version of the docs."
+%}
+
 **FarmBot Express** is designed to be an affordable and easy-to-use FarmBot for those who want to get setup and running quickly and don't need all of the features and customization options available with [FarmBot Genesis](http://genesis.farm.bot). The driving factors behind the design are simplicity, ease-of-setup, and affordability.
 
 FarmBot Express is available in two sizes: a standard sized model suitable for small yards, greenhouses, classrooms, and research labs; and an XL model suitable for families, larger spaces, multi-class school use, and larger scale R&D.
 
-|Model                         |Gantry Width                  |Length                        |Area                          |Max Plant Height              |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|Express                       |1.2m                          |3m                            |3.6m<sup>2</sup>              |0.5m
-|Express XL                    |2.4m                          |6m                            |14.4m<sup>2</sup>             |0.5m
+|Model      |Width|Length|Area              |Max Plant Height|
+|-----------|-----|------|------------------|----------------|
+|Express    |1.2m |3m    |3.6m<sup>2</sup>  |0.5m
+|Express XL |2.4m |6m    |14.4m<sup>2</sup> |0.5m
 
 {% include youtube.html id="0s5GU9SWquQ" %}
 
@@ -26,8 +33,8 @@ Express and Express XL share many of the same components and assembly steps. Thi
 FarmBot Express and Express XL are primarily constructed from V-Slot aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the Farmduino Express microcontroller, and a Raspberry Pi Zero computer.
 
 {% include gallery.html images="
-![FarmBot Express v1.1](_images/farmbot_express_v1.0.png)
-![FarmBot Express XL v1.1](_images/farmbot_express_xl_v1.0.png)
+![FarmBot Express v1.1](_images/farmbot_express_v1.1.png)
+![FarmBot Express XL v1.1](_images/farmbot_express_xl_v1.1.png)
 " %}
 
 ## Tracks
@@ -52,10 +59,10 @@ The table below shows the cost/m<sup>2</sup> of growing area based on the size o
 
 *Note that the costs below do not account for [supporting infrastructure](supporting-infrastructure.md), which will also increase in cost as the device size increases.*
 
-|Model       |Gantry Width |Length |Growing Area      |Cost    |Cost/m^2|
-|------------|-------------|-------|------------------|--------|--------|
-|Express     |1.2m         |3m     |3.6m<sup>2</sup>  |~$1,800 |$500
-|Express XL  |2.4m         |6m     |14.4m<sup>2</sup> |~$2,300 |$160
+|Model       |Width |Length |Area              |Cost    |Cost/m^2|
+|------------|------|-------|------------------|--------|--------|
+|Express     |1.2m  |3m     |3.6m<sup>2</sup>  |~$1,800 |$500
+|Express XL  |2.4m  |6m     |14.4m<sup>2</sup> |~$2,300 |$160
 
 # Purchasing a kit
 

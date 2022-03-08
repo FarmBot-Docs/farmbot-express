@@ -16,18 +16,7 @@ title=""
 content="This step applies to XL kits only. If you are assembling a standard sized Express kit, skip to [step 2](#step-2-attach-the-gantry-columns)."
 %}
 
-Insert four **60mm nut bars** into the lower two slots in each of the **gantry main beam subassemblies** on the same side of the extrusions as the cable carrier supports.
-
-![gantry beam connection](_images/gantry_beam_connection.png)
-
-{%
-include callout.html
-type="success"
-title="Find a flat surface"
-content="The next steps require a flat surface such as a table or patio."
-%}
-
-Place both **gantry main beam subassemblies** on a flat surface, end-to-end. Position the **gantry joining bracket** such that the notch in the bottom of the bracket is aligned with the joint between the two main beams. Then insert and tighten eight **M5 x 10mm screws**.
+Place both **gantry main beams** on a flat surface such as a table or patio. Using two **140mm nut bars** and eight **M5 x 10mm screws**, attach the **gantry joining bracket** to the *lower two slots* of both extrusions on the same side of the extrusions as the cable carrier supports. The notch in the middle of the bracket should be aligned with the joint between the two extrusions.
 
 ![gantry joining bracket mounted](_images/gantry_joining_bracket_mounted.png)
 
@@ -41,23 +30,13 @@ Insert two **60mm nut bars** into the lower two slots on the backside of the **g
 
 ![gantry column main beam nut bars](_images/gantry_column_main_beam_nut_bars.png)
 
-Position the **left gantry column subassembly** (the one with the electronics box) as shown and use four **M5 x 10mm screws** to loosely attach it to the gantry main beam. The screws should only be tightened 50% of the way such that the column will not fall off, but so that it can still be moved within the main beam's slots.
-
-{%
-include callout.html
-type="info"
-title=""
-content="Note that in the images below, we are looking at the FarmBot from the back side, so the left gantry column subassembly appears on the right of the image."
-%}
+Position the **gantry column subassembly with the electronics box and solenoid valve** as shown and use four **M5 x 10mm screws** to loosely attach it to the gantry main beam. The screws should only be tightened 50% of the way such that the column will not fall off, but so that it can still be moved within the main beam's slots.
 
 ![gantry column attached](_images/gantry_column_attached.png)
 
-Repeat the steps above with the **right gantry column subassembly**.
+Repeat with the other **gantry column subassembly**.
 
-{% include gallery.html images="
-![right gantry column main beam nut bars](_images/right_gantry_column_main_beam_nut_bars.png)
 ![gantry assembled](_images/gantry_assembled.png)
-" %}
 
 # Step 3: Fit FarmBot to the bed
 

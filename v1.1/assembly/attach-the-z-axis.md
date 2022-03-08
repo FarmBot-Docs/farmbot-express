@@ -8,7 +8,7 @@ slug: "attach-the-z-axis"
 
 # Step 1: Slide on the cross-slide and z-axis
 
-Carefully slide the **cross-slide and z-axis subassembly** onto the **gantry** from the right side (the side without the electronics box). If necessary, rotate the **leadscrew** (and z-axis motor) by hand to adjust the subasssembly so that it can fit past the other gantry components and raised bed.
+Carefully slide the **cross-slide and z-axis subassembly** onto the **gantry** from the side without the electronics box. If necessary, rotate the **leadscrew** (and z-axis motor) by hand to adjust the subasssembly so that it can fit past the other gantry components and raised bed.
 
 {%
 include callout.html
@@ -47,14 +47,11 @@ title="Just like tying your shoes"
 content="When pulling the belt through the second belt clip and engaging the teeth, the belt should be pulled snug with the same amount of force you would use to tie your shoes. There should be no slack in the system once the belt sleeve is in place."
 %}
 
-{% include gallery.html images="
-![second y axis belt clip installed](_images/second_y_axis_belt_clip_installed.png)
 ![y axis belt tensioning](_images/y_axis_belt_tensioning.png)
-" %}
 
 # Step 3: Connect the y-axis cable carrier
 
-Lay the **loaded y-axis cable carrier** onto the **horizontal cable carrier supports**. Attach it to the **cross-slide** and to the **horizontal cable carrier support** nearest the electronics box using **M5 x 16mm screws** and **M5 flange locknuts**.
+Lay the **loaded y-axis cable carrier** onto the **horizontal cable carrier supports**. Attach it to the **cross-slide** and to the **horizontal cable carrier support** nearest the electronics box using **M3 x 16mm flat head screws** and **M3 locknuts**.
 
 {% include gallery.html images="
 ![y axis cable carrier overview](_images/y_axis_cable_carrier_overview.png)
