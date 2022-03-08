@@ -14,14 +14,14 @@ specs:
   inner colors: Red and black
   outer color: Black
   heat shrink color: Gray
-  end 1: "3-pin black connector <a href='https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213'>Molex Part 2004561213</a>|
-  3-pin black connector <a href='https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213'>Molex Part 2004561213</a>|3-pin waterproof screw together 90 degree plug"
+  end 1: "3-pin black connector <a href='https://www.molex.com/molex/products/part-detail/crimp_housings/0050579403'>Molex Part 50579403</a>|
+  3-pin black connector <a href='https://www.molex.com/molex/products/part-detail/crimp_housings/0050579403'>Molex Part 50579403</a>|3-pin waterproof screw together 90 degree plug"
   end 2: '3-pin waterproof screw together receptacle|3-pin waterproof screw together receptacle|Three 3/16" insulated quick-connect terminals'
 internal-specs:
-  internal part name: Vacuum Pump Cable - Y, 2.1m (Express)|Vacuum Pump Cable - Y, 3.3m (Express XL)|Vacuum Pump Cable - Z, 1.0m
-  rev: B|B|B
+  internal part name: Vacuum Pump Cable - Y, 2.1m (Express)|Vacuum Pump Cable - Y, 3.3m (Express XL)|Vacuum Pump Cable - Z, 1.0m (Express and Express XL)
+  rev: C|C|B
   cost: $4.70|$6.20|$4.50
-  notes: "<span style='font-weight: bold; color: red;'>Must perform a continuity check at factory</span>"
+  notes: "New connector on Farmduino end, see drawing. <span style='font-weight: bold; color: red;'>Must perform a continuity check at factory</span>"
 ---
 
 **Component tests**{:.internal}

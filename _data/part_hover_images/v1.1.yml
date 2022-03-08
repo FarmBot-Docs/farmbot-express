@@ -81,7 +81,7 @@ bom:
       - image: motor_cable.jpg
       - image: motor.jpg
       - image: power_cord_protector.jpg
-      - image: power_supply.jpg
+      - image: power_supply.png
       - image: power_supply_cable.jpg
       - image: push_button.jpg
       - image: pi_zero.jpg

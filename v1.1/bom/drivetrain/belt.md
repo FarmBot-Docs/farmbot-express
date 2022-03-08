@@ -15,7 +15,7 @@ specs:
   Pitch: GT2 (2mm)
   color: Black (no markings)
 internal-specs:
-  internal part name: GT2 Timing Belt - [length]
+  internal part name: GT2 Timing Belt - 1.4m|GT2 Timing Belt - 2.6m|GT2 Timing Belt - 4.5m|GT2 Timing Belt - 7.5m
   cost: $0.90|$1.50|$2.90|$4.70
 ---
 

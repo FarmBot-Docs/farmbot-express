@@ -10,14 +10,16 @@ quantity:
 specs:
   light color: White 6000K
   strip length: 1.2m|2.4m
-  lead length: 1m
+  lead length: 0.7m
+  cable: 22/2 Stranded Copper, Red and Black cores
   cable color: Black
-  connector: Black 2-pin ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
+  connector: Black 2-pin plug (<a href='https://www.molex.com/molex/products/part-detail/crimp_housings/0050579402'>Molex 50579402</a>)
+  heatshrink label: LED
 internal-specs:
   internal part name: LED Strip - 24V, 1.2m (Express)|LED Strip - 24V, 3.0m (Express XL)
   rev: A|A
   cost: $6.60|$12.00
-  notes: LED strip should NOT have an adhesive backing. Cut end must be dipped in silicon to seal.
+  notes: New connector on Farmduino end, see drawing. LED strip should NOT have an adhesive backing. Cut end must be dipped in silicon to seal.
 ---
 
 **Component tests**{:.internal}
@@ -26,7 +28,8 @@ internal-specs:
 |-------------|-------------|-------------|-------------|
 |Connector    |Connect the LED strip to a Farmduino peripheral plug.|Part should connect as expected|N/A
 |Cable color  |Inspect the color of the cable.|Black|N/A
-|Cable length |Measure the length of the cable using a measuring tape.|1m|+/- 20mm
+|Cable length |Measure the length of the cable using a measuring tape.|0.7m|+/- 20mm
+|Heatshrink label|Inspect the label near the connector.|LED|N/A
 |LED color    |Turn on an LED strip and inspect the color of the light.|Cool white (6000K)|N/A
 |LED strip length|Measure the length of the LED strip using a measuring tape.|See BOM spec|+/- 30mm
 |LED strip cut end|Inspect the cut end of the LED strip.|Cut end should be sealed with silicon rubber|N/A

@@ -16,4 +16,5 @@ internal-specs:
   vendor: LDO
   cost: $1.70|$1.90
   component tests: Plate and Bracket Tests
+  notes: ---|New part
 ---

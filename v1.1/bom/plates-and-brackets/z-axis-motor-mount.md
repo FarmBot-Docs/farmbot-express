@@ -11,8 +11,9 @@ specs:
   surface treatments: Tumble polished<br>Sandblasted<br>Clear anodized
 internal-specs:
   internal part name: Express Z-Axis Motor Mount
-  rev: D
+  rev: B
   vendor: LDO
   cost: $5.25
   component tests: Plate and Bracket Tests
+  notes: New revision
 ---

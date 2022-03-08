@@ -15,4 +15,5 @@ internal-specs:
   vendor: LDO
   cost: $0.75|$0.78
   component tests: Plastic Part Tests
+  notes: ---|New part, needs new injection mold
 ---

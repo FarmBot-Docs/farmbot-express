@@ -7,7 +7,7 @@ quantity:
   standard: 34
   xl: 34
 specs:
-  Trade Name: Nylon-Insert Locknut
+  trade name: Nylon-Insert Locknut
   threads: M5 x 0.8mm
   height: 7mm
   Hex Width: 8mm

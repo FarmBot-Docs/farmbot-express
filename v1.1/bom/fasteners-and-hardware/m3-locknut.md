@@ -7,7 +7,7 @@ quantity:
   standard: 4
   xl: 4
 specs:
-  Trade Name: Nylon-Insert Locknut
+  trade name: Nylon-Insert Locknut
   threads: M3 x 0.5mm
   height: 4mm
   Hex Width: 5.5mm
@@ -15,6 +15,6 @@ specs:
 internal-specs:
   internal part name: M3 Locknut
   cost: $0.016
-  notes: 4 pieces are pre-assembled in electronics box
+  notes: Pre-assembled in electronics box
 component tests: Fasteners and hardware tests
 ---

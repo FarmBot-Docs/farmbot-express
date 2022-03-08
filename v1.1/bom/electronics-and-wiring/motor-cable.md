@@ -2,13 +2,13 @@
 title: "Motor Cable"
 slug: "motor-cable"
 description: "These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They are labelled on the Farmduino end X1, X2, Y, and ZY. The Z-axis cable is split into a Y-axis section labelled ZY and a Z-axis section labelled ZZ that connect with a 90-degree screw-together waterproof connection at the cross-slide."
-variants: X1, 0.7m|X2, 1.8m|Y, 2.2m|ZY, 2.1m|X2, 3.0m|Y, 3.4m|ZY, 3.3m|ZZ, 1.8m
+variants: X1, 0.6m|X2, 1.8m|Y, 2.2m|ZY, 2.1m|X2, 3.0m|Y, 3.4m|ZY, 3.3m|ZZ, 1.8m
 price: $20.00|$23.00|$25.00|$27.00|$28.00|$30.00|$32.00|$24.00
 quantity:
   standard: 1|1|1|1|0|0|0|1
   xl: 1|0|0|0|1|1|1|1
 specs:
-  length: 0.7m|1.8m|2.2m|2.1m|3.0m|3.4m|3.3m|1.8m
+  length: 0.6m|1.8m|2.2m|2.1m|3.0m|3.4m|3.3m|1.8m
   Cores: 4
   Gauge: 18
   Motor connector: 6 pin connector (only 4 pins used)
@@ -18,7 +18,7 @@ specs:
   Inner Colors: Black, Red, Yellow, White
   Label: X1|X2|Y|ZY|X2|Y|ZY|ZZ
 internal-specs:
-  internal part name: "Motor Cable - X1, 0.7m (Express and Express XL)|
+  internal part name: "Motor Cable - X1, 0.6m (Express and Express XL)|
   Motor Cable - X2, 1.8m (Express)|
   Motor Cable - Y, 2.2m (Express)|
   Motor Cable - ZY, 2.1m (Express)|

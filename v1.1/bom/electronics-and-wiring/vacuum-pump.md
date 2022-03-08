@@ -24,7 +24,7 @@ internal-specs:
 include callout.html
 type="success"
 title="Thank you Réstep"
-content="The EMI filter circuit included on the back of the v1.6 vacuum pump is based on Chris Arntzen's openly licensed [Réstep EMI Filter add-on for older versions of FarmBot's vacuum pump](https://www.restep.eco/emi-filter).
+content="The EMI filter circuit included on the back of the v1.1 vacuum pump is based on Chris Arntzen's openly licensed [Réstep EMI Filter add-on for older versions of FarmBot's vacuum pump](https://www.restep.eco/emi-filter).
 
 Thank you Chris for lending your expertise in electronics design to the FarmBot community with this fantastic open-source contribution!"
 %}

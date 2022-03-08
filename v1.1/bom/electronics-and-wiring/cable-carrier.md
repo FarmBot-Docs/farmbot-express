@@ -1,8 +1,8 @@
 ---
 title: "Cable Carrier"
 slug: "cable-carrier"
-description: "These hollow plastic chains are used throughout FarmBot to manage cables and tubing along each of the three axes."
-variants: X, 1.7m|X, 3.2m|Y, 1.5m|Y, 2.6m|Z, 0.74m
+description: "These hollow plastic chains are used throughout FarmBot to manage cables and tubing along each of the three axes. The images labelled X-Axis, Y-Axis, and Z-Axis illustrate the configuration of the end pieces. They are not representative of the actual length and size of the cable carriers."
+variants: X, 1.7m|X, 3.2m|Y, 1.4m|Y, 2.6m|Z, 0.74m
 price: $50.00|$80.00|$50.00|$80.00|$30.00
 quantity:
   standard: 1|0|1|0|1
@@ -20,11 +20,7 @@ specs:
   outside width: 30mm
   pitch: 20mm
   bending radius: 28mm
-  end piece configuration: "<a href='#x-configuration'>X configuration</a>|
-  <a href='#x-configuration'>X configuration</a>|
-  <a href='#y-configuration'>Y configuration</a>|
-  <a href='#y-configuration'>Y configuration</a>|
-  <a href='#z-configuration'>Z configuration</a>"
+  end piece configuration: "X configuration|X configuration|Y configuration|Y configuration|Z configuration"
 internal-specs:
   internal part name: "Cable Carrier - 15 x 20 x 1700mm (85 links + end pieces in X configuration)|
   Cable Carrier - 15 x 20 x 3200mm (160 links + end pieces in X configuration)|
@@ -46,24 +42,3 @@ internal-specs:
 |End pieces   |Inspect the orientation of the end pieces.|Oriented according to FarmBot system design|N/A
 |Mount fit    |Connect the end pieces to the appropriate cable carrier mounts/supports using the appropriate hardware.|Should fit as expected|N/A
 |Contents fit |Inert all cables and tubing into each cable carrier according to FarmBot system design.|Should fit as expected|N/A
-
-## End piece configuration
-
-{%
-include callout.html
-type="info"
-title="Configuration of the end pieces"
-content="The images below labelled X-Axis, Y-Axis, and Z-Axis illustrate the configuration of the end pieces. They are not representative of the actual length of the cable carriers."
-%}
-
-### X-configuration
-
-![End pieces configuration - X](_images/cable_carrier_end_piece_configuration_x.jpg)
-
-### Y-configuration
-
-![End pieces configuration - Y](_images/cable_carrier_end_piece_configuration_y.jpg)
-
-### Z-configuration
-
-![End pieces configuration - Z](_images/cable_carrier_end_piece_configuration_z.jpg)

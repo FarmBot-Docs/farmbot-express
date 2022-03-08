@@ -12,8 +12,9 @@ specs:
   surface treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
   internal part name: Express Cross-Slide Plate
-  rev: A
+  rev: B
   vendor: LDO
   cost: $5.25
   component tests: Plate and Bracket Tests
+  notes: New revision
 ---

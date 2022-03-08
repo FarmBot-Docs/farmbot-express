@@ -16,9 +16,10 @@ specs:
   Width: 20mm
   thickness: 12mm
 internal-specs:
-  internal part name: Leadscrew Block
-  rev: B
+  internal part name: Express Leadscrew Block
+  rev: A
   cost: $1.75
+  notes: New design
 ---
 
 **Component tests**{:.internal}
