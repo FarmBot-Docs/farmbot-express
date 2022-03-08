@@ -1,5 +1,5 @@
 ---
 permalink: /docs/assembly
-page_path: /assembly/assembly
+page_path: /assembly/intro
 layout: redirect
 ---

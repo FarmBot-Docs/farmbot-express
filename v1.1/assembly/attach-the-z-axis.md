@@ -16,7 +16,7 @@ type="warning"
 title="Do not force it on"
 content="The cross-slide's v-wheels have been factory adjusted to fit snugly on the main beam's extrusion. However, slight dimensional changes in the extrusions and wheels can impact this fit.
 
-When sliding the subassembly onto the main beam, make sure to hold and slide it _perpendicular_ to the main beam. Sliding it at an angle could result in damage. **Do not force it on.** If it feels too tight, refer to [this document to adjust the v-wheels](../../extras/eccentric-spacer-adjustment.md)."
+When sliding the subassembly onto the main beam, make sure to hold and slide it _perpendicular_ to the main beam. Sliding it at an angle could result in damage. **Do not force it on.** If it feels too tight, refer to [this document to adjust the v-wheels](../extras/eccentric-spacer-adjustment.md)."
 %}
 
 {% include gallery.html images="

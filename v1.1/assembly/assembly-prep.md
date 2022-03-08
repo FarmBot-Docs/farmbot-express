@@ -12,7 +12,7 @@ FarmBot Express comes 95% pre-assembled in the box, so assembly of the actual ma
 
 When you first open up your FarmBot, unpack all of the subassemblies, parts, and tools so that you develop a full idea of what's included, and so that you can organize everything neatly on a table.
 
-If you are inexperienced working on machines similar to FarmBot (3D printers, etc) then refer to the [bill of materials](../extras/bom.md) to familiarize yourself with the names and functions of all of FarmBot's parts.
+If you are inexperienced working on machines similar to FarmBot (3D printers, etc) then refer to the bill of materials to familiarize yourself with the names and functions of all of FarmBot's parts.
 
 {%
 include callout.html

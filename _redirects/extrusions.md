@@ -1,5 +1,5 @@
 ---
 permalink: /docs/extrusions
-page_path: /extras/bom/extrusions
+page_path: /bom/extrusions
 layout: redirect
 ---
