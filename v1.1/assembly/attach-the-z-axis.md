@@ -3,9 +3,6 @@ title: "Attach the Z-Axis"
 slug: "attach-the-z-axis"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Slide on the cross-slide and z-axis
 
 Carefully slide the **cross-slide and z-axis subassembly** onto the **gantry** from the side without the electronics box. If necessary, rotate the **leadscrew** (and z-axis motor) by hand to adjust the subasssembly so that it can fit past the other gantry components and raised bed.

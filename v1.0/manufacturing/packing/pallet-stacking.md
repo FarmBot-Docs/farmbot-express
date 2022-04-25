@@ -4,9 +4,6 @@ slug: "pallet-stacking"
 description: "Instructions for palletizing Express and Express XL kits"
 ---
 
-* toc
-{:toc}
-
 # Step 1: First three layers
 Stack three layers of **main cartons** onto a **standard sized pallet**. Ensure the cartons are positioned on the pallet without overhang. Overhanging cartons can become damaged.
 

@@ -4,9 +4,6 @@ slug: "main-carton-packing"
 description: "Packing details for FarmBot Express and Express XL"
 ---
 
-* toc
-{:toc}
-
 # Box specifications
 
 |                              |                              |

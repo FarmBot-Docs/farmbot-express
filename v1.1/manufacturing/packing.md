@@ -4,9 +4,6 @@ slug: "packing"
 description: "Instructions for packing Express and Express XL kits at the factory :building_construction: :package:"
 ---
 
-* toc
-{:toc}
-
 {%
 include callout.html
 type="info"

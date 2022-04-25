@@ -4,9 +4,6 @@ slug: "cross-slide"
 description: "Pre-assembly instructions for the FarmBot Express and Express XL cross-slide"
 ---
 
-* toc
-{:toc}
-
 
 ![cross slide](_images/cross_slide.png)
 

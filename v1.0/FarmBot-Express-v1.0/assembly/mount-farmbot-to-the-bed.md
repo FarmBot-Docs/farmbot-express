@@ -3,9 +3,6 @@ title: "Mount FarmBot to the Bed"
 slug: "mount-farmbot-to-the-bed"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Route the belts
 
 Feed each end of the **x-axis belts** down through the center channels in the two **gantry columns**. Then route the belts under the **idler pulleys**. Ensure there are no twists inside the extrusions. The belt teeth should be facing down towards the bed.

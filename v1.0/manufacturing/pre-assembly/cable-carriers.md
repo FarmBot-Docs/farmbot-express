@@ -4,9 +4,6 @@ slug: "cable-carriers"
 description: "Pre-assembly instructions for the FarmBot Express and Express XL cable carriers"
 ---
 
-* toc
-{:toc}
-
 # End piece orientation
 
 Each cable carrier has two **end pieces** that are slightly different, and will come pre-mounted in a specific orientation from the manufacturer. This allows the cable carriers to be mounted onto the FarmBot in the correct orientation.
