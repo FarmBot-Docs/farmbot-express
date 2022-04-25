@@ -4,9 +4,6 @@ slug: "z-axis"
 description: "Pre-assembly instructions for the FarmBot Express and Express XL Z-axis"
 ---
 
-* toc
-{:toc}
-
 
 ![z axis](_images/z_axis.png)
 

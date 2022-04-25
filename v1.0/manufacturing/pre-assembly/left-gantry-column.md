@@ -4,9 +4,6 @@ slug: "left-gantry-column"
 description: "Pre-assembly instructions for the FarmBot Express and Express XL left gantry column"
 ---
 
-* toc
-{:toc}
-
 
 ![left gantry column assembled](_images/left_gantry_column_assembled.jpg)
 

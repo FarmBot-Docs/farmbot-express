@@ -5,9 +5,6 @@ description: "95% pre-assembled, 100% open-source, plug-and-play FarmBot. [Order
 redirect_from: /docs/v1.1/
 ---
 
-* toc
-{:toc}
-
 {%
 include callout.html
 type="info"

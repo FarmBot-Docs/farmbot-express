@@ -3,9 +3,6 @@ title: "Assembly Prep"
 slug: "assembly-prep"
 ---
 
-* toc
-{:toc}
-
 FarmBot Express comes 95% pre-assembled in the box, so assembly of the actual machine will only take about 1 hour. The following documentation pages provide step-by-step instructions for each part of the assembly process. But first...
 
 # Unpack everything

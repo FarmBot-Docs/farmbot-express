@@ -4,9 +4,6 @@ slug: "electronics-box"
 description: "Pre-assembly instructions for the FarmBot Express and Express XL electronics box"
 ---
 
-* toc
-{:toc}
-
 
 ![Electronics Box assembly](_images/electronics_box_assembly.jpg)
 

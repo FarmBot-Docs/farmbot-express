@@ -4,9 +4,6 @@ slug: "tubing"
 description: "Tech specs for the tubing in FarmBot Express. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
-* toc
-{:toc}
-
 
 |Component                     |$/Unit                        |Express Qty                   |Express Subtotal              |XL Qty                        |XL Subtotal                   |MAX Qty                       |MAX Subtotal                  |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|

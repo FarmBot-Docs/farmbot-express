@@ -3,9 +3,6 @@ title: "Construct the Gantry"
 slug: "construct-the-gantry"
 ---
 
-* toc
-{:toc}
-
 
 # Step 1: Assemble the main beam
 

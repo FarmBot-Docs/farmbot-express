@@ -4,9 +4,6 @@ slug: "hardware-box"
 description: "Packing details for the hardware box inside each main carton"
 ---
 
-* toc
-{:toc}
-
 # Box specifications
 
 |                              |                              |

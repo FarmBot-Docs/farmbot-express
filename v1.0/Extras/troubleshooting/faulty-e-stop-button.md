@@ -4,9 +4,6 @@ slug: "faulty-e-stop-button"
 description: "Steps to take if the physical E-stop button on top of the electronics box is not working"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Check the pin binding
 Navigate to the [pin bindings section](https://my.farm.bot/app/designer/settings?highlight=pin_bindings) of the settings panel and verify that you have a binding for **Button 1: E-STOP (Pi 16)** to trigger the **E-STOP** **Action**. Ensure this has been saved and synced to the FarmBot.
 

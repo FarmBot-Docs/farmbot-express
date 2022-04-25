@@ -4,9 +4,6 @@ slug: "building-a-mobile-raised-bed"
 description: "Step-by-step instructions for building a mobile raised bed for your FarmBot"
 ---
 
-* toc
-{:toc}
-
 Building a mobile raised bed is the recommended method for installing a FarmBot **indoors**. In these instructions we show you how to build a simple but sturdy bed suited for FarmBot Express. Please note, we do not recommend building a mobile raised bed for Express XL devices, as that would be unwieldy and prohibitively difficult to move.
 
 ![mobile bed filled with soil](_images/mobile_bed_filled_with_soil.png)

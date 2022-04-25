@@ -4,9 +4,6 @@ slug: "bom"
 description: "Top-level BOM for all components in FarmBot Express, grouped by category. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
-* toc
-{:toc}
-
 The table below lists all of the components used in FarmBot Express, Express XL, and Express MAX grouped by category. To see detailed tech specs and photos of each component, start by clicking a category and then choosing a component from the following page.
 
 |Category|Express Qty|Express Subtotal|XL Qty|XL Subtotal|MAX Qty|MAX Subtotal|

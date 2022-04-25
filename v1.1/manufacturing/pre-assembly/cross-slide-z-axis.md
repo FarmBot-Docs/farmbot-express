@@ -4,9 +4,6 @@ slug: "cross-slide-z-axis"
 description: "Pre-assembly instructions for the FarmBot Express and Express XL cross-slide + z-axis"
 ---
 
-* toc
-{:toc}
-
 
 ![cross slide z axis](_images/cross_slide_z_axis.png)
 

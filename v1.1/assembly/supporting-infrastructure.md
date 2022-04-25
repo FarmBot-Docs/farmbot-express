@@ -3,9 +3,6 @@ title: "Supporting Infrastructure"
 slug: "supporting-infrastructure"
 ---
 
-* toc
-{:toc}
-
 FarmBot Express needs to be mounted on top of **supporting infrastructure** such as a typical raised garden bed. Where you decide to install your FarmBot will determine what type of supporting infrastructure you need.
 
 In the next sections we offer advice for building two types of supporting infrastructure: a **fixed raised bed** and a **mobile raised bed**. However, not every type of infrastructure is suitable for all of our kits. Refer to the table below to see our recommendations.

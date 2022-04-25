@@ -4,9 +4,6 @@ slug: "gantry-main-beam"
 description: "Pre-assembly instructions for the FarmBot Express and Express XL gantry main beam"
 ---
 
-* toc
-{:toc}
-
 
 ![gantry main beam](_images/gantry_main_beam.jpg)
 

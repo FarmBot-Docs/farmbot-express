@@ -4,9 +4,6 @@ slug: "electronics-and-wiring"
 description: "Tech specs for the electronics and wiring in FarmBot Express. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
-* toc
-{:toc}
-
 
 |Component                     |$/Unit                        |Express Qty                   |Express Subtotal              |XL Qty                        |XL Subtotal                   |MAX Qty                       |MAX Subtotal                  |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|

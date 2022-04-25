@@ -5,9 +5,6 @@ description: "95% pre-assembled, 100% open-source, plug-and-play FarmBot. [Order
 redirect_from: /docs/v1.0/
 ---
 
-* toc
-{:toc}
-
 **FarmBot Express** is designed to be an affordable and easy-to-use FarmBot for those who want to get setup and running quickly and don't need all of the features and customization options available with [FarmBot Genesis](http://genesis.farm.bot). The driving factors behind the design are simplicity, ease-of-setup, and affordability.
 
 FarmBot Express is available in three sizes: a standard sized model suitable for small yards, greenhouses, classrooms, and research labs; an XL model suitable for families, larger spaces, multi-class school use; and a MAX model suitable for small commercial farms and large scale R&D.

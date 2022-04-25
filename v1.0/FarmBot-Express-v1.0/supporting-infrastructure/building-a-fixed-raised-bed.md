@@ -4,9 +4,6 @@ slug: "building-a-fixed-raised-bed"
 description: "Step-by-step instructions for building a fixed raised bed for your FarmBot"
 ---
 
-* toc
-{:toc}
-
 Building a **fixed raised bed** is the recommended method for installing a FarmBot outdoors. In these instructions we show you how to build a simple but sturdy bed suited for FarmBot Express or Express XL. This design will fit into most yards, look great, and last a lifetime.
 
 {% include gallery.html images="
