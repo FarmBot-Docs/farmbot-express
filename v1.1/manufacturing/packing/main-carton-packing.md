@@ -33,10 +33,10 @@ The table below shows the items that should be packed into the **main carton** f
 |[Loaded Y-Axis Cable Carrier (Express XL)](../pre-assembly/cable-carriers.md#y-axis-cable-carrier)|-|1
 |[Hardware Box (Express)](../pre-assembly/hardware-box.md)|1|-
 |[Hardware Box (Express XL)](../pre-assembly/hardware-box.md)|-|1
-|Power Supply                  |1                             |1
-|Getting Started Guide         |1                             |1
-|Camera Calibration Card       |1                             |1
-|Crop Stickers                 |1                             |1
+|[[Power Supply]]                  |1                             |1
+|[[Getting Started Guide]]         |1                             |1
+|[[Camera Calibration Card]]       |1                             |1
+|[[Crop Stickers]]                 |1                             |1
 
 # Packing instructions
 
@@ -79,7 +79,7 @@ Insert the **top tray** into the main carton, on top of the cardboard divider.
 
 ![top tray](_images/top_tray.png)
 
-Insert the **pre-assembled left gantry column**, **pre-assembled right gantry column**, **pre-assembled cross-slide and z-axis**, and **power supply** into the top tray.
+Insert the **pre-assembled left gantry column**, **pre-assembled right gantry column**, **pre-assembled cross-slide and z-axis**, and [[power supply]] into the top tray.
 
 Then add some **crumpled kraft paper fill** on top of the **pre-assembled cross-slide and z-axis**.
 
@@ -98,7 +98,7 @@ Express XL kits must include the Express XL version of the hardware box:
 * Hardware Box (Express XL)"
 %}
 
-Then place the **getting started guide**, **camera calibration card**, and **crop stickers** on top of the hardware box.
+Then place the [[getting started guide]], [[camera calibration card]], and [[crop stickers]] on top of the hardware box.
 
 ![hardware box top tray](_images/hardware_box_top_tray.png)
 

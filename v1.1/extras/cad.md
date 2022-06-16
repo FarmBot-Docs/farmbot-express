@@ -16,7 +16,7 @@ content="That's because everything except for viewing requires you to have one. 
 |------------------------------|------------------------------|
 |**Top-level assembly**        |[Express and Express XL](https://cad.onshape.com/documents/898c9a4d2019c7af95fc3951/w/4680b0832dc310b8646029e2/e/679f2587d3639cd5fae1cd9d)
 |**Major subassemblies**       |[Raised Bed](https://cad.onshape.com/documents/898c9a4d2019c7af95fc3951/w/4680b0832dc310b8646029e2/e/50fae6bc4345b365fff4b7a0)<br>[Gantry](https://cad.onshape.com/documents/898c9a4d2019c7af95fc3951/w/4680b0832dc310b8646029e2/e/3676c380c7969150ec1aee74)<br>[Cross-slide](https://cad.onshape.com/documents/898c9a4d2019c7af95fc3951/w/4680b0832dc310b8646029e2/e/dab2305ee5e3fd30dd85ef87)<br>[Z-Axis](https://cad.onshape.com/documents/898c9a4d2019c7af95fc3951/w/4680b0832dc310b8646029e2/e/84b98f508099676d06d7e7bd)<br>[3-in-1 Tool Head](https://cad.onshape.com/documents/898c9a4d2019c7af95fc3951/w/4680b0832dc310b8646029e2/e/d2b8795709de43ba58ea0efc)<br>[Electronics Box](https://cad.onshape.com/documents/898c9a4d2019c7af95fc3951/w/4680b0832dc310b8646029e2/e/c93282bcd6a611fe425719f6)
-|**Farmduino Express**         |[PCB Layout and Schematic](https://drive.google.com/drive/folders/17aEUbVUxo379uS3NhHq-Okkus4Nw7wx2?usp=sharing)
+|[[Farmduino Express]]         |[PCB Layout and Schematic](https://drive.google.com/drive/folders/17aEUbVUxo379uS3NhHq-Okkus4Nw7wx2?usp=sharing)
 
 {%
 include callout.html

@@ -1,5 +1,5 @@
 ---
 permalink: /docs/gantry-main-beam
-page_path: /manufacturing/pre-assembly/gantry-main-beam
+page_path: /bom/extrusions/gantry-main-beam
 layout: redirect
 ---
