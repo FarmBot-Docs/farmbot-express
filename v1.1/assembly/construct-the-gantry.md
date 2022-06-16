@@ -13,7 +13,7 @@ title=""
 content="This step applies to XL kits only. If you are assembling a standard sized Express kit, skip to [step 2](#step-2-attach-the-gantry-columns)."
 %}
 
-Place both **gantry main beams** on a flat surface such as a table or patio. Using two **140mm nut bars** and eight **M5 x 10mm screws**, attach the **gantry joining bracket** to the *lower two slots* of both extrusions on the same side of the extrusions as the cable carrier supports. The notch in the middle of the bracket should be aligned with the joint between the two extrusions.
+Place both [[gantry main beams]] on a flat surface such as a table or patio. Using two [[140mm nut bars]] and eight [[M5 x 10mm screws]], attach the [[gantry joining bracket]] to the *lower two slots* of both extrusions on the same side of the extrusions as the cable carrier supports. The notch in the middle of the bracket should be aligned with the joint between the two extrusions.
 
 ![gantry joining bracket mounted](_images/gantry_joining_bracket_mounted.png)
 
@@ -23,11 +23,11 @@ The completed main beam for XL bots should now look like this. Note that in the 
 
 # Step 2: Attach the gantry columns
 
-Insert two **60mm nut bars** into the lower two slots on the backside of the **gantry main beam**.
+Insert two [[60mm nut bars]] into the lower two slots on the backside of the [[gantry main beam]].
 
 ![gantry column main beam nut bars](_images/gantry_column_main_beam_nut_bars.png)
 
-Position the **gantry column subassembly with the electronics box and solenoid valve** as shown and use four **M5 x 10mm screws** to loosely attach it to the gantry main beam. The screws should only be tightened 50% of the way such that the column will not fall off, but so that it can still be moved within the main beam's slots.
+Position the **gantry column subassembly with the electronics box and solenoid valve** as shown and use four [[M5 x 10mm screws]] to loosely attach it to the gantry main beam. The screws should only be tightened 50% of the way such that the column will not fall off, but so that it can still be moved within the main beam's slots.
 
 ![gantry column attached](_images/gantry_column_attached.png)
 

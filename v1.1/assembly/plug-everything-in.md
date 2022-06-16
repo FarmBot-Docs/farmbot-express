@@ -13,24 +13,24 @@ content="At this time, the FarmBot should not be plugged into any power source."
 
 # Step 1: Connect the Y motor
 
-Route the **Y motor cable** through the slot in the **cross-slide plate** and connect it to the **Y motor**.
+Route the Y [[motor cable]] through the slot in the [[cross-slide plate]] and connect it to the **Y motor**.
 
 ![y axis motor cable highlighted](_images/y_axis_motor_cable_highlighted.png)
 
 # Step 2: Connect the water tubes
 
-Connect the **water tube** coming from the **y-axis cable carrier** to the **90 degree barb** and the **barbed adapter** above the **solenoid valve**.
+Connect the [[water tube]] coming from the y-axis [[cable carrier]] to the [[90-degree barb]] and the **barbed adapter** above the [[solenoid valve]].
 
 {% include gallery.html images="
 ![water tubes y axis connection](_images/water_tubes_y_axis_connection.png)
 ![water tubes solenoid valve connection](_images/water_tubes_solenoid_valve_connection.png)
 " %}
 
-Connect the **water tube** coming from the top of the **x-axis cable carrier** to the **barbed adapter** below the **solenoid valve**.
+Connect the [[water tube]] coming from the top of the x-axis [[cable carrier]] to the **barbed adapter** below the [[solenoid valve]].
 
 ![water tubes solenoid valve bottom barb connection](_images/water_tubes_solenoid_valve_bottom_barb_connection.png)
 
-Screw the **garden hose to barb adapter** onto a **garden hose** of the appropriate length. Then connect the **water tube** coming from the bottom of the **x-axis cable carrier** to the **garden hose to barb adapter**.
+Screw the [[garden hose to barb adapter]] onto a **garden hose** of the appropriate length. Then connect the [[water tube]] coming from the bottom of the x-axis [[cable carrier]] to the [[garden hose to barb adapter]].
 
 ![water tubes garden hose connection](_images/water_tubes_garden_hose_connection.png)
 
@@ -61,13 +61,13 @@ Pay special attention that you fully insert the 90-degree connectors together. T
 
 # Step 5: Route the X2 motor cable and LED strip
 
-Attach the **X2 motor cable** to the **X2 motor**. Then route the cable and the **LED strip** through the **horizontal cable carrier supports** along the **gantry main beam**.
+Attach the X2 [[motor cable]] to the **X2 motor**. Then route the cable and the [[LED strip]] through the **horizontal cable carrier supports** along the [[gantry main beam]].
 
 ![x2 motor cable and led strip routing](_images/x2_motor_cable_and_led_strip_routing.png)
 
 # Step 6: Route all cables behind the electronics box
 
-Route all of the cables down between the **solenoid valve mount** and the **electronics box**. You may need to temporarily disconnect the solenoid valve mount from the extrusion to facilitate fitting all of the cables in the space.
+Route all of the cables down between the [[solenoid valve mount]] and the [[electronics box]]. You may need to temporarily disconnect the solenoid valve mount from the extrusion to facilitate fitting all of the cables in the space.
 
 ![cables routed behind electronics box](_images/cables_routed_behind_electronics_box.png)
 
@@ -84,43 +84,43 @@ The diagram below illustrates the FarmBot Express electronics schematic. In the 
 
 ![express electronics schematic](_images/express_electronics_schematic.png)
 
-Connect the **vacuum pump cable** to the `VACUUM` connector on the **Farmduino Express** board.
+Connect the [[vacuum pump cable]] to the `VACUUM` connector on the [[Farmduino Express]] board.
 
 ![vacuum pump cable highlighted](_images/vacuum_pump_cable_highlighted.png)
 
-Connect the **LED strip** to the `LIGHTING` connector on the **Farmduino Express** board.
+Connect the [[LED strip]] to the `LIGHTING` connector on the [[Farmduino Express]] board.
 
 ![lighting cable highlighted](_images/lighting_cable_highlighted.png)
 
-Connect the **X2 motor cable** to the `X2 MOTOR` connector on the **Farmduino Express** board.
+Connect the X2 [[motor cable]] to the `X2 MOTOR` connector on the [[Farmduino Express]] board.
 
 ![x2 motor cable highlighted](_images/x2_motor_cable_highlighted.png)
 
-Connect the **Y motor cable** to the `Y MOTOR` connector on the **Farmduino Express** board.
+Connect the Y [[motor cable]] to the `Y MOTOR` connector on the [[Farmduino Express]] board.
 
 ![y motor cable highlighted](_images/y_motor_cable_highlighted.png)
 
-Connect the **Z motor cable** to the `Z MOTOR` connector on the **Farmduino Express** board.
+Connect the Z [[motor cable]] to the `Z MOTOR` connector on the [[Farmduino Express]] board.
 
 ![z motor cable highlighted](_images/z_motor_cable_highlighted.png)
 
-Connect the **camera cable** to the left microUSB connector labeled `USB` on the **Raspberry Pi Zero** board.
+Connect the [[camera cable]] to the left microUSB connector labeled `USB` on the **Raspberry Pi Zero** board.
 
 ![camera cable cable highlighted](_images/camera_cable_cable_highlighted.png)
 
-Connect the **power supply cable** to the red `24V POWER IN` connector on the **Farmduino Express** board.
+Connect the [[power supply cable]] to the red `24V POWER IN` connector on the [[Farmduino Express]] board.
 
 ![power cable highlighted](_images/power_cable_highlighted.png)
 
 # Step 8: Flash FarmBot OS to the microSD card
 
-Remove the **microSD card** from the **Raspberry Pi Zero** and follow our [FarmBot OS installation instructions](https://software.farm.bot/docs/farmbot-os#installing-farmbot-os) to install the latest version of our software. Then reinsert the microSD card into the Pi.
+Remove the [[micro SD card]] from the **Raspberry Pi Zero** and follow our [FarmBot OS installation instructions](https://software.farm.bot/docs/farmbot-os#installing-farmbot-os) to install the latest version of our software. Then reinsert the microSD card into the Pi.
 
 ![microSD card in pi zero slot](_images/microsd_card_in_pi_zero_slot.png)
 
 # Step 9: Mount the power supply
 
-Mount the **power supply** to the **bed** using four **wood screws**. Then connect the **power supply's output** to the **power supply cable**.
+Mount the [[power supply]] to the **bed** using four [[wood screws]]. Then connect the **power supply's output** to the [[power supply cable]].
 
 ![power supply mounted](_images/power_supply_mounted.png)
 
@@ -137,9 +137,9 @@ content="Once you plug in the power supply, your system will be powered. Once po
 If you need to make any changes, you must first unplug the power supply from the wall. This will minimize the risk of electrical shock and the potential to permanently damage your electronics."
 %}
 
-If everything looks good, and you understand the precautions needed around powered electronics, go ahead and plug the **power supply** into a **GFCI protected outlet**.
+If everything looks good, and you understand the precautions needed around powered electronics, go ahead and plug the [[power supply]] into a **GFCI protected outlet**.
 
-If an appropriate outlet is not close enough to plug in directly, use an extension cord of the appropriate length and the green **cord protector**.
+If an appropriate outlet is not close enough to plug in directly, use an extension cord of the appropriate length and the green [[power cord protector]].
 
 {% include gallery.html images="
 ![power supply power connection](_images/power_supply_power_connection.png)

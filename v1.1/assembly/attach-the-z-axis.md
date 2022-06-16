@@ -5,7 +5,7 @@ slug: "attach-the-z-axis"
 
 # Step 1: Slide on the cross-slide and z-axis
 
-Carefully slide the **cross-slide and z-axis subassembly** onto the **gantry** from the side without the electronics box. If necessary, rotate the **leadscrew** (and z-axis motor) by hand to adjust the subasssembly so that it can fit past the other gantry components and raised bed.
+Carefully slide the **cross-slide and z-axis subassembly** onto the **gantry** from the side without the electronics box. If necessary, rotate the [[leadscrew]] (and z-axis motor) by hand to adjust the subasssembly so that it can fit past the other gantry components and raised bed.
 
 {%
 include callout.html
@@ -23,11 +23,11 @@ When sliding the subassembly onto the main beam, make sure to hold and slide it 
 
 # Step 2: Attach the y-axis belt
 
-Slide a **belt sleeve** onto the **y-axis belt** (the shortest belt in the kit). Then insert the belt into the slot in a **belt clip** and wrap the belt back onto itself such that the belt teeth mesh. There should be about 3cm of overlap. Then slide the belt sleeve over the meshed section. This should keep the belt from pulling out of the belt clip.
+Slide a [[belt sleeve]] onto the y-axis [[belt]] (the shortest belt in the kit). Then insert the belt into the slot in a [[belt clip]] and wrap the belt back onto itself such that the belt teeth mesh. There should be about 3cm of overlap. Then slide the belt sleeve over the meshed section. This should keep the belt from pulling out of the belt clip.
 
 ![belt attached to belt clip](_images/belt_attached_to_belt_clip.png)
 
-Secure the belt clip to the top of the **main beam** using two **M5 x 10mm screws** and one **20mm nut bar**. The belt clip should be flush with the end of the main beam, and the belt clip's tab should be on the same side of the main beam as the cross-slide plate.
+Secure the belt clip to the top of the [[gantry main beam]] using two [[M5 x 10mm screws]] and one [[20mm nut bar]]. The belt clip should be flush with the end of the main beam, and the belt clip's tab should be on the same side of the main beam as the cross-slide plate.
 
 ![y axis belt clip installed](_images/y_axis_belt_clip_installed.png)
 
@@ -35,7 +35,7 @@ Route the belt under the wheels of the cross-slide plate and over the y-axis mot
 
 ![y axis belt pulley routing](_images/y_axis_belt_pulley_routing.png)
 
-Attach another **belt clip** to the other end of the **main beam**, again ensuring the tab is on the same side of the main beam as the cross-slide plate. Using the same method as before, secure the loose end of the belt to the second belt clip.
+Attach another [[belt clip]] to the other end of the [[gantry main beam]], again ensuring the tab is on the same side of the main beam as the cross-slide plate. Using the same method as before, secure the loose end of the belt to the second belt clip.
 
 {%
 include callout.html
@@ -48,7 +48,7 @@ content="When pulling the belt through the second belt clip and engaging the tee
 
 # Step 3: Connect the y-axis cable carrier
 
-Lay the **loaded y-axis cable carrier** onto the **horizontal cable carrier supports**. Attach it to the **cross-slide** and to the **horizontal cable carrier support** nearest the electronics box using **M3 x 16mm flat head screws** and **M3 locknuts**.
+Lay the **loaded y-axis cable carrier** onto the **horizontal cable carrier supports**. Attach it to the **cross-slide** and to the **horizontal cable carrier support** nearest the electronics box using [[M3 x 16mm flat head screws]] and [[M3 locknuts]].
 
 {% include gallery.html images="
 ![y axis cable carrier overview](_images/y_axis_cable_carrier_overview.png)

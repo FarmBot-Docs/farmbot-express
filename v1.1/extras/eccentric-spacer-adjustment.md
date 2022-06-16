@@ -24,7 +24,7 @@ content="If the wheel spacing is too small, do not force it on. Excessive force 
 # Adjusting the eccentric spacer
 
 1. Separate the extrusion from the plate.
-2. Using an **8mm wrench**, turn the **eccentric spacer** that needs adjusting about 1/32 of a turn. Depending on the direction you turn the spacer, and the current orientation of the spacer, the spacing will either increase or decrease. Your goal is to adjust the spacer in the direction you need. Make the spacing smaller if the connection was loose. Make the spacing larger if the extrusion did not fit between the v-wheels or if there was a lot of friction. The `6mm` engraving on the side of the eccentric spacer indicates the shortest distance, so moving the text away from the other wheels will decrease the spacing.
+2. Using an [[8mm wrench]], turn the [[eccentric spacer]] that needs adjusting about 1/32 of a turn. Depending on the direction you turn the spacer, and the current orientation of the spacer, the spacing will either increase or decrease. Your goal is to adjust the spacer in the direction you need. Make the spacing smaller if the connection was loose. Make the spacing larger if the extrusion did not fit between the v-wheels or if there was a lot of friction. The `6mm` engraving on the side of the eccentric spacer indicates the shortest distance, so moving the text away from the other wheels will decrease the spacing.
 3. Once you have adjusted the spacer 1/32 of a turn, do another fit test.
 4. Continue the steps above for all eccentric spacers until your connections are smooth and wobble free.
 
