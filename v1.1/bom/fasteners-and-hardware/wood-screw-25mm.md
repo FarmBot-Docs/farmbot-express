@@ -1,6 +1,6 @@
 ---
 title: "Wood Screw"
-slug: "wood-screw"
+slug: "wood-screw-25mm"
 description: "These are used to attach the track end plates and track joining plates to supporting infrastructure such as a raised."
 price: $0.05
 quantity:

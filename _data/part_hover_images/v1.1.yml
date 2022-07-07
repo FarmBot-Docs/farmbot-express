@@ -9,12 +9,11 @@ bom:
     parts:
       - image: assembly_tool_3mm_driver.jpg
       - image: assembly_tool_8mm_wrench.jpg
-      - image: eccentric_spacer.jpg
-      - image: m2.5_screw_4mm.jpg
-      - image: m3_flat_head_screw.jpg
+      - image: m2_5_screw_4mm.jpg
+      - image: m3_flat_head_screw_16mm.jpg
       - image: m3_locknut.jpg
-      - image: m3_screw_35mm.jpg
       - image: m3_screw_12mm.jpg
+      - image: m3_screw_35mm.jpg
       - image: m5_flange_locknut.jpg
       - image: m5_screw_10mm.jpg
       - image: m5_screw_16mm.jpg
@@ -23,9 +22,9 @@ bom:
       - image: nut_bar_20mm.jpg
       - image: nut_bar_40mm.jpg
       - image: nut_bar_60mm.jpg
-      - image: spacer.jpg
-      - image: tee_nut.jpg
-      - image: wood_screw.jpg
+      - image: spacer_6mm.jpg
+      - image: spacer_eccentric.jpg
+      - image: wood_screw_25mm.jpg
       - image: zip_tie.jpg
   - category: tubing
     parts:
@@ -39,31 +38,31 @@ bom:
       - image: pressure_regulator.jpg
       - image: rubber_gasket.jpg
       - image: teflon_tape.jpg
-      - image: tube_water.jpg
       - image: tube_vacuum.jpg
+      - image: tube_water.jpg
   - category: plastic-parts
     parts:
+      - image: 3_in_1_tool_head.jpg
       - image: camera_mount_half.jpg
       - image: gantry_plate_spacer_block.jpg
       - image: horizontal_motor_housing.jpg
-      - image: vertical_motor_housing.jpg
       - image: seed_trough_holder.jpg
       - image: seed_trough.jpg
       - image: solenoid_valve_mount.jpg
-      - image: 3_in_1_tool_head.jpg
       - image: vacuum_pump_housing.jpg
       - image: vacuum_pump_mount.jpg
+      - image: vertical_motor_housing.jpg
   - category: drivetrain
     parts:
-      - image: belt_sleeve.jpg
-      - image: pulley.jpg
       - image: bearing.jpg
+      - image: belt_sleeve.jpg
       - image: belt.jpg
       - image: leadscrew_block.jpg
       - image: leadscrew.jpg
+      - image: precision_shim.jpg
+      - image: pulley.jpg
       - image: shaft_coupler.jpg
       - image: v_wheel.jpg
-      - image: precision_shim.jpg
   - category: electronics-and-wiring
     parts:
       - image: cable_carrier.jpg
@@ -78,21 +77,21 @@ bom:
       - image: motor_cable.jpg
       - image: motor.jpg
       - image: power_cord_protector.jpg
-      - image: power_supply.png
       - image: power_supply_cable.jpg
+      - image: power_supply.png
       - image: push_button.jpg
       - image: raspberry_pi_zero.jpg
       - image: solenoid_valve_cable.jpg
       - image: solenoid_valve.jpg
-      - image: vacuum_pump.jpg
       - image: vacuum_pump_cable.jpg
+      - image: vacuum_pump.jpg
   - category: plates-and-brackets
     parts:
-      - image: cable_carrier_mount.jpg
       - image: belt_clip.jpg
+      - image: cable_carrier_mount.jpg
       - image: cross-slide_plate.jpg
       - image: gantry_corner_bracket.jpg
       - image: gantry_joining_bracket.jpg
       - image: gantry_wheel_plate.jpg
-      - image: z-axis_hardstop.jpg
       - image: z_axis_motor_mount.jpg
+      - image: z-axis_hardstop.jpg

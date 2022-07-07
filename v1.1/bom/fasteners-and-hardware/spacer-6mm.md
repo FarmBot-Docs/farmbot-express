@@ -1,19 +1,18 @@
 ---
-title: "Spacer"
-slug: "spacer"
+title: "M5 x 6mm Spacer"
+slug: "spacer-6mm"
 description: "These spacers are used to offset V-wheels from plates so that they may engage extrusions."
-variants: 6mm|14.5mm
-price: $0.20|$0.30
+price: $0.20
 quantity:
-  standard: 5|4
-  xl: 5|4
+  standard: 5
+  xl: 5
 specs:
   material: Aluminum
   outer diameter: 10mm
   inner diameter: 5.1mm
-  length: 6mm|14.5mm
+  length: 6mm
 internal-specs:
-  internal part name: M5 x 6mm Spacer|M5 x 14.5mm Spacer
+  internal part name: M5 x 6mm Spacer
   rev: A
   cost: $0.115
 ---
