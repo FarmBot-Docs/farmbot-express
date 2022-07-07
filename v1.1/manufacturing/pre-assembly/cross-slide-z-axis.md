@@ -43,7 +43,7 @@ Turn the [[leadscrew]] by hand to screw it into the [[leadscrew block]]. Continu
 
 # Step 5: Attach the z-axis hardstops
 
-Attach the two [[z-axis hardstops]] to the back side of the [[z-axis extrusion]] using [[M5 x 10mm screws]] and **drop-in tee nuts**. The lower hardstop should be positioned 120mm above the bottom of the extrusion. The upper hardstop should be positioned 200mm below the top of the extrusion.
+Attach the two [[z-axis hardstops]] to the back side of the [[z-axis extrusion]] using [[M5 x 10mm screws]] and [[10mm nut bars]]. The lower hardstop should be positioned 120mm above the bottom of the extrusion. The upper hardstop should be positioned 200mm below the top of the extrusion.
 
 ![z axis hardstops](_images/z_axis_hardstops.png)
 

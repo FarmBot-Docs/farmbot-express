@@ -19,14 +19,14 @@ Route the Y [[motor cable]] through the slot in the [[cross-slide plate]] and co
 
 # Step 2: Connect the water tubes
 
-Connect the [[water tube]] coming from the y-axis [[cable carrier]] to the [[90-degree barb]] and the **barbed adapter** above the [[solenoid valve]].
+Connect the [[water tube]] coming from the y-axis [[cable carrier]] to the [[90-degree barb]] and the [[NPT to barb adapter]] above the [[solenoid valve]].
 
 {% include gallery.html images="
 ![water tubes y axis connection](_images/water_tubes_y_axis_connection.png)
 ![water tubes solenoid valve connection](_images/water_tubes_solenoid_valve_connection.png)
 " %}
 
-Connect the [[water tube]] coming from the top of the x-axis [[cable carrier]] to the **barbed adapter** below the [[solenoid valve]].
+Connect the [[water tube]] coming from the top of the x-axis [[cable carrier]] to the [[NPT to barb adapter]] below the [[solenoid valve]].
 
 ![water tubes solenoid valve bottom barb connection](_images/water_tubes_solenoid_valve_bottom_barb_connection.png)
 
@@ -36,7 +36,7 @@ Screw the [[garden hose to barb adapter]] onto a **garden hose** of the appropri
 
 # Step 3: Check for leaks
 
-Turn on the supply of water at your **garden hose spigot** and check the FarmBot for any leaks. If your municipal water pressure is abnormally high, you may need to add **zip-ties** to the tube-to-barb connections to prevent the tubes from popping off. In rare circumstances you also may need to add plumber's tape (teflon tape) to the threaded connections at the hose or solenoid valve to prevent leaking.
+Turn on the supply of water at your **garden hose spigot** and check the FarmBot for any leaks. If your municipal water pressure is abnormally high, you may need to add [[zip ties]] to the tube-to-barb connections to prevent the tubes from popping off. In rare circumstances you also may need to add plumber's tape (teflon tape) to the threaded connections at the hose or solenoid valve to prevent leaking.
 
 # Step 4: Connect the Z-axis cables
 

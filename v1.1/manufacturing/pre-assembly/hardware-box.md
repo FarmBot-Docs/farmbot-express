@@ -37,7 +37,7 @@ There are two versions of the **hardware box**: one for **Express** kits and one
 |[[M5 x 10mm Screws]]          |In press-to-seal bag          |20
 |[[M5 x 16mm Screws]]          |In press-to-seal bag          |6
 |[[M5 Flange Locknuts]]        |In press-to-seal bag          |12
-|M5 SS Drop-in Tee Nuts        |In press-to-seal bag          |10
+|[[10mm Nut Bars]]             |In press-to-seal bag          |10
 |[[25mm Wood Screws]]          |In press-to-seal bag          |15
 |RTC Battery                   |In press-to-seal bag          |1
 |MicroSD Card Adapter          |In original plastic case      |1
@@ -65,7 +65,7 @@ There are two versions of the **hardware box**: one for **Express** kits and one
 |[[M5 x 10mm Screws]]          |In press-to-seal bag          |20
 |[[M5 x 16mm Screws]]          |In press-to-seal bag          |6
 |[[M5 Flange Locknuts]]        |In press-to-seal bag          |12
-|M5 SS Drop-in Tee Nuts        |In press-to-seal bag          |10
+|[[10mm Nut Bars]]             |In press-to-seal bag          |10
 |[[25mm Wood Screws]]          |In press-to-seal bag          |15
 |RTC Battery                   |In press-to-seal bag          |1
 |MicroSD Card Adapter          |In original plastic case      |1

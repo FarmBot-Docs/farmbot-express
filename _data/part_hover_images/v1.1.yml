@@ -10,8 +10,8 @@ bom:
       - image: assembly_tool_3mm_driver.jpg
       - image: assembly_tool_8mm_wrench.jpg
       - image: eccentric_spacer.jpg
-      - image: m2.5_screw_4mm.jpg
-      - image: m3_flat_head_screw.jpg
+      - image: m2_5_screw_4mm.jpg
+      - image: m3_flat_head_screw_16mm.jpg
       - image: m3_locknut.jpg
       - image: m3_screw_35mm.jpg
       - image: m3_screw_12mm.jpg
@@ -23,9 +23,8 @@ bom:
       - image: nut_bar_20mm.jpg
       - image: nut_bar_40mm.jpg
       - image: nut_bar_60mm.jpg
-      - image: spacer.jpg
-      - image: tee_nut.jpg
-      - image: wood_screw.jpg
+      - image: spacer_6mm.jpg
+      - image: wood_screw_25mm.jpg
       - image: zip_tie.jpg
   - category: tubing
     parts:
