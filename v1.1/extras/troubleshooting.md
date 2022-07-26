@@ -15,3 +15,4 @@ content="Still having issues? Please email support@farm.bot or consider posting 
 # What's next?
 
  * [Picking Up Seeds](troubleshooting/picking-up-seeds.md)
+ * [Water Pressure](troubleshooting/water-pressure.md)
