@@ -1,6 +1,6 @@
 ---
-title: "Teflon Tape"
-slug: "teflon-tape"
+title: "PTFE Tape"
+slug: "ptfe-tape"
 description: "This plumber's tape is used to seal the pipe thread connections in FarmBot's watering system."
 price: $5.00
 quantity:
@@ -12,7 +12,7 @@ specs:
   length: 10m
   color: White
 internal-specs:
-  internal part name: Teflon Tape
+  internal part name: PTFE Tape
   vendor: LDO
   cost: $0.20
 ---
