@@ -36,7 +36,7 @@ Screw the **garden hose to barb adapter** onto a **garden hose** of the appropri
 
 # Step 3: Check for leaks
 
-Turn on the supply of water at your **garden hose spigot** and check the FarmBot for any leaks. If your municipal water pressure is abnormally high, you may need to add **zip-ties** to the tube-to-barb connections to prevent the tubes from popping off. In rare circumstances you also may need to add plumber's tape (teflon tape) to the threaded connections at the hose or solenoid valve to prevent leaking.
+Turn on the supply of water at your **garden hose spigot** and check the FarmBot for any leaks. If your municipal water pressure is abnormally high, you may need to add **zip-ties** to the tube-to-barb connections to prevent the tubes from popping off. In rare circumstances you also may need to add plumber's tape (PTFE tape) to the threaded connections at the hose or solenoid valve to prevent leaking.
 
 # Step 4: Connect the Z-axis cables
 
