@@ -22,7 +22,7 @@ content="This is the estimated time it will take to build a fixed raised bed."
 
 The reference designs shown on this documentation page are for a **maximally sized** fixed raised bed for the stock Express and Express XL kits. If you are designing a bed for a smaller installation, you will need to modify the dimensions of the lumber and post hole layouts.
 
-We recommend building your raised bed as large as possible to get the most value out of your FarmBot. See the [economies of scale](../intro.md#economies-of-scale) section for more information on maximizing FarmBot value.
+We recommend building your raised bed as large as possible to get the most value out of your FarmBot. See the [economies of scale](../intro/high-level-overview.md#economies-of-scale) section for more information on maximizing FarmBot value.
 
 If you are going to modify our reference design, use the dimension guidelines below to ensure compatibility with the FarmBot.
 

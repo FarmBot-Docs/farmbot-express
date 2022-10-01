@@ -8,6 +8,15 @@ contents:
     pages:
       - title: Intro to FarmBot Express
         url: intro
+        pages:
+          - title: High Level Overview
+            url: high-level-overview
+          - title: Frequently Asked Questions
+            url: faq
+          - title: Change Log
+            url: change-log
+          - title: Past Versions
+            url: past-versions
       - title: Supporting Infrastructure
         url: supporting-infrastructure
         pages:
