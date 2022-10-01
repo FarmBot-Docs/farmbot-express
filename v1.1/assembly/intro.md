@@ -16,50 +16,14 @@ content="As of March 7, 2022, the default version of the Express documentation i
 
 FarmBot Express is available in two sizes: a standard sized model suitable for small yards, greenhouses, classrooms, and research labs; and an XL model suitable for families, larger spaces, multi-class school use, and larger scale R&D.
 
-|Model      |Width|Length|Area              |Max Plant Height|
-|-----------|-----|------|------------------|----------------|
-|Express    |1.2m |3m    |3.6m<sup>2</sup>  |0.5m
-|Express XL |2.4m |6m    |14.4m<sup>2</sup> |0.5m
+|Model        |Width|Length|Area              |Max Plant Height|
+|-------------|-----|------|------------------|----------------|
+|Express      |1.2m |3m    |3.6m<sup>2</sup>  |0.5m
+|Express (XL) |2.4m |6m    |14.4m<sup>2</sup> |0.5m
 
 {% include youtube.html id="0s5GU9SWquQ" %}
 
-Express and Express XL share many of the same components and assembly steps. This documentation covers the assembly, bill of materials, troubleshooting tips, and more of all sized kits. When certain information only applies to one kit or the other, there will be clear indication.
-
-# High level overview
-
-FarmBot Express and Express XL are primarily constructed from V-Slot aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the Farmduino Express microcontroller, and a Raspberry Pi Zero computer.
-
-{% include gallery.html images="
-![FarmBot Express v1.1](_images/farmbot_express_v1.1.png)
-![FarmBot Express XL v1.1](_images/farmbot_express_xl_v1.1.png)
-" %}
-
-## Tracks
-
-FarmBot Express does not have tracks like FarmBot Genesis does. Instead, Express bots roll directly on the wood raised bed. While this doesn't provide the same level of precision as aluminum tracks do, this system is much faster to install and less expensive.
-
-## Gantry
-
-The **gantry** is the the structural component that bridges the long edges of the bed and allows the tool head to be moved in the X-direction. It also serves as a linear guide for the cross-slide, and a support structure for mounting the electronics box and seed tray holster.
-
-## Cross-slide
-
-The **cross-slide** moves in the Y-direction across the gantry. This motion provides the second major degree of freedom for FarmBot Express and allows operations such as planting to be done anywhere in the XY plane.
-
-## Z-axis
-
-The **Z-axis** moves through the cross-slide and provides the FarmBot with Z-direction movement. It also serves as the base for attaching the tool head, vacuum pump, and camera.
-
-# Economies of scale
-
-The table below shows the cost/m<sup>2</sup> of growing area based on the size of your FarmBot. Predictably, the larger your FarmBot is, the lower the cost will be per square meter of growing area. Thus, we recommend installing the largest possible FarmBot in your space in order to get the most value out of the device.
-
-*Note that the costs below do not account for [supporting infrastructure](supporting-infrastructure.md), which will also increase in cost as the device size increases.*
-
-|Model       |Width |Length |Area              |Cost    |Cost/m^2|
-|------------|------|-------|------------------|--------|--------|
-|Express     |1.2m  |3m     |3.6m<sup>2</sup>  |~$1,800 |$500
-|Express XL  |2.4m  |6m     |14.4m<sup>2</sup> |~$2,300 |$160
+Express and Express (XL) share many of the same components and assembly steps. This documentation covers the assembly, bill of materials, troubleshooting tips, and more of all sized kits. When certain information only applies to one kit or the other, there will be clear indication.
 
 # Purchasing a kit
 
@@ -71,8 +35,8 @@ Our kits include everything you need in one box and are backed by our customer s
 
 # License
 
-Please see our [licensing page](https://meta.farm.bot/docs/licensing) to understand how our various works (hardware, software, documentation, etc) are licensed.
+Please see our [licensing page](http://licensing.farm.bot) to understand how our various works (hardware, software, documentation, etc) are licensed.
 
 # What's next?
 
- * [Supporting Infrastructure](supporting-infrastructure.md)
+ * [High Level Overview](intro/high-level-overview.md)
