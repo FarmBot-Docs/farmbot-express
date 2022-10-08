@@ -8,14 +8,14 @@ slug: "plug-everything-in"
 include callout.html
 type="warning"
 title="Power should still be disconnected"
-content="At this time, the FarmBot should not be plugged into any power source."
+content="At this time, FarmBot should not be plugged into any power source."
 %}
 
 # Step 1: Connect the Y motor
 
 Route the Y [[motor cable]] through the slot in the [[cross-slide plate]] and connect it to the **Y motor**.
 
-![y axis motor cable highlighted](_images/y_axis_motor_cable_highlighted.png)
+![plug in the y motor cable to the y motor](_images/plug_in_y_motor.png)
 
 # Step 2: Connect the water tubes
 
@@ -40,20 +40,24 @@ Turn on the supply of water at your **garden hose spigot** and check the FarmBot
 
 # Step 4: Connect the Z-axis cables
 
-Connect the **Z motor cables** together, the **camera cables** together, and the **vacuum pump cables** together.
+Connect the cables at the junction of the y-axis and z-axis cable carriers:
+
+* **Vacuum pump cables** labeled `VAC`
+* **Z motor cables** labeled `ZY` and `ZZ`
+* **Camera cables** labeled `CAM`
 
 {%
 include callout.html
 type="danger"
-title="CAUTION: The camera and z motor cables use the same connectors"
-content="Note that the camera and Z motor cables use the same connectors. When connecting the ends coming from the y-axis cable carrier to the ends coming from the z-axis cable carrier, ensure you are connecting camera to camera and Z motor to Z motor.
-
-You can check to see which cable is which by tugging on a cable on one end of the cable carrier and seeing which cable moves on the other end.
-
-**We strongly recommend you take your time with this step because a mistake could cause massive damage to your electronics.**"
+title="The camera and z motor cables use the same connectors"
+content="Pay close attention to the cable labels to ensure you are connecting `CAM` to `CAM` and `ZY` to `ZZ`. **Take your time with this step because a mistake could permanently damage the electronics.**"
 %}
 
-![y axis cable connections](_images/y_axis_cable_connections.png)
+{% include gallery.html images="
+![yz vacuum pump connection](_images/yz_connection_vacuum_pump.png)
+![yz z motor connection](_images/yz_connection_z_motor.png)
+![yz camera connection](_images/yz_connection_camera.png)
+" %}
 
 Pay special attention that you fully insert the 90-degree connectors together. This may require a multi-step process of pushing together, slightly tightening the thumb screws, pushing together again, and tightening some more. See the video below for detail.
 
@@ -61,7 +65,7 @@ Pay special attention that you fully insert the 90-degree connectors together. T
 
 # Step 5: Route the X2 motor cable and LED strip
 
-Attach the X2 [[motor cable]] to the **X2 motor**. Then route the cable and the [[LED strip]] through the **horizontal cable carrier supports** along the [[gantry main beam]].
+Attach the **X2** [[motor cable]] to the **X2** [[motor]]. Then route the cable and the [[LED strip]] through the [[30mm horizontal cable carrier supports]] along the [[gantry main beam]].
 
 ![x2 motor cable and led strip routing](_images/x2_motor_cable_and_led_strip_routing.png)
 
@@ -84,33 +88,37 @@ The diagram below illustrates the FarmBot Express electronics schematic. In the 
 
 ![express electronics schematic](_images/express_electronics_schematic.png)
 
-Connect the [[vacuum pump cable]] to the `VACUUM` connector on the [[Farmduino Express]] board.
+Connect the peripheral cables to the [[Farmduino Express]] board. From left to right:
 
-![vacuum pump cable highlighted](_images/vacuum_pump_cable_highlighted.png)
+* [[Vacuum pump cable]] labeled `VAC` to the `VACUUM` connector.
+* [[Solenoid valve cable]] labeled `H20` to the `WATER` connector.
+* [[LED strip]] labeled `LED` to the `LIGHTING` connector.
 
-Connect the [[LED strip]] to the `LIGHTING` connector on the [[Farmduino Express]] board.
+![plug in the peripherals](_images/plug_in_peripherals.png)
 
-![lighting cable highlighted](_images/lighting_cable_highlighted.png)
+Connect the [[motor cables]] to the [[Farmduino Express]] board. From left to right:
 
-Connect the X2 [[motor cable]] to the `X2 MOTOR` connector on the [[Farmduino Express]] board.
+* Cable labeled `X1` to the `X1 MOTOR` connector. (this should be pre-connected)
+* Cable labeled `X2` to the `X2 MOTOR` connector.
+* Cable labeled `Y` to the `Y MOTOR` connector.
+* Cable labeled `ZY` to the `Z MOTOR` connector.
 
-![x2 motor cable highlighted](_images/x2_motor_cable_highlighted.png)
+![plug in the motors](_images/plug_in_motors.png)
 
-Connect the Y [[motor cable]] to the `Y MOTOR` connector on the [[Farmduino Express]] board.
+Connect the [[camera cable]] to one of the **vertically oriented** USB Type-C connectors labeled `USB1` or `USB2` on the [[Farmduino Express]] board.
 
-![y motor cable highlighted](_images/y_motor_cable_highlighted.png)
+{%
+include callout.html
+type="warning"
+title="Do not use the horizontally oriented USB Type-C connector"
+content="Plugging the camera into the **horizontally oriented** connector will prevent the Raspberry Pi from communicating with the Farmduino."
+%}
 
-Connect the Z [[motor cable]] to the `Z MOTOR` connector on the [[Farmduino Express]] board.
+![plug in the camera](_images/plug_in_camera.png)
 
-![z motor cable highlighted](_images/z_motor_cable_highlighted.png)
+Connect the [[power supply cable]] to the `24V POWER IN` connector on the [[Farmduino Express]] board.
 
-Connect the [[camera cable]] to the left microUSB connector labeled `USB` on the **Raspberry Pi Zero** board.
-
-![camera cable cable highlighted](_images/camera_cable_cable_highlighted.png)
-
-Connect the [[power supply cable]] to the red `24V POWER IN` connector on the [[Farmduino Express]] board.
-
-![power cable highlighted](_images/power_cable_highlighted.png)
+![plug in the power cable](_images/plug_in_power.png)
 
 # Step 8: Flash FarmBot OS to the microSD card
 
@@ -126,20 +134,16 @@ Mount the [[power supply]] to the **bed** using four [[wood screws]]. Then conne
 
 # Step 10: Plug FarmBot into the power source
 
-Before plugging the power supply into an outlet or an extension cord, please read the precaution below.
-
 {%
 include callout.html
 type="danger"
-title="Beware of electrical shock"
-content="Once you plug in the power supply, your system will be powered. Once powered, you cannot add, remove, or change any motor cables, peripheral cables, etc, or you risk frying the electronics and/or being electrically shocked.
+title="Before plugging in..."
+content="Once you plug in the power supply, your system will be powered. Once powered, you cannot add, remove, or change any motor cables, peripheral cables, etc, or you risk damaging the electronics and being electrically shocked.
 
-If you need to make any changes, you must first unplug the power supply from the wall. This will minimize the risk of electrical shock and the potential to permanently damage your electronics."
+If you need to make any changes, first unplug the power supply from the wall."
 %}
 
-If everything looks good, and you understand the precautions needed around powered electronics, go ahead and plug the [[power supply]] into a **GFCI protected outlet**.
-
-If an appropriate outlet is not close enough to plug in directly, use an extension cord of the appropriate length and the green [[power cord protector]].
+If everything looks good, and you understand the precautions needed around powered electronics, plug the [[power supply]] into a **GFCI protected outlet**. If an appropriate outlet is not close enough to plug in directly, use an extension cord of the appropriate length and the green [[power cord protector]].
 
 {% include gallery.html images="
 ![power supply power connection](_images/power_supply_power_connection.png)
@@ -150,14 +154,13 @@ If an appropriate outlet is not close enough to plug in directly, use an extensi
 include callout.html
 type="success"
 title="The mark of success"
-content="If all has gone well, the electronics should begin booting up and you can revel in the blinking lights!"
+content="If all has gone well, FarmBot will begin booting up and you should see blinking lights!"
 %}
 
 {%
 include callout.html
 type="warning"
-title="Smell smoke or heard a loud pop?"
-content="If anything seems suspicious or hazardous, **immediately unplug the power supply from the wall** and contact us at [support@farm.bot](mailto:support@farm.bot)."
+content="If anything seems not right, suspicious, or hazardous, **immediately unplug the power supply from the wall** and contact us at [support@farm.bot](mailto:support@farm.bot)."
 %}
 
 # What's next?
