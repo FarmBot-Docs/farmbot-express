@@ -35,9 +35,7 @@ These polycarbonate V-wheels are precision machined to allow FarmBot to move in 
 |**Price**                     |$6.00
 |**Quantity**                  |30
 
-
-
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FR4hbZb2wRmY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DR4hbZb2wRmY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FR4hbZb2wRmY%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="R4hbZb2wRmY" %}
 
 {% include gallery.html images="
 ![assembled v-wheels](_images/assembled_v-wheels.jpg)
@@ -58,11 +56,7 @@ These polycarbonate V-wheels are precision machined to allow FarmBot to move in 
 |**Price**                     |1.4m - $15.00<br>2.6m - $25.00<br>4.5m - $40.00<br>7.5m - $70.00<br>19.5m - $180.00
 |**Quantity**                  |Express:<br>1.4m - 1<br>4.5m - 2<br><br>Express XL:<br>2.6m - 1<br>7.5m - 2<br><br>Express MAX:<br>2.6m - 1<br>19.5m - 2
 
-
-
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FDu2sdMXKPEw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDu2sdMXKPEw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDu2sdMXKPEw%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
-
-
+{% include youtube.html id="Du2sdMXKPEw" %}
 
 ![belts](_images/belts.jpg)
 
@@ -133,9 +127,7 @@ This stainless steel leadscrew allows FarmBot to move in the Z direction.
 |**Price**                     |$35.00
 |**Quantity**                  |1
 
-
-
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F2GPDnuH1k9o%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2GPDnuH1k9o&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2GPDnuH1k9o%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="2GPDnuH1k9o" %}
 
 {% include gallery.html images="
 ![Leadscrew closeup](_images/leadscrew_closeup.jpg)
