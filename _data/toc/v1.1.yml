@@ -34,6 +34,8 @@ contents:
         url: mount-farmbot-to-the-bed
       - title: Plug Everything In
         url: plug-everything-in
+      - title: Final Steps
+        url: final-steps
   - title: Extras
     url: extras
     top: true

@@ -165,4 +165,4 @@ content="If anything seems not right, suspicious, or hazardous, **immediately un
 
 # What's next?
 
- * [Configure FarmBot](http://configure.farm.bot)
+- [Final Steps](final-steps.md)
