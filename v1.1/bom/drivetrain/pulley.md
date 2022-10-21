@@ -12,6 +12,7 @@ specs:
   inner diameter: 5mm
   outer diameter: 15mm
   height: 14mm
+  setscrews: M4 x 0.7 threads, 3.75mm length
   setscrew quantity: 2
   setscrew material: Stainless steel
   setscrew drive size: 2mm hex
