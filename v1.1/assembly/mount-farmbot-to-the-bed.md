@@ -14,7 +14,7 @@ Feed each end of the x-axis [[belts]] down through the center channels in the tw
 
 # Step 2: Secure the belts
 
-Secure both ends of each [[belt]] to a [[belt clip]] using a [[belt sleeve]] and the same method used when [securing the y-axis belt](attach-the-z-axis.md#step-2-attach-the-y-axis-belt). Then attach the belt clips to the **raised bed** using two [[wood screws]]. The belt clip tabs should be extending over the outside of the bed to serve as hardstops against the gantry wheel plates.
+Secure both ends of each [[belt]] to a [[belt clip]] using a [[belt sleeve]] and the same method used when [securing the y-axis belt](attach-the-z-axis.md#step-3-attach-the-y-axis-belt). Then attach the belt clips to the **raised bed** using two [[wood screws]]. The belt clip tabs should be extending over the outside of the bed to serve as hardstops against the gantry wheel plates.
 
 {%
 include callout.html

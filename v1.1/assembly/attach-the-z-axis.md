@@ -3,7 +3,13 @@ title: "Attach the Z-Axis"
 slug: "attach-the-z-axis"
 ---
 
-# Step 1: Slide on the cross-slide and z-axis
+# Step 1: Attach the cable carrier mount
+
+Attach the [[52.5mm cable carrier mount]] to the [[cross-slide plate]] using two [[M5 x 20mm screws]] and [[M5 flange locknuts]].
+
+![attach the cable carrier mount](_images/attach_the_cable_carrier_mount.png)
+
+# Step 2: Slide on the cross-slide and z-axis
 
 Carefully slide the **cross-slide and z-axis subassembly** onto the **gantry** from the side without the electronics box. If necessary, rotate the [[leadscrew]] (and z-axis motor) by hand to adjust the subasssembly so that it can fit past the other gantry components and raised bed.
 
@@ -21,7 +27,7 @@ When sliding the subassembly onto the main beam, make sure to hold and slide it 
 ![cross slide and z axis on beam](_images/cross_slide_and_z_axis_on_beam.png)
 " %}
 
-# Step 2: Attach the y-axis belt
+# Step 3: Attach the y-axis belt
 
 Slide a [[belt sleeve]] onto the y-axis [[belt]] (the shortest belt in the kit). Then insert the belt into the slot in a [[belt clip]] and wrap the belt back onto itself such that the belt teeth mesh. There should be about 3cm of overlap. Then slide the belt sleeve over the meshed section. This should keep the belt from pulling out of the belt clip.
 
@@ -46,9 +52,9 @@ content="When pulling the belt through the second belt clip and engaging the tee
 
 ![y axis belt tensioning](_images/y_axis_belt_tensioning.png)
 
-# Step 3: Connect the y-axis cable carrier
+# Step 4: Connect the y-axis cable carrier
 
-Lay the **loaded y-axis cable carrier** onto the **horizontal cable carrier supports**. Attach it to the **cross-slide** and to the **horizontal cable carrier support** nearest the electronics box using [[M3 x 16mm flat head screws]] and [[M3 locknuts]].
+Lay the **loaded y-axis cable carrier** onto the [[horizontal cable carrier supports]]. Attach it to the [[52.5mm cable carrier mount]] and to the [[horizontal cable carrier support]] nearest the electronics box using [[M3 x 16mm flat head screws]] and [[M3 locknuts]].
 
 {% include gallery.html images="
 ![y axis cable carrier overview](_images/y_axis_cable_carrier_overview.png)

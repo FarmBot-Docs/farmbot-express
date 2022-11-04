@@ -8,7 +8,7 @@ redirect_from: /docs/v1.1/
 {%
 include callout.html
 type="info"
-title="Announcing: FarmBot Express v1.1 beta documentation!"
+title="Announcing: FarmBot Express v1.1 documentation!"
 content="As of March 7, 2022, the default version of the Express documentation is for v1.1. If you have an older kit, please use the version picker dropdown menu in the top left of the documentation hub's navigation to select an older version of the docs."
 %}
 
