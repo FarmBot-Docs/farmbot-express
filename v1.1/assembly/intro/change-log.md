@@ -12,6 +12,8 @@ The new board also features smaller and more DIY friendly 2.54mm pitch receptacl
 
 Last, the new board includes a pulldown resistor to fix an issue that affected E-stop button performance in the v1.0 design.
 
+![farmduino express v1.1](_images/farmduino_express.jpeg)
+
 # Raspberry Pi Zero 2 W
 
 Express v1.1 includes an upgraded [[Raspberry Pi Zero 2 W]] computer to provide faster booting and greater overall performance when compared to the Zero W included in Express v1.0 kits.
@@ -36,6 +38,8 @@ Thank you Chris for lending your expertise in electronics design to the FarmBot 
 # Updated power supply and power supply cable
 
 The [[power supply]] is now a smaller and lighter 100W unit. Additionally, the [[power supply cable]] is now a 3-core cable to provide `PE` (protected earth) grounding for the Farmduino.
+
+![power supply](_images/power_supply.jpeg)
 
 # Smaller cable carrier
 
