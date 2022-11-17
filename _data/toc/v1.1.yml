@@ -53,6 +53,8 @@ contents:
         url: eccentric-spacer-adjustment
       - title: Seeds
         url: seeds
+      - title: LEDs
+        url: leds
   - title: Bill of Materials
     url: bom
     top: true
