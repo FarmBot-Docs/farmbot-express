@@ -59,7 +59,7 @@ All three [[cable carriers]] have been reduced in size to `15mm x 20mm` internal
 
 # Cable and connector changes
 
-* The [[camera]] and [[camera cable]] are now manufactured with shielded USB 2.0 cable (`28AWG/1p + 24AWG/2c`) to reduce intereference problems that affected some v1.0 installations.
+* The [[camera]] and [[camera cable]] are now manufactured with shielded USB 2.0 cable (`28AWG/1p + 24AWG/2c`) to reduce interference problems that affected some v1.0 installations.
 * The [[camera cable]] now features a USB Type-C plug.
 * Additional shrinkwrap labels have been added to differentiate the 90-degree connectors at the Y/Z interface.
 * The [[solenoid valve cable]], [[Y vacuum pump cable]], and [[LED strip]] now feature smaller and more DIY friendly 2.54mm pitch plugs.

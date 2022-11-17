@@ -106,7 +106,7 @@ content="FarmBot Express uses wheels to roll directly on top of the long sides o
 
 If desired, stain the wood or apply a protective coating of your choice.
 
-# Step 4: Postion the posts
+# Step 4: Position the posts
 
 Place all of the **posts** in the holes. The top of the posts should be positioned 300mm above the ground.
 

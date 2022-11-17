@@ -22,7 +22,7 @@ internal-specs:
 
 |Test         |Description  |Target       |Tolerance    |
 |-------------|-------------|-------------|-------------|
-|Outer diameter|Measure the outer diameter using digital calipers.|1.65mm (16 guage)<br>1.07mm (19 guage)|+/- .05mm
+|Outer diameter|Measure the outer diameter using digital calipers.|1.65mm (16 gauge)<br>1.07mm (19 gauge)|+/- .05mm
 |Length       |Measure the length using digital calipers.|40mm|+/- 1mm
 |Material     |Ensure the needle is stainless steel and will not rust by holding a magnet to the part.|Stainless steel (no magnetic attraction)|Weak attraction to stainless steel is permissible.
 |Color        |Inspect the color of each needle's plastic luer lock connector.|The color should be different depending on the needle size.|N/A

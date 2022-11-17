@@ -38,7 +38,7 @@ title="Farmduino is open-source"
 
 |Resource|Link|
 |--------|----|
-|Schematics, board layout, and hardwrae source files|[Google Drive Folder](https://drive.google.com/drive/folders/17aEUbVUxo379uS3NhHq-Okkus4Nw7wx2?usp=sharing)
+|Schematics, board layout, and hardware source files|[Google Drive Folder](https://drive.google.com/drive/folders/17aEUbVUxo379uS3NhHq-Okkus4Nw7wx2?usp=sharing)
 |Arduino MCU firmware source code|[GitHub](https://github.com/FarmBot/farmbot-arduino-firmware)
 
 **Component tests**{:.internal}
@@ -48,5 +48,5 @@ title="Farmduino is open-source"
 |Pins         |Inspect the pins for damage.|No pins should be bent|N/A
 |Fuse         |Ensure the blade fuse is inserted and of the correct amperage.|7.5 Amps|N/A
 |Color        |Inspect the color of the PCB.|Matte black|N/A
-|Functionality|Use the factory test firmware to test motor and periperhal functions.|All functions work|N/A
+|Functionality|Use the factory test firmware to test motor and peripheral functions.|All functions work|N/A
 |SPI comms    |Modify Trinamic TMC2130 parameters (eg: motor current)|Parameters should update.|N/A

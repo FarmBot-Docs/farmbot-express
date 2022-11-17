@@ -20,7 +20,7 @@ Secure both ends of each [[belt]] to a [[belt clip]] using a [[belt sleeve]] and
 include callout.html
 type="success"
 title="Just like tying your shoes"
-content="When tigtening and securing the belts and belt clips, use the same amount of force you would use to tie your shoes. There should be no slack in the system once the belt sleeve is in place."
+content="When tightening and securing the belts and belt clips, use the same amount of force you would use to tie your shoes. There should be no slack in the system once the belt sleeve is in place."
 %}
 
 {%

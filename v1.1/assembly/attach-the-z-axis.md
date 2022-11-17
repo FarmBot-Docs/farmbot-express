@@ -11,7 +11,7 @@ Attach the [[52.5mm cable carrier mount]] to the [[cross-slide plate]] using two
 
 # Step 2: Slide on the cross-slide and z-axis
 
-Carefully slide the **cross-slide and z-axis subassembly** onto the **gantry** from the side without the electronics box. If necessary, rotate the [[leadscrew]] (and z-axis motor) by hand to adjust the subasssembly so that it can fit past the other gantry components and raised bed.
+Carefully slide the **cross-slide and z-axis subassembly** onto the **gantry** from the side without the electronics box. If necessary, rotate the [[leadscrew]] (and z-axis motor) by hand to adjust the subassembly so that it can fit past the other gantry components and raised bed.
 
 {%
 include callout.html

@@ -37,7 +37,7 @@ We also have accounts on [Instagram](http://instagram.farm.bot/), [YouTube](http
 
 # Storing extra parts
 
-We recommend keeping everything that is left over after assembly in a box along with the getting started guide, camera calibration card, the microSD card adpater, and all of the assembly tools.
+We recommend keeping everything that is left over after assembly in a box along with the getting started guide, camera calibration card, the microSD card adapter, and all of the assembly tools.
 
 ![post-assembly spare parts](_images/extra_parts.png)
 

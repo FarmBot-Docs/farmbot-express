@@ -28,6 +28,6 @@ internal-specs:
 |-------------|-------------|-------------|-------------|
 |Connectors and continuity|Use the cable to connect a vacuum pump to a Farmduino.|The cable's connectors should connect as expected and the vacuum pump should be operable.|N/A
 |Length       |Measure the length of the two sections of cable using a tape measure.|See BOM spec|+/- 20mm
-|Cable        |Inspect the cable's spec.|18 guage, 2 core|N/A
+|Cable        |Inspect the cable's spec.|18 gauge, 2 core|N/A
 |Shrinkwrap   |Inspect the color of the shrinkwrap.|Gray|N/A
 |Color        |Inspect the color of the cable.|Black outer, black and red inner|N/A
