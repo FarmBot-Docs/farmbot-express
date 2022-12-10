@@ -12,13 +12,18 @@ bom:
       - image: thin_wrench_8mm.jpg
       - image: m2_5_screw_4mm.jpg
       - image: m3_flat_head_screw_16mm.jpeg
+      - image: m3_flat_head_screw_30mm.jpeg
       - image: m3_locknut.jpg
       - image: m3_screw_12mm.jpg
       - image: m3_screw_35mm.jpg
       - image: m5_flange_locknut.jpg
       - image: m5_screw_10mm.jpg
       - image: m5_screw_16mm.jpg
+      - image: m5_screw_20mm.jpeg
+      - image: m5_screw_25mm.jpeg
       - image: m5_screw_30mm.jpg
+      - image: m5_screw_40mm.jpeg
+      - image: nut_bar_10mm.jpeg
       - image: nut_bar_140mm.jpg
       - image: nut_bar_20mm.jpg
       - image: nut_bar_40mm.jpg
@@ -26,6 +31,7 @@ bom:
       - image: spacer_6mm.jpg
       - image: spacer_14_5mm.jpeg
       - image: spacer_eccentric.jpg
+      - image: standoff.jpeg
       - image: wood_screw_25mm.jpg
       - image: zip_tie.jpg
   - category: tubing
@@ -74,11 +80,12 @@ bom:
   - category: electronics-and-wiring
     parts:
       - image: cable_carrier.jpg
-      - image: camera_cable.jpg
+      - image: camera_cable.jpeg
       - image: camera_calibration_card.jpg
       - image: camera.jpg
       - image: electronics_box.jpg
       - image: farmduino_express.jpeg
+      - image: fuse.jpg
       - image: led_strip.jpeg
       - image: micro_sd_card_adapter.jpg
       - image: micro_sd_card.jpg
@@ -88,7 +95,7 @@ bom:
       - image: power_supply_cable.jpeg
       - image: power_supply.jpeg
       - image: push_button.jpg
-      - image: raspberry_pi_zero.jpg
+      - image: raspberry_pi_zero_2_w.jpeg
       - image: solenoid_valve_cable.jpeg
       - image: solenoid_valve.jpg
       - image: vacuum_pump_cable_y.jpeg

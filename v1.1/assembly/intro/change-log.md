@@ -18,6 +18,8 @@ Last, the new board includes a pulldown resistor to fix an issue that affected E
 
 Express v1.1 includes an upgraded [[Raspberry Pi Zero 2 W]] computer to provide faster booting and greater overall performance when compared to the Zero W included in Express v1.0 kits.
 
+![raspberry pi zero 2 w](_images/raspberry_pi_zero_2_w.jpeg)
+
 # Vacuum pump with EMI filter
 
 The [[vacuum pump]] now features a circuit board directly soldered onto the back of the motor which performs EMI filtering and reduces the startup current draw of the motor. This circuitry will help reduce WiFi interference caused by the vacuum pump, as well as the potential for the pump to drop the system voltage below acceptable levels when starting up.
