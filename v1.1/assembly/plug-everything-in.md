@@ -86,7 +86,7 @@ content="At this time, the FarmBot should not be plugged into any power source."
 
 The diagram below illustrates the FarmBot Express electronics schematic. In the following steps you'll connect each motor and peripheral one at a time, and finally the power supply.
 
-![express electronics schematic](_images/express_electronics_schematic.png)
+![express v1.1 electronics schematic](_images/express_electronics_schematic.png)
 
 Connect the peripheral cables to the [[Farmduino Express]] board. From left to right:
 
