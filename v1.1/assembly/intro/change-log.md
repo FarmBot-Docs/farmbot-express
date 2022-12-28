@@ -14,11 +14,25 @@ Last, the new board includes a pulldown resistor to fix an issue that affected E
 
 ![farmduino express v1.1](_images/farmduino_express.jpeg)
 
+{%
+include callout.html
+type="warning"
+title="Not backwards compatible with the Pi Zero W"
+content="Because the Farmduino Express v1.1 board uses a different firmware flashing method, it is not backwards compatible with the Raspberry Pi Zero W included in Express v1.0 kits. In order to upgrade the Farmduino, one must also upgrade the Raspberry Pi to model Zero 2 W."
+%}
+
 # Raspberry Pi Zero 2 W
 
 Express v1.1 includes an upgraded [[Raspberry Pi Zero 2 W]] computer to provide faster booting and greater overall performance when compared to the Zero W included in Express v1.0 kits.
 
 ![raspberry pi zero 2 w](_images/raspberry_pi_zero_2_w.jpeg)
+
+{%
+include callout.html
+type="warning"
+title="Not backwards compatible with Farmduino Express v1.0"
+content="Because FarmBot OS for the Raspberry Pi Zero 2 W uses a different firmware flashing method, it is not backwards compatible with the Farmduino Express v1.0 included in Express v1.0 kits. In order to upgrade the Raspberry Pi, one must also upgrade the Farmduino."
+%}
 
 # Vacuum pump with EMI filter
 

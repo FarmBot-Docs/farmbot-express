@@ -10,14 +10,14 @@ slug: "construct-the-gantry"
 include callout.html
 type="info"
 title=""
-content="This step applies to XL kits only. If you are assembling a standard sized Express kit, skip to [step 2](#step-2-attach-the-gantry-columns)."
+content="This step applies to (XL) kits only. If you are assembling a standard sized Express kit, skip to [step 2](#step-2-attach-the-gantry-columns)."
 %}
 
 Place both [[gantry main beams]] on a flat surface such as a table or patio. Using two [[140mm nut bars]] and eight [[M5 x 10mm screws]], attach the [[gantry joining bracket]] to the *lower two slots* of both extrusions on the same side of the extrusions as the cable carrier supports. The notch in the middle of the bracket should be aligned with the joint between the two extrusions.
 
 ![gantry joining bracket mounted](_images/gantry_joining_bracket_mounted.png)
 
-The completed main beam for XL bots should now look like this. Note that in the rest of the documentation we'll be showing images of the standard sized main beam, but all the instructions are the same from here on out.
+The completed main beam for (XL) bots should now look like this. Note that in the rest of the documentation we'll be showing images of the standard sized main beam, but all the instructions are the same from here on out.
 
 ![assembled gantry main beam](_images/assembled_gantry_main_beam.png)
 

@@ -3,7 +3,9 @@ title: "Assembly Prep"
 slug: "assembly-prep"
 ---
 
-FarmBot Express comes 95% pre-assembled in the box, so assembly of the actual machine will only take about 1 hour. The following documentation pages provide step-by-step instructions for each part of the assembly process. But first...
+FarmBot Express and Express (XL) come 95% pre-assembled in the box, so assembly of the actual machine will only take about 1 hour. The following documentation pages provide step-by-step instructions for each part of the assembly process. Alternatively, you may watch this unboxing and assembly video:
+
+{% include youtube.html id="cotIwIyNE4k" %}
 
 # Unpack everything
 
@@ -29,13 +31,13 @@ content="If anything is missing or damaged, let us know right away at [support@f
 
 Compared to FarmBot Genesis, FarmBot Express is much simpler and easier to set up. However, you'll still need to dedicate an hour or two for installing the FarmBot, and more time for building the raised bed and filling it with soil. Be prepared to spend the following amounts of time. Remember, these are just estimations; depending on your skill level and familiarity with building stuff, you may need more or less time. Consider assembling FarmBot with a friend to significantly speed things up and help reduce mistakes.
 
-|Subassembly                   |Estimated Time (Express)      |Express XL                    |
+|Subassembly                   |Estimated Time (Express)      |Express (XL)                  |
 |------------------------------|------------------------------|------------------------------|
 |Raised bed                    |8 hours                       |12 hours
 |FarmBot                       |30 minutes                    |40 minutes
 |Belts                         |10 minutes                    |10 minutes
 |Cables and tubing             |10 minutes                    |10 minutes
-|**TOTAL**                     |**1 hour for just FarmBot**<br>**9 hours with raised bed**|**1 hour for just FarmBot**<br>**13 hours with raised bed**|**1 hour for just FarmBot**<br>**31 hours with raised bed**
+|**TOTAL**                     |**1 hour for just FarmBot**<br>**9 hours with raised bed**|**1 hour for just FarmBot**<br>**13 hours with raised bed**
 
 # What's next?
 
