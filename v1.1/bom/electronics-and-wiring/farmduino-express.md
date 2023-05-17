@@ -19,7 +19,7 @@ specs:
   DC Current for 3.3V Pin: 50 mA
   PCB color: Black
   RoHS Compliant: Yes
-  CE Certification: Yes (<a href="https://drive.google.com/file/d/16wXEbiY1xF6eznnHQbq_53pAWcq5jr2P/view?usp=sharing">Certificate of Conformity</a>)
+  CE Certification: Yes (<a href="https://drive.google.com/file/d/1jnkea58oUiYslRBIA3NhDchciEu2fbQI/view?usp=share_link">Certificate of Conformity</a>)
 internal-specs:
   internal part name: Farmduino Express v1.1
   rev: A
