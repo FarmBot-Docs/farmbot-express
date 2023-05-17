@@ -50,4 +50,8 @@ Both FarmBot Express and Express XL kits are shipped in a single box:
 |Express      |18cm x 50cm x 122cm (7in x 20in x 48in) |17kg (37lb)
 |Express (XL) |18cm x 50cm x 122cm (7in x 20in x 48in) |18kg (40lb)
 
-View our full shipping policy [here](http://shipping.farm.bot).
+{%
+include callout.html
+type="truck"
+content="View our full [shipping policy](http://shipping.farm.bot)."
+%}
