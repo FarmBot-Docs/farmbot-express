@@ -16,3 +16,4 @@ content="Still having issues? Please email support@farm.bot or consider posting 
 
  * [Picking Up Seeds](troubleshooting/picking-up-seeds.md)
  * [Water Pressure](troubleshooting/water-pressure.md)
+ * [Z-Axis Movements](troubleshooting/z-axis-movements.md)
