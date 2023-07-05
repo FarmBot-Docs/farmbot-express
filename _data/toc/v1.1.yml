@@ -51,6 +51,8 @@ contents:
             url: picking-up-seeds
           - title: Water Pressure
             url: water-pressure
+          - title: Z-Axis Movements
+            url: z-axis-movements
       - title: Eccentric Spacer Adjustment
         url: eccentric-spacer-adjustment
       - title: Seeds
