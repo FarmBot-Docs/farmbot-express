@@ -47,9 +47,9 @@ Try lowering the z-axis **[MAX SPEED TOWARDS HOME](https://my.farm.bot/app/desig
 If the troubleshooting steps above are not successful, try disabling stall detection for the z-axis. This will unlock slower motor speeds and higher motor current which can help the z-axis move more reliably.
 
 - Disable z-axis **[STALL DETECTION](https://my.farm.bot/app/designer/settings?highlight=stall_detection)**
-- Increase the z-axis **[MOTOR CURRENT](https://my.farm.bot/app/designer/settings?highlight=motor_current)** to 900 milliamps
-- Decrease the z-axis **[MIN SPEED](https://my.farm.bot/app/designer/settings?highlight=min_speed)**, **[MAX SPEED](https://my.farm.bot/app/designer/settings?highlight=max_speed)**, and **[MAX SPEED TOWARDS HOME](https://my.farm.bot/app/designer/settings?highlight=max_speed_towards_home)** by 50%
-- Increase the z-axis **[ACCELERATE FOR](https://my.farm.bot/app/designer/settings?highlight=accelerate_for)** and **[ACCELERATE FOR TOWARDS HOME](https://my.farm.bot/app/designer/settings?highlight=accelerate_for_towards_home)** by 50%
+- Increase the z-axis **[MOTOR CURRENT](https://my.farm.bot/app/designer/settings?highlight=motor_current)** to 100%
+- Decrease the z-axis **[MIN SPEED](https://my.farm.bot/app/designer/settings?highlight=min_speed)**, **[MAX SPEED](https://my.farm.bot/app/designer/settings?highlight=max_speed)**, and **[MAX SPEED TOWARDS HOME](https://my.farm.bot/app/designer/settings?highlight=max_speed_towards_home)**
+- Increase the z-axis **[ACCELERATE FOR](https://my.farm.bot/app/designer/settings?highlight=accelerate_for)** and **[ACCELERATE FOR TOWARDS HOME](https://my.farm.bot/app/designer/settings?highlight=accelerate_for_towards_home)**
 
 {%
 include callout.html
