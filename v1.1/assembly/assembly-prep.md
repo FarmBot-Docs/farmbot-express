@@ -3,7 +3,13 @@ title: "Assembly Prep"
 slug: "assembly-prep"
 ---
 
-FarmBot Express and Express (XL) come 95% pre-assembled in the box, so assembly of the actual machine will only take about 1 hour. The following documentation pages provide step-by-step instructions for each part of the assembly process. Alternatively, you may watch this unboxing and assembly video:
+# Installation tips
+
+Watch the short video below to understand how to provide power, water, and an internet connection to your FarmBot in a safe a reliable way.
+
+{% include youtube.html id="6Ov1Uw1KJ-0" %}
+
+Because FarmBot Express and Express (XL) come 95% pre-assembled in the box, assembly of the actual machine will only take about 1 hour. The following documentation pages provide step-by-step instructions for each part of the assembly process. Alternatively, you may watch this unboxing and assembly video:
 
 {% include youtube.html id="cotIwIyNE4k" %}
 
