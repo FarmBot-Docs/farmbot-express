@@ -40,3 +40,8 @@ For (XL) sized devices, you will need an additional person to help with this ste
 # Step 7: Put everything in storage
 
 Move the gantry, power supply, and any other hardware into your preferred storage location.
+
+
+# What's next?
+
+ * [Thermal Management](thermal-management.md)

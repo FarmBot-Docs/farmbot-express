@@ -55,9 +55,15 @@ content="An **equalized gantry** is one that is exactly _perpendicular_ to the l
 A crooked or torqued gantry can cause creaking, extra wear, and introduce a high amount of friction into the system that might result in motor stalls. It also just looks bad."
 %}
 
-To equalize the gantry, first ensure that the x-axis motors are unpowered. For first time installation this will always be the case because we haven't yet added the wires or electronics! Then gently push or pull on the gantry **from the middle of the gantry main beam** such that it moves slowly along the raised bed about 30cm. This process will remove any torque on the gantry, and ensure it is not crooked. If you push or pull the gantry from one of the gantry columns, or anywhere that is not the middle of the main beam, then you will torque the gantry and make it crooked. Don't do that.
+To equalize the gantry, first ensure that the x-axis motors are unpowered. For first time installation this will always be the case because we haven't yet plugged everything in!
 
-If you were equalizing the gantry as part of routine maintenance, remember to <span class="fb-button fb-yellow">FIND HOME X</span> after equalization.
+Gently push or pull on the gantry **from the middle of the gantry main beam** such that it moves slowly along the raised bed about 30cm. This process will remove any torque on the gantry, and ensure it is not crooked. If you push or pull the gantry from one of the gantry columns, or anywhere that is not the middle of the main beam, then you will torque the gantry and make it crooked. _Don't do that!_
+
+{%
+include callout.html
+type="home"
+content="If you were equalizing the gantry as part of routine maintenance, remember to <span class='fb-button fb-yellow'>FIND HOME X</span> after equalization."
+%}
 
 # What's next?
 
