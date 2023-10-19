@@ -44,6 +44,19 @@ contents:
     pages:
       - title: CAD Models
         url: cad
+      - title: Maintenance
+        url: maintenance
+        pages:
+          - title: General Maintenance
+            url: general-maintenance
+          - title: Bed Maintenance
+            url: bed-maintenance
+          - title: Gantry Maintenance
+            url: gantry-maintenance
+          - title: Storing FarmBot for Winter
+            url: storing-farmbot-for-winter
+          - title: Thermal Management
+            url: thermal-management
       - title: Troubleshooting
         url: troubleshooting
         pages:
