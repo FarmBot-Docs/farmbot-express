@@ -160,7 +160,7 @@ content="If all has gone well, FarmBot will begin booting up and you should see 
 {%
 include callout.html
 type="warning"
-content="If anything seems not right, suspicious, or hazardous, **immediately unplug the power supply from the wall** and contact us at [support@farm.bot](mailto:support@farm.bot)."
+content="If anything seems not right, suspicious, or hazardous, **immediately unplug the power supply from the wall** and contact us at [contact@farm.bot](mailto:contact@farm.bot)."
 %}
 
 # What's next?
