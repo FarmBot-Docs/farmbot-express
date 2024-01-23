@@ -56,3 +56,11 @@ include callout.html
 type="warning"
 content="These changes will remove the ability for FarmBot to find axis length and find home along the z-axis. After implementing the changes, ensure you are not using the find home function for the z-axis in any of your sequences, such as in the boot sequence."
 %}
+
+# 5. Check the shaft coupler for slipping
+
+The aluminum [[shaft coupler]] connects the Z-axis [[motor]] to the [[leadscrew]] to allow FarmBot to move in the Z direction up and down depending on the rotation of the motor.
+
+Check to make sure that the shaft coupler is not slipping as it transfers rotational power from the motor to the leadscrew. If there is slipping, tighten the screws on the coupler. You may optionally use blue Loctite to prevent the screws from loosening over time.
+
+![shaft coupler screws](_images/shaft_coupler_screws.png)
